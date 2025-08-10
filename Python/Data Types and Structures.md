@@ -4,19 +4,19 @@
         
     - Floating-point numbers (`float`) — `pi = 3.14`
         
-    - Strings (`str`) — `"Hello World"`
+    - [[Strings]] (`str`) — `"Hello World"`
         
     - Booleans (`bool`) — `True`, `False`
         
 - **Data Structures**:
     
-    - **Lists** — Ordered, mutable: `my_list = [1, 2, 3]`
+    - [[List]] — Ordered, mutable: `my_list = [1, 2, 3]`
         
-    - **Tuples** — Ordered, immutable: `coords = (10, 20)`
+    - **[[Tuples]]** — Ordered, immutable: `coords = (10, 20)`
         
-    - **Sets** — Unordered, unique values: `{1, 2, 3}`
+    - **[[Sets]]** — Unordered, unique values: `{1, 2, 3}`
         
-    - **Dictionaries** — Key-value pairs: `{"name": "Dinesh", "age": 25}`
+    - **[[Dictionaries]]** — Key-value pairs: `{"name": "Dinesh", "age": 25}`
         
 - **Conversions**: `list()`, `dict()`, `set()`, `str()`
     
@@ -32,3 +32,8 @@ When to use them:
 | **Frozenset**                   | ❌ No                                                | ❌ No                                   | ❌ No                        | O(1) membership                        | Immutable set (safe for dictionary keys, caching scenarios)             | `fset = frozenset(["a", "b"])`      |
 | **Dictionary** (`{key: value}`) | ✅ Yes (insertion order preserved since Python 3.7+) | ✅ Yes (values mutable, keys immutable) | Keys must be unique         | O(1) average for key lookups           | Key-value mappings, configs, indexes, quick joins                       | `user = {"id": 1, "name": "Alice"}` |
 | **String** (`"abc"`)            | ✅ Yes                                               | ❌ No                                   | ✅ Yes                       | O(1) index access                      | Immutable text data, parsing, pattern matching                          | `s = "Hello"`                       |
+
+
+Example Code:
+
+
