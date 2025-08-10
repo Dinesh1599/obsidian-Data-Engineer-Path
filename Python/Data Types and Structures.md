@@ -35,7 +35,7 @@ When to use them:
 
 
 Example Code:
-```
+```python
 # Lists, Tuples, Sets, Dicts, Slicing, Mutability
 
 # Initial Pokémon data: List of tuples (name, [types])
