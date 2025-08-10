@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03bd96614a8bd02c",
+        "id": "b0e202117080289d",
         "type": "tabs",
         "children": [
           {
-            "id": "5db69cdf6f1ebf82",
+            "id": "7a6d5c25f15d7ce0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -143,13 +143,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "fe66c811f9ace1d1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,12 +168,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5db69cdf6f1ebf82",
+  "active": "7a6d5c25f15d7ce0",
   "lastOpenFiles": [
-    "Python/Untitled.md",
+    "Python/Data Types and Structures.md",
+    "Python/Data Types and Structures.md",
     "SQL",
     "ETL",
     "Welcome.md",
