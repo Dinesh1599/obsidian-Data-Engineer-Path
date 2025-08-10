@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b0e202117080289d",
+        "id": "741e92dfae913e1b",
         "type": "tabs",
         "children": [
           {
-            "id": "7a6d5c25f15d7ce0",
+            "id": "d248c58495e2c24f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -155,11 +155,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,10 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a6d5c25f15d7ce0",
+  "active": "d248c58495e2c24f",
   "lastOpenFiles": [
     "Python/Data Types and Structures.md",
-    "Python/Data Types and Structures.md",
+    "Python/List.md",
+    "Untitled.canvas",
     "SQL",
     "ETL",
     "Welcome.md",
