@@ -11,7 +11,6 @@ while i < 6:
 ```
 
 Additionals:
-
 Break:
 	breaks out of the while statement
 ```python
@@ -26,7 +25,7 @@ while i < 6:
 ```
 
 Continue
-	Basically 
+	Basically skips an iteration and continues with the loop
 ```python
 
 i = 0  
