@@ -41,3 +41,5 @@ print("\nHigh strength Pokémon:")
 print(high_strength)
 
 ```
+
+Makes the code looks a lot easier to understand and cleaner rather than having unnecessary functions just for 1 operation.
