@@ -41,3 +41,26 @@ b = 330
 print("A") if a > b else print("B")
 
 ```
+
+Logical Operators
+	1. AND - must accept both conditions
+	2. OR - returns true if one of the 2 conditions is true
+	3. NOT  - reverse the result
+
+
+PASS
+	put in the `pass` statement to avoid getting an error when you have an IF statement empty
+	
+
+#MATCH (the switch case of python)
+
+syntax:
+match expression:
+  case x:
+    code block
+  case y:
+    code block
+  case z:
+    code block
+case _ (unberscore):
+	if there is an _ : this is basically default value that is returned...
