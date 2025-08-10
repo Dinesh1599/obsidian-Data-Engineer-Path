@@ -35,5 +35,42 @@ When to use them:
 
 
 Example Code:
+```
+# Lists, Tuples, Sets, Dicts, Slicing, Mutability
 
+# Initial Pokémon data: List of tuples (name, [types])
+pokemon = [
+    ("Pikachu", ["Electric", "Electric"]),   # duplicate type on purpose
+    ("Bulbasaur", ["Grass", "Poison"]),
+    ("Charmander", ["Fire"]),
+]
 
+# Convert list to dict:
+# - Keys: Pokémon name
+# - Values: list of types (duplicates removed)
+# - dict.fromkeys(types) preserves order while removing duplicates
+pokedex = {name: list(dict.fromkeys(types)) for name, types in pokemon}
+
+# Access & update:
+# - Lists are mutable, so we can append to a type list directly
+pokedex["Pikachu"].append("Cute")
+
+# Slicing:
+# - Convert dict items to a list, take first two elements
+first_two = list(pokedex.items())[:2]
+
+# Tuples are immutable (good for fixed records)
+record = ("Squirtle", ("Water",))
+# record[1].append("Ice")  # ❌ would fail: tuple is immutable
+
+# Sets:
+# - Extract all unique types from the pokedex values
+# - Sets are unordered & store unique elements
+all_types = {t for types in pokedex.values() for t in types}
+
+print(pokedex)
+# {'Pikachu': ['Electric', 'Cute'], 'Bulbasaur': ['Grass', 'Poison'], 'Charmander': ['Fire']}
+
+print(all_types)
+# {'Poison', 'Fire', 'Grass', 'Cute', 'Electric'}
+```
