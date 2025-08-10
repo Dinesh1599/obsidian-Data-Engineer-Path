@@ -40,7 +40,7 @@ Example Code:
 
 # Initial Pokémon data: List of tuples (name, [types])
 pokemon = [
-    ("Pikachu", ["Electric", "Electric"]),   # duplicate type on purpose
+    ("Pikachu", ["Electric", "Electric"]), # duplicate type on purpose
     ("Bulbasaur", ["Grass", "Poison"]),
     ("Charmander", ["Fire"]),
 ]
