@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Data Types and Structures.md",
+                "file": "Python/Lambda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Types and Structures"
+              "title": "Lambda"
             }
           }
         ]
@@ -179,10 +179,11 @@
   "active": "6fc89f0a161692c9",
   "lastOpenFiles": [
     "Python/Functions.md",
+    "Python/Lambda.md",
+    "Python/For Loops.md",
     "Python/Data Types and Structures.md",
     "Python/Control Flow.md",
     "Python/while.md",
-    "Python/For Loops.md",
     "Python/If-Else.md",
     "Python/Sets.md",
     "If",
