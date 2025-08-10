@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,11 +174,12 @@
   },
   "active": "6fc89f0a161692c9",
   "lastOpenFiles": [
-    "while.md",
-    "Python/If-Else.md",
-    "Python/Control Flow.md",
-    "If",
+    "Python/For Loops.md",
     "Python/Data Types and Structures.md",
+    "Python/Control Flow.md",
+    "Python/while.md",
+    "Python/If-Else.md",
+    "If",
     "Python/Dictionaries.md",
     "Python/List.md",
     "Python/Sets.md",
