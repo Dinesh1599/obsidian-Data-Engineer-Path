@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Functions.md",
+                "file": "Python/Data Types and Structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functions"
+              "title": "Data Types and Structures"
             }
           }
         ]
@@ -180,11 +180,11 @@
   "lastOpenFiles": [
     "Python/Functions.md",
     "Python/Data Types and Structures.md",
-    "Python/Sets.md",
-    "Python/For Loops.md",
     "Python/Control Flow.md",
     "Python/while.md",
+    "Python/For Loops.md",
     "Python/If-Else.md",
+    "Python/Sets.md",
     "If",
     "Python/Dictionaries.md",
     "Python/List.md",
