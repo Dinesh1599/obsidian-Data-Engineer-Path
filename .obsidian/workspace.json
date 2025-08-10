@@ -11,10 +11,14 @@
             "id": "d248c58495e2c24f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Python/Data Types and Structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Types and Structures"
             }
           }
         ]
@@ -175,8 +179,9 @@
   },
   "active": "d248c58495e2c24f",
   "lastOpenFiles": [
-    "Python/Data Types and Structures.md",
+    "Python/Data Types.md",
     "Python/List.md",
+    "Python/Data Types and Structures.md",
     "Untitled.canvas",
     "SQL",
     "ETL",
