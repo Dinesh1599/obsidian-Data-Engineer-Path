@@ -90,7 +90,6 @@ When do we use them?
 - **`lambda`** → Ideal for **inline column transformations** in `df.apply()` or when defining small key functions for `sorted()` or `groupby()`.
 
 Good Example
-
 ```python
 
 def to_snake(s, *, lowercase=True):
