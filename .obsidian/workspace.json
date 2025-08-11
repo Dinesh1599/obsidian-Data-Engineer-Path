@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Functions.md",
+                "file": "Python/Error Handling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functions"
+              "title": "Error Handling"
             }
           }
         ]
@@ -178,9 +178,10 @@
   },
   "active": "6fc89f0a161692c9",
   "lastOpenFiles": [
+    "Python/Error Handling.md",
+    "Python/Functions.md",
     "Python/Lambda.md",
     "Python/If-Else.md",
-    "Python/Functions.md",
     "Python/Data Types and Structures.md",
     "Untitled.canvas",
     "Python/For Loops.md",
