@@ -88,3 +88,34 @@ When do we use them?
 ## ==A Data Engineer's perspective==
 - **`def`** → Ideal for **ETL steps, UDFs (user-defined functions) in Spark/Pandas**, and anything part of your core data flow.
 - **`lambda`** → Ideal for **inline column transformations** in `df.apply()` or when defining small key functions for `sorted()` or `groupby()`.
+
+Good Example
+
+```python
+
+def to_snake(s, *, lowercase=True):
+    """
+    Convert a string like 'Total Sales' -> 'total_sales'.
+    `lowercase` is keyword-only to avoid accidental positional use.
+    """
+    out = "_".join(s.split())
+    return out.lower() if lowercase else out
+
+def summarize_metrics(*values, precision=2, **labels):
+    """
+    Accepts:
+      *values -> numeric metrics
+      precision -> rounding
+      **labels -> arbitrary label=value metadata (e.g., env='prod')
+    Returns dict with summary and labels merged.
+    """
+    avg = round(sum(values) / len(values), precision) if values else None
+    info = {"count": len(values), "avg": avg}
+    info.update(labels)
+    return info
+
+print(to_snake("Total Sales"))
+print(summarize_metrics(10, 20, 30, precision=1, env="prod", team="data"))
+
+
+```

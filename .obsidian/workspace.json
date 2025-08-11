@@ -11,10 +11,14 @@
             "id": "6fc89f0a161692c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Python/Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Functions"
             }
           }
         ]
@@ -175,13 +179,13 @@
   "active": "6fc89f0a161692c9",
   "lastOpenFiles": [
     "Python/Lambda.md",
-    "Untitled.canvas",
+    "Python/If-Else.md",
     "Python/Functions.md",
-    "Python/For Loops.md",
     "Python/Data Types and Structures.md",
+    "Untitled.canvas",
+    "Python/For Loops.md",
     "Python/Control Flow.md",
     "Python/while.md",
-    "Python/If-Else.md",
     "Python/Sets.md",
     "If",
     "Python/Dictionaries.md",
