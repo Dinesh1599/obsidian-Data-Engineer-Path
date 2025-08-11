@@ -117,3 +117,9 @@ print(to_snake("Total Sales"))
 print(summarize_metrics(10, 20, 30, precision=1, env="prod", team="data"))
 
 ```
+
+## **`*` (asterisk)**
+- This means:
+    > **Everything after the `*` ==must be passed as keyword arguments** (not positionally).==
+- This is called a **keyword-only argument marker**.
+- It prevents mistakes where someone might pass arguments in the wrong order.
