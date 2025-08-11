@@ -95,7 +95,7 @@ Good Example
 
 def to_snake(s, *, lowercase=True):
     """
-    Convert a string like 'Total Sales' -> 'total_sales'.
+    Convert a string like 'Total Sales' to 'total_sales'.
     `lowercase` is keyword-only to avoid accidental positional use.
     """
     out = "_".join(s.split())
@@ -110,12 +110,11 @@ def summarize_metrics(*values, precision=2, **labels):
     Returns dict with summary and labels merged.
     """
     avg = round(sum(values) / len(values), precision) if values else None
-    info = {"count": len(values), "avg": avg}
+    info = {"count": len(values), "avg": avg} 
     info.update(labels)
     return info
 
 print(to_snake("Total Sales"))
 print(summarize_metrics(10, 20, 30, precision=1, env="prod", team="data"))
-
 
 ```
