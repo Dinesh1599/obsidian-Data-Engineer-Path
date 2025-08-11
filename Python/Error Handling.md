@@ -58,7 +58,6 @@ else:
 
 
 Raise: Type your own exception (Basically, custom exceptions)
-
 ```python
 
 class DataValidationError(Exception):
@@ -73,6 +72,34 @@ try:
     process_record({"name": "Pikachu"})
 except DataValidationError as e:
     print(f"❌ Validation failed: {e}")
+
+
+```
+
+
+Example with everything in it:
+```python
+
+class BadRecord(Exception):
+    """Raised when a record is missing required fields."""
+
+def parse_record(rec):
+    try:
+        user = rec["user_id"]
+        amount = float(rec.get("amount", 0))
+    except KeyError as e:
+        raise BadRecord(f"Missing field: {e}") from e
+    except ValueError:
+        raise BadRecord("Amount must be numeric")
+    else:
+        return {"user_id": user, "amount": amount}
+    finally:
+        # Useful for cleanup (closing files, db cursors, etc.)
+        pass
+
+# Example usage
+raw = {"user_id": 42, "amount": "19.99"}
+print(parse_record(raw))  # {'user_id': 42, 'amount': 19.99}
 
 
 ```
