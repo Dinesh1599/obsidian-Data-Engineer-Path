@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"35697cf500159b01","x":-2100,"y":-2514,"width":250,"height":60,"type":"text","text":" Busines Understanding"},
+		{"id":"9c9523fc6ee1f82f","x":-1780,"y":-2514,"width":250,"height":60,"type":"text","text":"Data Understanding\n"},
+		{"id":"016e028f6a15bb4d","x":-1480,"y":-2514,"width":250,"height":60,"type":"text","text":"Data Connection\n"},
+		{"id":"5a101541408ab382","x":-1190,"y":-2514,"width":250,"height":60,"type":"text","text":"Data Preparation"},
+		{"id":"63776a3057073a40","x":-1620,"y":-2720,"width":265,"height":60,"color":"3","type":"text","text":"Solving a Data Analytics problem"},
+		{"id":"f209400bda5ddb1e","x":-900,"y":-2515,"width":197,"height":61,"type":"text","text":"Clean Data\n"}
+	],
+	"edges":[
+		{"id":"2711dc7e21d8410b","fromNode":"35697cf500159b01","fromSide":"right","toNode":"9c9523fc6ee1f82f","toSide":"left"},
+		{"id":"aca905d2c606fe04","fromNode":"9c9523fc6ee1f82f","fromSide":"right","toNode":"016e028f6a15bb4d","toSide":"left"},
+		{"id":"eb0f78fcd87bf687","fromNode":"016e028f6a15bb4d","fromSide":"right","toNode":"5a101541408ab382","toSide":"left"},
+		{"id":"24bbeea5e0af86b8","fromNode":"5a101541408ab382","fromSide":"right","toNode":"f209400bda5ddb1e","toSide":"left"}
+	]
+}

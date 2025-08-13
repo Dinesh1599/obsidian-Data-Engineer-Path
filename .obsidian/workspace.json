@@ -11,14 +11,17 @@
             "id": "6fc89f0a161692c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Python/Error Handling.md",
-                "mode": "source",
-                "source": false
+                "file": "EDA/EDA Flow.canvas",
+                "viewState": {
+                  "x": -1487.5,
+                  "y": -2597,
+                  "zoom": -0.6666666666666666
+                }
               },
-              "icon": "lucide-file",
-              "title": "Error Handling"
+              "icon": "lucide-layout-dashboard",
+              "title": "EDA Flow"
             }
           }
         ]
@@ -169,8 +172,8 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
@@ -178,12 +181,13 @@
   },
   "active": "6fc89f0a161692c9",
   "lastOpenFiles": [
+    "Python/Error Handling.md",
+    "EDA/EDA Flow.canvas",
+    "EDA",
     "Python/Functions.md",
     "Python/Lambda.md",
-    "Python/Error Handling.md",
     "Python/If-Else.md",
     "Python/Data Types and Structures.md",
-    "Untitled.canvas",
     "Python/For Loops.md",
     "Python/Control Flow.md",
     "Python/while.md",
