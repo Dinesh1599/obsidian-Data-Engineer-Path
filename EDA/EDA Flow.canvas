@@ -1,16 +1,34 @@
 {
 	"nodes":[
-		{"id":"35697cf500159b01","x":-2100,"y":-2514,"width":250,"height":60,"type":"text","text":" Busines Understanding"},
-		{"id":"9c9523fc6ee1f82f","x":-1780,"y":-2514,"width":250,"height":60,"type":"text","text":"Data Understanding\n"},
-		{"id":"016e028f6a15bb4d","x":-1480,"y":-2514,"width":250,"height":60,"type":"text","text":"Data Connection\n"},
-		{"id":"5a101541408ab382","x":-1190,"y":-2514,"width":250,"height":60,"type":"text","text":"Data Preparation"},
-		{"id":"63776a3057073a40","x":-1620,"y":-2720,"width":265,"height":60,"color":"3","type":"text","text":"Solving a Data Analytics problem"},
-		{"id":"f209400bda5ddb1e","x":-900,"y":-2515,"width":197,"height":61,"type":"text","text":"Clean Data\n"}
+		{"id":"9e93335862d228fe","x":-2560,"y":-3300,"width":1317,"height":520,"type":"group","label":"Data Analytics Process"},
+		{"id":"6f5068079ec14c4e","type":"group","x":-2560,"y":-3540,"width":1317,"height":101,"label":"Solving a Data Analytics problem"},
+		{"id":"9c9523fc6ee1f82f","type":"text","text":"Data Understanding\n","x":-2270,"y":-3520,"width":250,"height":60},
+		{"id":"016e028f6a15bb4d","type":"text","text":"Data Connection\n","x":-2000,"y":-3520,"width":250,"height":60},
+		{"id":"5a101541408ab382","type":"text","text":"Data Preparation","x":-1730,"y":-3520,"width":250,"height":60},
+		{"id":"f209400bda5ddb1e","type":"text","text":"Clean Data\n","x":-1460,"y":-3520,"width":197,"height":61},
+		{"id":"35697cf500159b01","type":"text","text":" Busines Understanding","x":-2540,"y":-3520,"width":187,"height":60},
+		{"id":"a28665531b8ff170","x":-2540,"y":-3180,"width":250,"height":60,"type":"text","text":"Raw Data collected"},
+		{"id":"64581c20415632f6","x":-2239,"y":-3180,"width":250,"height":60,"type":"text","text":"Data is processed\n"},
+		{"id":"fa9aae6d69c5f2b1","x":-1949,"y":-3180,"width":250,"height":60,"type":"text","text":"Clean Dataset"},
+		{"id":"e4d9138842b0cbff","x":-1580,"y":-3080,"width":250,"height":60,"type":"text","text":"Model and Algorithm"},
+		{"id":"8b6aeafe12f25def","x":-1580,"y":-3280,"width":250,"height":60,"type":"text","text":"Exploratory Data Analysis"},
+		{"id":"729bfa68b5da2b05","x":-2290,"y":-2867,"width":250,"height":60,"type":"text","text":"Data product"},
+		{"id":"84859d50811dddc2","x":-1969,"y":-2867,"width":250,"height":60,"type":"text","text":"Visualization"},
+		{"id":"4ca3a288e16fdc30","x":-1634,"y":-2867,"width":250,"height":60,"type":"text","text":"Decision Making"}
 	],
 	"edges":[
 		{"id":"2711dc7e21d8410b","fromNode":"35697cf500159b01","fromSide":"right","toNode":"9c9523fc6ee1f82f","toSide":"left"},
 		{"id":"aca905d2c606fe04","fromNode":"9c9523fc6ee1f82f","fromSide":"right","toNode":"016e028f6a15bb4d","toSide":"left"},
 		{"id":"eb0f78fcd87bf687","fromNode":"016e028f6a15bb4d","fromSide":"right","toNode":"5a101541408ab382","toSide":"left"},
-		{"id":"24bbeea5e0af86b8","fromNode":"5a101541408ab382","fromSide":"right","toNode":"f209400bda5ddb1e","toSide":"left"}
+		{"id":"24bbeea5e0af86b8","fromNode":"5a101541408ab382","fromSide":"right","toNode":"f209400bda5ddb1e","toSide":"left"},
+		{"id":"d36911ec66e38003","fromNode":"a28665531b8ff170","fromSide":"right","toNode":"64581c20415632f6","toSide":"left"},
+		{"id":"07269c8326623e2f","fromNode":"64581c20415632f6","fromSide":"right","toNode":"fa9aae6d69c5f2b1","toSide":"left"},
+		{"id":"93bbd059f865773b","fromNode":"fa9aae6d69c5f2b1","fromSide":"right","toNode":"8b6aeafe12f25def","toSide":"left"},
+		{"id":"c9c4c3d8fa151bf3","fromNode":"fa9aae6d69c5f2b1","fromSide":"right","toNode":"e4d9138842b0cbff","toSide":"left"},
+		{"id":"d52908c0c4e1ee42","fromNode":"8b6aeafe12f25def","fromSide":"bottom","toNode":"e4d9138842b0cbff","toSide":"top"},
+		{"id":"6cb4bddb4a9df2a0","fromNode":"8b6aeafe12f25def","fromSide":"left","toNode":"64581c20415632f6","toSide":"top"},
+		{"id":"68a38d8f6655d743","fromNode":"e4d9138842b0cbff","fromSide":"bottom","toNode":"729bfa68b5da2b05","toSide":"top"},
+		{"id":"738a5ea511ba0e9c","fromNode":"84859d50811dddc2","fromSide":"right","toNode":"4ca3a288e16fdc30","toSide":"left"},
+		{"id":"0369b8d43d198cc0","fromNode":"e4d9138842b0cbff","fromSide":"bottom","toNode":"84859d50811dddc2","toSide":"top"}
 	]
 }

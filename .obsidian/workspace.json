@@ -15,9 +15,9 @@
               "state": {
                 "file": "EDA/EDA Flow.canvas",
                 "viewState": {
-                  "x": -1487.5,
-                  "y": -2597,
-                  "zoom": -0.6666666666666666
+                  "x": -1898.1595201287475,
+                  "y": -2934.3374831246447,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 827.5
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
