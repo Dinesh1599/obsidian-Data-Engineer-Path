@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"9e93335862d228fe","x":-2560,"y":-3300,"width":1317,"height":520,"type":"group","label":"Data Analytics Process"},
+		{"id":"9e93335862d228fe","x":-2560,"y":-3320,"width":1317,"height":540,"type":"group","label":"Data Analytics Process"},
 		{"id":"6f5068079ec14c4e","type":"group","x":-2560,"y":-3540,"width":1317,"height":101,"label":"Solving a Data Analytics problem"},
 		{"id":"9c9523fc6ee1f82f","type":"text","text":"Data Understanding\n","x":-2270,"y":-3520,"width":250,"height":60},
 		{"id":"016e028f6a15bb4d","type":"text","text":"Data Connection\n","x":-2000,"y":-3520,"width":250,"height":60},
@@ -26,7 +26,7 @@
 		{"id":"93bbd059f865773b","fromNode":"fa9aae6d69c5f2b1","fromSide":"right","toNode":"8b6aeafe12f25def","toSide":"left"},
 		{"id":"c9c4c3d8fa151bf3","fromNode":"fa9aae6d69c5f2b1","fromSide":"right","toNode":"e4d9138842b0cbff","toSide":"left"},
 		{"id":"d52908c0c4e1ee42","fromNode":"8b6aeafe12f25def","fromSide":"bottom","toNode":"e4d9138842b0cbff","toSide":"top"},
-		{"id":"6cb4bddb4a9df2a0","fromNode":"8b6aeafe12f25def","fromSide":"left","toNode":"64581c20415632f6","toSide":"top"},
+		{"id":"6cb4bddb4a9df2a0","fromNode":"8b6aeafe12f25def","fromSide":"left","toNode":"64581c20415632f6","toSide":"top","label":"if data has to be processed (remove some unnecessary data)"},
 		{"id":"68a38d8f6655d743","fromNode":"e4d9138842b0cbff","fromSide":"bottom","toNode":"729bfa68b5da2b05","toSide":"top"},
 		{"id":"738a5ea511ba0e9c","fromNode":"84859d50811dddc2","fromSide":"right","toNode":"4ca3a288e16fdc30","toSide":"left"},
 		{"id":"0369b8d43d198cc0","fromNode":"e4d9138842b0cbff","fromSide":"bottom","toNode":"84859d50811dddc2","toSide":"top"}
