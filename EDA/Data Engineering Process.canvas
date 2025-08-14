@@ -1,18 +1,23 @@
 {
 	"nodes":[
+		{"id":"4e8571b128edcd3d","x":-352,"y":-1280,"width":1421,"height":415,"type":"group","label":"Data preprocessing"},
 		{"id":"fc77e61362f0a6e6","type":"group","x":-340,"y":-1600,"width":1439,"height":252,"label":"File import method"},
 		{"id":"fc5e32ce5468478b","type":"text","text":"#\n# JSON file\ndf = pd.read_json(\"data.json\")\n\n# JSON from URL\ndf = pd.read_json(\"https://api.example.com/data.json\")\n","x":239,"y":-1580,"width":264,"height":212},
 		{"id":"f28947a1949d4138","type":"text","text":"# Parquet File\n\ndf = pd.read_parquet(\"data.parquet\")","x":529,"y":-1580,"width":250,"height":212},
 		{"id":"366ab8bcc8a55ee8","type":"text","text":"Database\n\nimport sqlite3\n\n# Connect to SQLite\nconn = sqlite3.connect(\"database.db\")\n\n# Read from a table\ndf = pd.read_sql(\"SELECT * FROM my_table\", conn)\n","x":799,"y":-1580,"width":280,"height":212},
 		{"id":"54d7738a79627da0","type":"text","text":"# Basic CSV\ndf = pd.read_csv(\"data.csv\")\n\n# With custom delimiter\ndf = pd.read_csv(\"data.csv\", sep=\";\")\n\n# Read from a URL\ndf = pd.read_csv(\"https://people.sc.fsu.edu/~jburkardt/data/csv/airtravel.csv\")","x":-320,"y":-1580,"width":259,"height":212},
 		{"id":"bcb6cc2dfb4c77e5","type":"text","text":"# Excel File\n\ndf = pd.read_excel(\"data.xlsx\", sheet_name=\"Sheet1\")","x":-41,"y":-1580,"width":260,"height":212},
-		{"id":"25f0cc5f31b58bbb","type":"text","text":"# Columns\n\n1. Columns\n\t1. df.columns()\n2. length of columns\n\t1. len(df.columns)\n3. ","x":-332,"y":-1280,"width":271,"height":113},
-		{"id":"2bd147b5eb23ca18","type":"text","text":"## Data info\ndf.info()\ndf.describe()","x":-41,"y":-1280,"width":250,"height":113},
-		{"id":"f84ca75398bcec72","type":"text","text":"selecting particular dtypes\neg:\nnumerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']\nnumeric_df = df.select_dtypes(include=numerics)","x":219,"y":-1280,"width":285,"height":113},
-		{"id":"d9b9ff15001a29cd","type":"text","text":"Null Value\ndf.isnull\n\nto count no of missing values for each column\ndf.isnull().sum()","x":529,"y":-1280,"width":250,"height":113},
-		{"id":"59b75979adbd2bb8","type":"text","text":"import pandas as pd\nimport numpy as np","x":254,"y":-1700,"width":250,"height":60}
+		{"id":"59b75979adbd2bb8","type":"text","text":"import pandas as pd\nimport numpy as np","x":254,"y":-1700,"width":250,"height":60},
+		{"id":"2bd147b5eb23ca18","type":"text","text":"## Data info\ndf.info()\ndf.describe()","x":-42,"y":-1280,"width":250,"height":113},
+		{"id":"f84ca75398bcec72","type":"text","text":"selecting particular dtypes\neg:\nnumerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']\nnumeric_df = df.select_dtypes(include=numerics)","x":218,"y":-1280,"width":285,"height":113},
+		{"id":"d9b9ff15001a29cd","type":"text","text":"Null Value\ndf.isnull\n\nto count no of missing values for each column\ndf.isnull().sum()","x":528,"y":-1280,"width":250,"height":113},
+		{"id":"ae21fcaaf2fb3686","x":798,"y":-1280,"width":250,"height":113,"type":"text","text":"Unique Values\ndf['variable_name'].unique()"},
+		{"id":"25f0cc5f31b58bbb","type":"text","text":"# Columns\n\n1. Columns\n\t1. df.columns()\n2. length of columns\n\t1. len(df.columns)\n3. ","x":-333,"y":-1280,"width":271,"height":113},
+		{"id":"3e04baffe76d9b0a","x":-333,"y":-1140,"width":421,"height":255,"type":"text","text":"Replace Data\nTo replace special characters(say here ‘?’) from the data if resulting in noise or incorrect information\n\tdf[‘variable_name1’]=df[‘variable_name1’].replace(‘?’, np.NaN)\n\nTo change the datatype to float \n\tdf[‘variable_name1’]=df[‘variable_name1’]. astype(‘float64’)"},
+		{"id":"ee4841002fdcf09b","x":-333,"y":-800,"width":250,"height":258,"type":"text","text":""}
 	],
 	"edges":[
-		{"id":"22245b3ceeddb32c","fromNode":"59b75979adbd2bb8","fromSide":"bottom","toNode":"fc77e61362f0a6e6","toSide":"top"}
+		{"id":"22245b3ceeddb32c","fromNode":"59b75979adbd2bb8","fromSide":"bottom","toNode":"fc77e61362f0a6e6","toSide":"top"},
+		{"id":"36c3b012be0d569e","fromNode":"fc77e61362f0a6e6","fromSide":"bottom","toNode":"4e8571b128edcd3d","toSide":"top"}
 	]
 }
