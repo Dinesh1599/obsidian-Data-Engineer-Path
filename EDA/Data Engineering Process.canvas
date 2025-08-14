@@ -14,7 +14,8 @@
 		{"id":"ae21fcaaf2fb3686","x":798,"y":-1280,"width":250,"height":113,"type":"text","text":"Unique Values\ndf['variable_name'].unique()"},
 		{"id":"25f0cc5f31b58bbb","type":"text","text":"# Columns\n\n1. Columns\n\t1. df.columns()\n2. length of columns\n\t1. len(df.columns)\n3. ","x":-333,"y":-1280,"width":271,"height":113},
 		{"id":"3e04baffe76d9b0a","x":-333,"y":-1140,"width":421,"height":255,"type":"text","text":"Replace Data\nTo replace special characters(say here ‘?’) from the data if resulting in noise or incorrect information\n\tdf[‘variable_name1’]=df[‘variable_name1’].replace(‘?’, np.NaN)\n\nTo change the datatype to float \n\tdf[‘variable_name1’]=df[‘variable_name1’]. astype(‘float64’)"},
-		{"id":"ee4841002fdcf09b","x":-333,"y":-800,"width":250,"height":258,"type":"text","text":""}
+		{"id":"ee4841002fdcf09b","x":-333,"y":-800,"width":250,"height":258,"type":"text","text":"IF missing values\n**Drop:** `df.dropna()`\n\n- Numerical: Mean/median (`df.fillna(df['col'].mean())`)\n    \n- Categorical: Mode (`df.fillna(df['col'].mode()[0])`)\n\n"},
+		{"id":"8bdafa5bb5c0b971","x":114,"y":-1140,"width":250,"height":161,"type":"text","text":"To check the the complete row as per location df.iloc[location number]"}
 	],
 	"edges":[
 		{"id":"22245b3ceeddb32c","fromNode":"59b75979adbd2bb8","fromSide":"bottom","toNode":"fc77e61362f0a6e6","toSide":"top"},
