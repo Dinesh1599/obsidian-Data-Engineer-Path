@@ -15,9 +15,9 @@
               "state": {
                 "file": "EDA/Data Engineering Process.canvas",
                 "viewState": {
-                  "x": 98,
-                  "y": -461,
-                  "zoom": 0
+                  "x": -267.5,
+                  "y": -887,
+                  "zoom": -0.6666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 200
   },
   "right": {
     "id": "07442132946b28e0",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,9 +181,9 @@
   },
   "active": "6fc89f0a161692c9",
   "lastOpenFiles": [
+    "EDA/EDA.md",
     "EDA/EDA Flow.canvas",
     "EDA/Data Engineering Process.canvas",
-    "EDA/EDA.md",
     "Python/Error Handling.md",
     "EDA",
     "Python/Functions.md",

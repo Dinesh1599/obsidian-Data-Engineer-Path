@@ -7,10 +7,10 @@
 		{"id":"016e028f6a15bb4d","type":"text","text":"Data Connection\n","x":-2020,"y":-4260,"width":250,"height":60},
 		{"id":"5a101541408ab382","type":"text","text":"Data Preparation","x":-1750,"y":-4260,"width":250,"height":60},
 		{"id":"f209400bda5ddb1e","type":"text","text":"Clean Data\n","x":-1480,"y":-4260,"width":197,"height":61},
-		{"id":"fa9aae6d69c5f2b1","type":"text","text":"Clean Dataset","x":-1969,"y":-3920,"width":250,"height":60},
 		{"id":"e4d9138842b0cbff","type":"text","text":"Model and Algorithm","x":-1600,"y":-3820,"width":250,"height":60},
 		{"id":"8b6aeafe12f25def","type":"text","text":"Exploratory Data Analysis","x":-1600,"y":-4020,"width":250,"height":60},
 		{"id":"a28665531b8ff170","type":"text","text":"Raw Data collected","x":-2560,"y":-3920,"width":250,"height":60},
+		{"id":"fa9aae6d69c5f2b1","type":"text","text":"Clean Dataset","x":-1969,"y":-3920,"width":250,"height":60},
 		{"id":"64581c20415632f6","type":"text","text":"Data is processed\n","x":-2259,"y":-3920,"width":250,"height":60},
 		{"id":"729bfa68b5da2b05","type":"text","text":"Data product","x":-2310,"y":-3607,"width":250,"height":60},
 		{"id":"84859d50811dddc2","type":"text","text":"Visualization","x":-1989,"y":-3607,"width":250,"height":60},
@@ -30,6 +30,6 @@
 		{"id":"68a38d8f6655d743","fromNode":"e4d9138842b0cbff","fromSide":"bottom","toNode":"729bfa68b5da2b05","toSide":"top"},
 		{"id":"738a5ea511ba0e9c","fromNode":"84859d50811dddc2","fromSide":"right","toNode":"4ca3a288e16fdc30","toSide":"left"},
 		{"id":"0369b8d43d198cc0","fromNode":"e4d9138842b0cbff","fromSide":"bottom","toNode":"84859d50811dddc2","toSide":"top"},
-		{"id":"eaf43cbfc1c4a473","fromNode":"f209400bda5ddb1e","fromSide":"bottom","toNode":"8b6aeafe12f25def","toSide":"top"}
+		{"id":"eaf43cbfc1c4a473","fromNode":"f209400bda5ddb1e","fromSide":"bottom","toNode":"8b6aeafe12f25def","toSide":"top","toEnd":"none"}
 	]
 }
