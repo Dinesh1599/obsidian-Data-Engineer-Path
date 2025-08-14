@@ -10,3 +10,6 @@ Exploratory Data Analysis (EDA) is the process of examining datasets to understa
 - Create quick, initial models (baseline models) for comparison against future, more refined models.
 
 Overall, EDA is a foundational step in data analysis that bridges raw data exploration and advanced modeling.
+
+[[Data Engineering Process.canvas|Data Engineering Process]]
+[[EDA Flow.canvas|EDA Flow]]

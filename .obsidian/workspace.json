@@ -11,17 +11,10 @@
             "id": "6fc89f0a161692c9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "EDA/Data Engineering Process.canvas",
-                "viewState": {
-                  "x": 629.2763701918486,
-                  "y": -542.0636801616789,
-                  "zoom": -0.6666666666666665
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Data Engineering Process"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -181,12 +174,12 @@
   },
   "active": "6fc89f0a161692c9",
   "lastOpenFiles": [
+    "EDA/EDA.md",
+    "EDA/Data Engineering Process.canvas",
     "Pasted image 20250814032230.png",
     "Pasted image 20250814032132.png",
     "Pasted image 20250814032054.png",
-    "EDA/EDA.md",
     "EDA/EDA Flow.canvas",
-    "EDA/Data Engineering Process.canvas",
     "Python/Error Handling.md",
     "EDA",
     "Python/Functions.md",
