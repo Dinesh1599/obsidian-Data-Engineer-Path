@@ -11,14 +11,17 @@
             "id": "6fc89f0a161692c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "EDA/EDA.md",
-                "mode": "source",
-                "source": false
+                "file": "EDA/EDA Flow.canvas",
+                "viewState": {
+                  "x": -1921.5,
+                  "y": -3404,
+                  "zoom": -0.5
+                }
               },
-              "icon": "lucide-file",
-              "title": "EDA"
+              "icon": "lucide-layout-dashboard",
+              "title": "EDA Flow"
             }
           }
         ]
