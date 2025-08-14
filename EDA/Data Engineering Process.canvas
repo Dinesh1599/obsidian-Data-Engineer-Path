@@ -9,7 +9,7 @@
 		{"id":"25f0cc5f31b58bbb","type":"text","text":"# Columns\n\n1. Columns\n\t1. df.columns()\n2. length of columns\n\t1. len(df.columns)\n3. ","x":-332,"y":-1280,"width":271,"height":113},
 		{"id":"2bd147b5eb23ca18","type":"text","text":"## Data info\ndf.info()\ndf.describe()","x":-41,"y":-1280,"width":250,"height":113},
 		{"id":"f84ca75398bcec72","type":"text","text":"selecting particular dtypes\neg:\nnumerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']\nnumeric_df = df.select_dtypes(include=numerics)","x":219,"y":-1280,"width":285,"height":113},
-		{"id":"d9b9ff15001a29cd","type":"text","text":"Null Value\ndf.isnull\n\nto count each value\ndf.isnull().sum()","x":529,"y":-1280,"width":250,"height":113},
+		{"id":"d9b9ff15001a29cd","type":"text","text":"Null Value\ndf.isnull\n\nto count no of missing values for each column\ndf.isnull().sum()","x":529,"y":-1280,"width":250,"height":113},
 		{"id":"59b75979adbd2bb8","type":"text","text":"import pandas as pd\nimport numpy as np","x":254,"y":-1700,"width":250,"height":60}
 	],
 	"edges":[
