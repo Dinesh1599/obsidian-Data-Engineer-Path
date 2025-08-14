@@ -8,8 +8,8 @@
 		{"id":"bcb6cc2dfb4c77e5","type":"text","text":"# Excel File\n\ndf = pd.read_excel(\"data.xlsx\", sheet_name=\"Sheet1\")","x":-41,"y":-1580,"width":260,"height":212},
 		{"id":"25f0cc5f31b58bbb","type":"text","text":"# Columns\n\n1. Columns\n\t1. df.columns()\n2. length of columns\n\t1. len(df.columns)\n3. ","x":-332,"y":-1280,"width":271,"height":113},
 		{"id":"2bd147b5eb23ca18","type":"text","text":"## Data info\ndf.info()\ndf.describe()","x":-41,"y":-1280,"width":250,"height":113},
-		{"id":"f84ca75398bcec72","type":"text","text":"selecting particular dtypes\neg:\nnumerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']\nnumeric_df = df.select_dtypes(include=numerics)","x":219,"y":-1280,"width":310,"height":113},
-		{"id":"d9b9ff15001a29cd","type":"text","text":"Null Value\ndf.isnull\n\nto count each value\ndf.isnull().sum()","x":549,"y":-1280,"width":250,"height":113},
+		{"id":"f84ca75398bcec72","type":"text","text":"selecting particular dtypes\neg:\nnumerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']\nnumeric_df = df.select_dtypes(include=numerics)","x":219,"y":-1280,"width":285,"height":113},
+		{"id":"d9b9ff15001a29cd","type":"text","text":"Null Value\ndf.isnull\n\nto count each value\ndf.isnull().sum()","x":529,"y":-1280,"width":250,"height":113},
 		{"id":"59b75979adbd2bb8","type":"text","text":"import pandas as pd\nimport numpy as np","x":254,"y":-1700,"width":250,"height":60}
 	],
 	"edges":[
