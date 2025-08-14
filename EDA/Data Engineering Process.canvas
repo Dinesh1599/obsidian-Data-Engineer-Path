@@ -9,7 +9,8 @@
 		{"id":"59b75979adbd2bb8","type":"text","text":"import pandas as pd\nimport numpy as np","x":-26,"y":-1300,"width":250,"height":60},
 		{"id":"2bd147b5eb23ca18","x":-321,"y":-880,"width":250,"height":113,"type":"text","text":"## Data info\ndf.info()\ndf.describe()"},
 		{"id":"f84ca75398bcec72","x":-61,"y":-880,"width":310,"height":113,"type":"text","text":"selecting particular dtypes\neg:\nnumerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']\nnumeric_df = df.select_dtypes(include=numerics)"},
-		{"id":"25f0cc5f31b58bbb","x":-612,"y":-880,"width":271,"height":113,"type":"text","text":"# Columns\n\n1. Columns\n\t1. df.columns()\n2. length of columns\n\t1. len(df.columns)\n3. "}
+		{"id":"25f0cc5f31b58bbb","x":-612,"y":-880,"width":271,"height":113,"type":"text","text":"# Columns\n\n1. Columns\n\t1. df.columns()\n2. length of columns\n\t1. len(df.columns)\n3. "},
+		{"id":"d9b9ff15001a29cd","x":269,"y":-880,"width":250,"height":113,"type":"text","text":"Null Value\ndf.isnull\n\nto count each value\ndf.isnull().sum()"}
 	],
 	"edges":[
 		{"id":"22245b3ceeddb32c","fromNode":"59b75979adbd2bb8","fromSide":"bottom","toNode":"fc77e61362f0a6e6","toSide":"top"}
