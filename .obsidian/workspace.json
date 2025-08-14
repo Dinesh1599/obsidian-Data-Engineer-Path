@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "EDA/EDA Flow.canvas",
+                "file": "EDA/Data Engineering Process.canvas",
                 "viewState": {
-                  "x": -1921.5,
-                  "y": -3404,
-                  "zoom": -0.5
+                  "x": 98,
+                  "y": -461,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "EDA Flow"
+              "title": "Data Engineering Process"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "6fc89f0a161692c9",
   "lastOpenFiles": [
-    "EDA/EDA.md",
     "EDA/EDA Flow.canvas",
+    "EDA/Data Engineering Process.canvas",
+    "EDA/EDA.md",
     "Python/Error Handling.md",
     "EDA",
     "Python/Functions.md",
