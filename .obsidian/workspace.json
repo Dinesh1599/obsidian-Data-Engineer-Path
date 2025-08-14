@@ -15,9 +15,9 @@
               "state": {
                 "file": "EDA/Data Engineering Process.canvas",
                 "viewState": {
-                  "x": 789.1170461858096,
-                  "y": 399.7766565358049,
-                  "zoom": -0.3333333333333332
+                  "x": 629.2763701918486,
+                  "y": -542.0636801616789,
+                  "zoom": -0.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -181,6 +181,9 @@
   },
   "active": "6fc89f0a161692c9",
   "lastOpenFiles": [
+    "Pasted image 20250814032230.png",
+    "Pasted image 20250814032132.png",
+    "Pasted image 20250814032054.png",
     "EDA/EDA.md",
     "EDA/EDA Flow.canvas",
     "EDA/Data Engineering Process.canvas",
