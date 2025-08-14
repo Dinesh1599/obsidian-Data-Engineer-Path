@@ -7,9 +7,9 @@
 		{"id":"fc5e32ce5468478b","type":"text","text":"#\n# JSON file\ndf = pd.read_json(\"data.json\")\n\n# JSON from URL\ndf = pd.read_json(\"https://api.example.com/data.json\")\n","x":-41,"y":-1180,"width":264,"height":212},
 		{"id":"366ab8bcc8a55ee8","type":"text","text":"Database\n\nimport sqlite3\n\n# Connect to SQLite\nconn = sqlite3.connect(\"database.db\")\n\n# Read from a table\ndf = pd.read_sql(\"SELECT * FROM my_table\", conn)\n","x":519,"y":-1180,"width":280,"height":212},
 		{"id":"59b75979adbd2bb8","type":"text","text":"import pandas as pd\nimport numpy as np","x":-26,"y":-1300,"width":250,"height":60},
-		{"id":"25f0cc5f31b58bbb","x":-606,"y":-880,"width":271,"height":113,"type":"text","text":"# Columns\n\n1. Columns\n\t1. df.columns()\n2. length of columns\n\t1. len(df.columns)\n3. "},
 		{"id":"2bd147b5eb23ca18","x":-321,"y":-880,"width":250,"height":113,"type":"text","text":"## Data info\ndf.info()\ndf.describe()"},
-		{"id":"f84ca75398bcec72","x":-61,"y":-880,"width":250,"height":113,"type":"text","text":""}
+		{"id":"f84ca75398bcec72","x":-61,"y":-880,"width":310,"height":113,"type":"text","text":"selecting particular dtypes\neg:\nnumerics = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']\nnumeric_df = df.select_dtypes(include=numerics)"},
+		{"id":"25f0cc5f31b58bbb","x":-612,"y":-880,"width":271,"height":113,"type":"text","text":"# Columns\n\n1. Columns\n\t1. df.columns()\n2. length of columns\n\t1. len(df.columns)\n3. "}
 	],
 	"edges":[
 		{"id":"22245b3ceeddb32c","fromNode":"59b75979adbd2bb8","fromSide":"bottom","toNode":"fc77e61362f0a6e6","toSide":"top"}
