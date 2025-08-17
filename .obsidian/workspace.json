@@ -11,10 +11,14 @@
             "id": "6fc89f0a161692c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -174,11 +178,17 @@
   },
   "active": "6fc89f0a161692c9",
   "lastOpenFiles": [
-    "EDA/EDA.md",
-    "EDA/Data Engineering Process.canvas",
+    "Misc/Credentials.md",
+    "Databases/Neo4j.md",
+    "Misc",
+    "Credentials",
+    "Untitled.md",
     "Pasted image 20250814032230.png",
+    "Databases",
     "Pasted image 20250814032132.png",
     "Pasted image 20250814032054.png",
+    "EDA/EDA.md",
+    "EDA/Data Engineering Process.canvas",
     "EDA/EDA Flow.canvas",
     "Python/Error Handling.md",
     "EDA",
