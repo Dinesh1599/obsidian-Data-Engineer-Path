@@ -11,10 +11,17 @@
             "id": "6fc89f0a161692c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "EDA/EDA Flow.canvas",
+                "viewState": {
+                  "x": -1921.5,
+                  "y": -3900,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "EDA Flow"
             }
           }
         ]
@@ -174,6 +181,8 @@
   },
   "active": "6fc89f0a161692c9",
   "lastOpenFiles": [
+    "EDA/Data Engineering Process.canvas",
+    "Python/Functions.md",
     "Databases/Neo4j.md",
     "Misc/Credentials.md",
     "Misc",
@@ -184,11 +193,9 @@
     "Pasted image 20250814032132.png",
     "Pasted image 20250814032054.png",
     "EDA/EDA.md",
-    "EDA/Data Engineering Process.canvas",
     "EDA/EDA Flow.canvas",
     "Python/Error Handling.md",
     "EDA",
-    "Python/Functions.md",
     "Python/Lambda.md",
     "Python/If-Else.md",
     "Python/Data Types and Structures.md",
