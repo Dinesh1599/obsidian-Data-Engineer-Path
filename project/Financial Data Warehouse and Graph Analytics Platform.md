@@ -127,3 +127,6 @@
     - GenAI narrative generator.
         
 - Write **README.md** + architecture diagram + flowchart.
+
+
+![[Pasted image 20250829111952.png]]
