@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "autoConvertHtml": true,
-  "vimMode": false
+  "vimMode": false,
+  "promptDelete": false
 }
