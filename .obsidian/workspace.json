@@ -28,12 +28,14 @@
             "id": "a16469ae5963221b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250829111952.png"
+                "file": "New folder/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250829111952"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -195,6 +197,9 @@
   },
   "active": "a16469ae5963221b",
   "lastOpenFiles": [
+    "Pasted image 20250829111952 1.png",
+    "Pasted image 20250829111952.png",
+    "New folder/Untitled.md",
     "Pasted image 20250814032230.png",
     "Pasted image 20250814032132.png",
     "Pasted image 20250814032054.png",
@@ -207,7 +212,6 @@
     "Misc/Credentials.md",
     "Python/Data Types and Structures.md",
     "project/Financial Data Warehouse and Graph Analytics Platform.md",
-    "Pasted image 20250829111952.png",
     "project",
     "EDA/Data Engineering Process.canvas",
     "Databases/Neo4j.md",
