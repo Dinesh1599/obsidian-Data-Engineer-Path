@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,6 +198,7 @@
   },
   "active": "a16469ae5963221b",
   "lastOpenFiles": [
+    "Pasted image 20250902122724.png",
     "Pasted image 20250829111952 1.png",
     "Pasted image 20250829111952.png",
     "New folder/Untitled.md",
