@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New folder/Untitled.md",
+                "file": "New folder/logmining for confluent CDC to kafka consumer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "logmining for confluent CDC to kafka consumer"
             }
           }
         ],
@@ -198,10 +198,11 @@
   },
   "active": "a16469ae5963221b",
   "lastOpenFiles": [
+    "New folder/Untitled.md",
+    "New folder/logmining for confluent CDC to kafka consumer.md",
     "Pasted image 20250902122724.png",
     "Pasted image 20250829111952 1.png",
     "Pasted image 20250829111952.png",
-    "New folder/Untitled.md",
     "Pasted image 20250814032230.png",
     "Pasted image 20250814032132.png",
     "Pasted image 20250814032054.png",
