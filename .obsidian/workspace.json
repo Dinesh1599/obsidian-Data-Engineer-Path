@@ -28,10 +28,14 @@
             "id": "a16469ae5963221b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Data warehouse/Snowflake/Snowflake Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Snowflake Architecture"
             }
           }
         ],
@@ -196,9 +200,12 @@
   "lastOpenFiles": [
     "Data warehouse/Snowflake/Traditional Architecture.md",
     "Data warehouse/Snowflake/Snowflake Architecture.md",
+    "Pasted image 20251028185507.png",
+    "Pasted image 20251028185433.png",
+    "Pasted image 20251028185346.png",
+    "New folder/Untitled.md",
     "New folder/logmining for confluent CDC to kafka consumer.md",
     "().md",
-    "New folder/Untitled.md",
     "Data warehouse/Snowflake",
     "Data warehouse",
     "Misc/Credentials.md",

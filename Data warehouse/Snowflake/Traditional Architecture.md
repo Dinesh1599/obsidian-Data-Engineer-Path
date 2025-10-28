@@ -1,5 +1,7 @@
 [Shared-Disk](https://www.geeksforgeeks.org/system-design/shared-disk-architecture-system-design/)
 
+![[Pasted image 20251028185433.png]]
+
 1. Shared Disk Architecture is a system design approach where multiple computers (nodes) access the same centralized disk storage simultaneously.
 
 2. Advantage:
@@ -29,7 +31,7 @@
 	5. Enterprise applications (ERP/CRM)
 
 [Shared Nothing Architecture](https://www.geeksforgeeks.org/system-design/shared-nothing-architecture/)
-
+![[Pasted image 20251028185507.png]]
 1. Shared Nothing Architecture (SNA) is a distributed computing design where each node (or server) operates independently, with its own CPU, memory, and storage, communicating only over the network. The nodes do not share memory or disk, ensuring no single point of contention.
 
 2. Advantage:

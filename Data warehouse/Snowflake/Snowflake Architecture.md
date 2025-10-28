@@ -1,1 +1,1 @@
-Unlike [[Traditional Architecture]], snowflake has a combination of the best of both shared disk and shared nothing architecture
+Unlike [[Traditional Architecture]], snowflake has a combination of the best of both shared disk and shared nothing architecture called multi-clustered Shared Data
