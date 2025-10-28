@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New folder/Untitled.md",
+                "file": "Data warehouse/Snowflake/Traditional Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Traditional Architecture"
             }
           }
         ],
@@ -198,9 +198,14 @@
   },
   "active": "a16469ae5963221b",
   "lastOpenFiles": [
+    "().md",
+    "Data warehouse/Snowflake/Traditional Architecture.md",
+    "Data warehouse/Snowflake/Snowflake Architecture.md",
+    "New folder/Untitled.md",
+    "Data warehouse/Snowflake",
+    "Data warehouse",
     "New folder/logmining for confluent CDC to kafka consumer.md",
     "Misc/Credentials.md",
-    "New folder/Untitled.md",
     "Pasted image 20250902122724.png",
     "Pasted image 20250829111952 1.png",
     "Pasted image 20250829111952.png",
@@ -224,14 +229,12 @@
     "EDA/EDA.md",
     "EDA/EDA Flow.canvas",
     "Python/Error Handling.md",
-    "EDA",
     "Python/Lambda.md",
     "Python/If-Else.md",
     "Python/For Loops.md",
     "Python/Control Flow.md",
     "Python/while.md",
     "Python/Sets.md",
-    "If",
     "Python/Dictionaries.md",
     "Python/List.md",
     "Python/Strings.md",
