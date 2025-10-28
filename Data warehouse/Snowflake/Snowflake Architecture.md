@@ -1,0 +1,1 @@
+Unlike [[Traditional Architecture]], snowflake has a combination of the best of both shared disk and shared nothing architecture
