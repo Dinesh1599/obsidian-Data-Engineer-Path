@@ -53,3 +53,8 @@ List of snowflake client options:
 	3. Languagedrivers
 	4. ODBC and JDBC drivers.
 	5. snowflake SQL RESTApi
+
+# Main Architecture
+
+![[Pasted image 20251029131238.png]]
+
