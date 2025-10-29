@@ -1,6 +1,6 @@
 INDEX
 1. [[Snowflake Architecture]]
-2. [[Snowflake Editions]]
+2. [[Snowflake Editions and pricing]]
 3. [[Querying]]
 
 
