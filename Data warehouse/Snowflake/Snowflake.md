@@ -1,6 +1,7 @@
 INDEX
 1. [[Snowflake Architecture]]
 2. [[Snowflake Editions]]
+3. [[Querying]]
 
 
 What is snowflake
