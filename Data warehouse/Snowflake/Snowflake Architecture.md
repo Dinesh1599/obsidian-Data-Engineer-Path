@@ -54,12 +54,13 @@ List of snowflake client options:
 	4. ODBC and JDBC drivers.
 	5. snowflake SQL RESTApi
 
-# Main Architecture
+# The 3 Layers
 
 ![[Pasted image 20251029131238.png]]
 
 1. Database Storage
 	1. Data loaded into Snowflake is reorganized into an optimized, compressed, columnar format and stored in cloud storage. Snowflake manages all details of storage—including organization, compression, metadata, and access—making the raw data only accessible through SQL queries.
+	2. hybrid-columnar storage.
 2. Query Processing
 	1. Query execution happens in this layer using “virtual warehouses,” which are independent MPP (massively parallel processing) compute clusters. Each virtual warehouse can process queries without impacting others, providing scalable and isolated compute resources.
 3. **Cloud Services**
