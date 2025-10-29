@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c54f895928218292",
+        "id": "840b59a9b1339202",
         "type": "tabs",
         "children": [
           {
-            "id": "6fc89f0a161692c9",
+            "id": "69f9bd71dc1efa45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data warehouse/Snowflake/Snowflake Architecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Snowflake Architecture"
-            }
-          },
-          {
-            "id": "a16469ae5963221b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data warehouse/Snowflake/Traditional Architecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Traditional Architecture"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -88,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,12 +174,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fc89f0a161692c9",
+  "active": "69f9bd71dc1efa45",
   "lastOpenFiles": [
+    "Untitled 2.base",
+    "Untitled 1.base",
     "Untitled.base",
-    "Data warehouse/Snowflake/Snowflake Architecture.md",
-    "Pasted image 20251029131238.png",
     "Data warehouse/Snowflake/Traditional Architecture.md",
+    "EDA/EDA.md",
+    "Data warehouse/Snowflake/Snowflake Architecture.md",
+    "Data warehouse/Snowflake/Snowflake.md",
+    "Data warehouse/Snowflake/Snowflake Editions.md",
+    "Pasted image 20251029131238.png",
     "Pasted image 20251028193911.png",
     "Pasted image 20251028191332.png",
     "Pasted image 20251028191231.png",
@@ -215,10 +201,8 @@
     "Pasted image 20250902122724.png",
     "Pasted image 20250829111952 1.png",
     "Pasted image 20250829111952.png",
-    "Untitled 1.base",
     "Untitled.md",
     "Untitled 3.base",
-    "Untitled 2.base",
     "Python/Functions.md",
     "Python/Data Types and Structures.md",
     "project/Financial Data Warehouse and Graph Analytics Platform.md",
@@ -228,7 +212,6 @@
     "Misc",
     "Credentials",
     "Databases",
-    "EDA/EDA.md",
     "Python/Error Handling.md",
     "Python/Lambda.md",
     "Python/If-Else.md",
@@ -240,8 +223,6 @@
     "Python/List.md",
     "Python/Strings.md",
     "Python/Tuples.md",
-    "Untitled 1.canvas",
-    "Python/Data Types.md",
-    "Welcome.md"
+    "Untitled 1.canvas"
   ]
 }
