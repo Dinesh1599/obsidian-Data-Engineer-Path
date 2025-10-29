@@ -11,10 +11,14 @@
             "id": "69f9bd71dc1efa45",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Data warehouse/Snowflake/Snowflake Editions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Snowflake Editions"
             }
           }
         ]
