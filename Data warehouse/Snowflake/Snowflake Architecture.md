@@ -58,3 +58,9 @@ List of snowflake client options:
 
 ![[Pasted image 20251029131238.png]]
 
+1. Database Storage
+	1. Data loaded into Snowflake is reorganized into an optimized, compressed, columnar format and stored in cloud storage. Snowflake manages all details of storage—including organization, compression, metadata, and access—making the raw data only accessible through SQL queries.
+2. Query Processing
+	1. Query execution happens in this layer using “virtual warehouses,” which are independent MPP (massively parallel processing) compute clusters. Each virtual warehouse can process queries without impacting others, providing scalable and isolated compute resources.
+3. **Cloud Services**
+	1. This layer coordinates system operations such as ==authentication, infrastructure management, metadata management, query parsing/optimization, and access control.== It ties together all components and handles user requests from login through to query dispatch.
