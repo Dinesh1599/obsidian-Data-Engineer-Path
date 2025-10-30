@@ -2,6 +2,7 @@ INDEX
 1. [[Snowflake Architecture]]
 2. [[Snowflake Editions and pricing]]
 3. [[Querying]]
+4. [[Cost]]
 
 
 What is snowflake

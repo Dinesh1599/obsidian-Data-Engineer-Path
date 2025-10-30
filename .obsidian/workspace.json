@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
+                "file": "Cost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snowflake Editions and pricing"
+              "title": "Cost"
             }
           }
         ]
@@ -181,6 +181,7 @@
   "active": "69f9bd71dc1efa45",
   "lastOpenFiles": [
     "Data warehouse/Snowflake/Snowflake.md",
+    "Cost.md",
     "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
     "Data warehouse/Snowflake/Querying.md",
     "().md",
@@ -227,7 +228,6 @@
     "Python/Dictionaries.md",
     "Python/List.md",
     "Python/Strings.md",
-    "Python/Tuples.md",
     "Untitled 1.canvas"
   ]
 }
