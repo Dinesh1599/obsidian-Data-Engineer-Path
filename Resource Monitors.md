@@ -9,7 +9,7 @@ In the Resource monitors:
 	2. Suspend and notify
 	3. Suspend immediately and notify
 4. Can be created with users on ACCOUNTADMIN ROLES
-5. Delegated with MONITOR AND MODIFY RESOURCES.
+5. Delegated with MONITOR AND MODIFY access control.
 6. Track usage of cloud services on these VH
 7. limit can be set as well on these VH
 8. ==Limitation: Cannot prevent cloud service usage==
