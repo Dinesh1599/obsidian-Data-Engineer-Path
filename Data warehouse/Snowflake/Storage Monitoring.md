@@ -7,4 +7,4 @@
 		1. Active
 		2. Time Travel
 		3. Fail-safe
-3. TABLE_STORAGE_METRICS in account_usage ()
+3. TABLE_STORAGE_METRICS in account_usage (select * from SNOWFLAKE.ACCOUNT_USAGE.TABLE_STORAGE_METRICS;)
