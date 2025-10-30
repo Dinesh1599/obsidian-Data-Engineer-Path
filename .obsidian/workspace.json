@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cost.md",
+                "file": "Data warehouse/Snowflake/Storage Monitoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cost"
+              "title": "Storage Monitoring"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "69f9bd71dc1efa45",
   "lastOpenFiles": [
-    "Data warehouse/Snowflake/Snowflake.md",
     "Cost.md",
+    "Data warehouse/Snowflake/Storage Monitoring.md",
+    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
     "Data warehouse/Snowflake/Querying.md",
     "().md",
@@ -227,7 +228,6 @@
     "Python/Sets.md",
     "Python/Dictionaries.md",
     "Python/List.md",
-    "Python/Strings.md",
     "Untitled 1.canvas"
   ]
 }
