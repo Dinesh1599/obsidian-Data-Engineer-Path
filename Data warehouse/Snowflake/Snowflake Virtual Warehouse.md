@@ -11,4 +11,9 @@
 		1. Maximized
 			1. Always has the same amount of clusters.  (Good for static users)
 		2. Auto Scaled
-			1. Automatically have a minimum number of clusters and max clusters (Good for dy)
+			1. Automatically have a minimum number of clusters and max clusters (Good for dynamic users)
+	5. Scaling policy:
+		1. Standard
+			1. Favors staring additional VH
+		2. Economy
+			1. Favors conserving credits rather than starting additional WH
