@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internal Stage.md",
+                "file": "Data warehouse/Snowflake/Internal Stage.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,14 +180,15 @@
   "active": "69f9bd71dc1efa45",
   "lastOpenFiles": [
     "Data warehouse/Snowflake/Internal Stages.md",
-    "Internal Stage.md",
+    "Data warehouse/Snowflake/Snowflake.md",
+    "Data warehouse/Snowflake/Internal Stage.md",
+    "Data warehouse/Snowflake/Storage Monitoring.md",
     "SnowSQL.md",
     "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
     "EDA/EDA Flow.canvas",
     "EDA/Data Engineering Process.canvas",
     "Pasted image 20250814032054.png",
     "Data warehouse/Snowflake/Snowflake Architecture.md",
-    "Data warehouse/Snowflake/Snowflake.md",
     "Untitled 2.base",
     "Untitled 3.base",
     "Untitled 4.base",
@@ -207,7 +208,6 @@
     "Enterprise.md",
     "Python/If-Else.md",
     "Python/For Loops.md",
-    "Data warehouse/Snowflake/Storage Monitoring.md",
     "Cost.md",
     "Data warehouse/Snowflake/Querying.md",
     "().md",
