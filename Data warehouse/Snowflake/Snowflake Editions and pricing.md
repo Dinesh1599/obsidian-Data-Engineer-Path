@@ -9,7 +9,7 @@
 		7. Secure data share
 		8. Federated authentication and SSO
 		9. Premier support 24/7
-2. Enterprise
+2. #MATCH Enterprise
 	1. Features
 		1. All Standard Features
 		2. multi-cluster warehouse
