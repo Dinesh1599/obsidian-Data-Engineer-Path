@@ -11,17 +11,14 @@
             "id": "69f9bd71dc1efa45",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "EDA/EDA Flow.canvas",
-                "viewState": {
-                  "x": -1921.5,
-                  "y": -3900,
-                  "zoom": 0
-                }
+                "file": "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "EDA Flow"
+              "icon": "lucide-file",
+              "title": "Snowflake Editions and pricing"
             }
           }
         ]
@@ -181,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69f9bd71dc1efa45",
+  "active": "8bb36002b09ef60b",
   "lastOpenFiles": [
-    "EDA/Data Engineering Process.canvas",
     "EDA/EDA Flow.canvas",
+    "EDA/Data Engineering Process.canvas",
     "Pasted image 20250814032054.png",
     "Data warehouse/Snowflake/Snowflake Architecture.md",
     "Data warehouse/Snowflake/Snowflake.md",
