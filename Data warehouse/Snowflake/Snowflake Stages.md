@@ -14,3 +14,5 @@
 			1. AWS s3
 			2. Google Cloud Storage
 			3. Azure Container
+
+![[Pasted image 20251031110043.png]]

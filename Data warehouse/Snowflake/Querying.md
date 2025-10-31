@@ -1,6 +1,6 @@
 1. To create a table:
 	1. CREATE TABLE "database"."schema"."table"
-2. LIST Command[[Snowflake Stages]] 
+2. LIST Command - [[Snowflake Stages]] 
 	1. List all all file and additional properties
 		1. LIST @STAGE_NAME; - External Stage / Internal Named Stages
 		2. LIST @~ User Stages
