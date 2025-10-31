@@ -9,5 +9,6 @@
 	3. Not great for complex workload.
 	4. Has 2 modes
 		1. Maximized
+			1. Always has the same amount of clusters.  (Good for static users)
 		2. Auto Scaled
-			1. 
+			1. Automatically have a minimum number of clusters and max clusters (Good for dy)
