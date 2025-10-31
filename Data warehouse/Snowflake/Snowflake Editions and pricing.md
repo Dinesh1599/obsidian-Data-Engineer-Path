@@ -31,4 +31,4 @@
 		3. Dedicated metadata store
 
 
-For more detailed info: https://docs.snowflake.com/en/user-guide/intro-editions
+For more detailed info: 

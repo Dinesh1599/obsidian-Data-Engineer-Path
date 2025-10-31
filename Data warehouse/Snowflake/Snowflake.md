@@ -5,7 +5,7 @@ INDEX
 4. [[Cost]]
 5. [[Storage Monitoring]]
 6. [[Resource Monitors]]
-7. 
+7. [[Snowflake Virtual Warehouse]]
 
 What is snowflake
 - Self-managed cloud data platform
