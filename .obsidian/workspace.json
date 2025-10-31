@@ -11,14 +11,17 @@
             "id": "69f9bd71dc1efa45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "SnowSQL.md",
-                "mode": "source",
-                "source": false
+                "file": "EDA/EDA Flow.canvas",
+                "viewState": {
+                  "x": -1921.5,
+                  "y": -3900,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "SnowSQL"
+              "icon": "lucide-layout-dashboard",
+              "title": "EDA Flow"
             }
           }
         ]
@@ -74,12 +77,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 586.5
   },
   "right": {
     "id": "07442132946b28e0",
@@ -181,54 +183,53 @@
   },
   "active": "69f9bd71dc1efa45",
   "lastOpenFiles": [
+    "EDA/Data Engineering Process.canvas",
+    "EDA/EDA Flow.canvas",
+    "Pasted image 20250814032054.png",
+    "Data warehouse/Snowflake/Snowflake Architecture.md",
     "Data warehouse/Snowflake/Snowflake.md",
-    "SnowSQL.md",
-    "Objects in Snowflake.md",
-    "Pasted image 20251030222126.png",
-    "Untitled 6.base",
+    "Untitled 2.base",
+    "Untitled 3.base",
+    "Untitled 4.base",
     "Untitled 5.base",
+    "Untitled 6.base",
+    "Untitled 7.base",
+    "Untitled 8.base",
+    "Pasted image 20250814032132.png",
+    "Objects in Snowflake.md",
+    "Pasted image 20251029160606.png",
+    "Pasted image 20251030222126.png",
+    "SnowSQL.md",
+    "Resource Monitors.md",
+    "Pasted image 20250829111952.png",
+    "Pasted image 20250814032230.png",
     "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Pasted image 20251030204046.png",
-    "Untitled 4.base",
     "Enterprise.md",
     "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
     "Python/If-Else.md",
-    "Untitled 3.base",
-    "Data warehouse/Snowflake/Snowflake Architecture.md",
     "Python/For Loops.md",
-    "Resource Monitors.md",
     "Data warehouse/Snowflake/Storage Monitoring.md",
     "Cost.md",
     "Data warehouse/Snowflake/Querying.md",
     "().md",
     "Data warehouse/Snowflake/Traditional Architecture.md",
-    "Pasted image 20251029160606.png",
-    "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
     "EDA/EDA.md",
     "Pasted image 20251029131238.png",
     "Pasted image 20251028193911.png",
     "Pasted image 20251028191332.png",
-    "Pasted image 20251028191231.png",
-    "EDA/EDA Flow.canvas",
-    "Pasted image 20251028185507.png",
-    "Pasted image 20251028185433.png",
-    "Pasted image 20251028185346.png",
     "New folder/Untitled.md",
     "New folder/logmining for confluent CDC to kafka consumer.md",
     "Data warehouse/Snowflake",
-    "Data warehouse",
     "Misc/Credentials.md",
     "Untitled.md",
     "Python/Functions.md",
     "Python/Data Types and Structures.md",
     "project/Financial Data Warehouse and Graph Analytics Platform.md",
-    "project",
-    "EDA/Data Engineering Process.canvas",
     "Databases/Neo4j.md",
     "Python/Error Handling.md",
-    "Python/Lambda.md",
     "Untitled 1.canvas"
   ]
 }

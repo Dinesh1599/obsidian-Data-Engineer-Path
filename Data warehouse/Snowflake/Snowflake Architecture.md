@@ -19,7 +19,7 @@ Benefits:
 	
 2. Elastic Compute
 	1. Complex tasks such as Loading and unloading, Analytics, Data Pipelines and ML model scoring and training are done
-	2.  They are done in [[Snowflake Virtual Warehouse]]. 
+	2.  They are done in [[Snowflake Virtual Warehouse]].
 	3.  Each Virtual Warehouse is a MPP cluster deployed on-demand
 	4.  Scale Vertically  (Increase no: of compute resources)
 	5. Scale Horizontally (increase concurrent users - think of it as being possible to do more different set of work)
