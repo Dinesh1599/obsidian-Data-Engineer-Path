@@ -9,7 +9,7 @@
 			1. ==User Stage==
 			2. ==Table Stage==
 			3. ==Internal Named Stage==
-	2. External Stage
+	2. [[External Stage]]
 		1. Storage from an external cloud provider
 			1. AWS s3
 			2. Google Cloud Storage

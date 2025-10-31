@@ -8,7 +8,7 @@ INDEX
 7. [[Snowflake Virtual Warehouse]]
 8. [[Objects in Snowflake]]
 9. [[SnowSQL]]
-10. [[Internal Stages]]
+10. [[Snowflake Stages]]
 
 What is snowflake
 - Self-managed cloud data platform

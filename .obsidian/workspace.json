@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Internal Stage.md",
+                "file": "Data warehouse/Snowflake/Querying.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internal Stage"
+              "title": "Querying"
             }
           }
         ]
@@ -179,9 +179,10 @@
   },
   "active": "69f9bd71dc1efa45",
   "lastOpenFiles": [
-    "Data warehouse/Snowflake/Internal Stages.md",
-    "Data warehouse/Snowflake/Snowflake.md",
+    "Data warehouse/Snowflake/External Stage.md",
     "Data warehouse/Snowflake/Internal Stage.md",
+    "Data warehouse/Snowflake/Snowflake Stages.md",
+    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Storage Monitoring.md",
     "SnowSQL.md",
     "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
@@ -226,7 +227,6 @@
     "Python/Functions.md",
     "Python/Data Types and Structures.md",
     "project/Financial Data Warehouse and Graph Analytics Platform.md",
-    "Databases/Neo4j.md",
     "Untitled 1.canvas"
   ]
 }
