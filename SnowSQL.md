@@ -2,3 +2,4 @@
 2. Perform DDL and DML operations.
 
 Login: snowsql -a [ACCOUNT_NAME] - u [LOGIN_ID]
+signout: Ctrl + D
