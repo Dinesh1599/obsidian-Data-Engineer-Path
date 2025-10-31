@@ -3,3 +3,5 @@
 3. 
 
 ![[Pasted image 20251030222126.png]]
+
+PUBLIC Schema: Default Schema.
