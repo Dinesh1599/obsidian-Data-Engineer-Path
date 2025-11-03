@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cost.md",
+                "file": "Data warehouse/Snowflake/Snowflake Stages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cost"
+              "title": "Snowflake Stages"
             }
           }
         ]
@@ -179,9 +179,10 @@
   },
   "active": "69f9bd71dc1efa45",
   "lastOpenFiles": [
-    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Internal Stage.md",
     "Data warehouse/Snowflake/External Stage.md",
+    "Cost.md",
+    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Snowflake Stages.md",
     "Pasted image 20251031110043.png",
     "Data warehouse/Snowflake/Querying.md",
@@ -211,7 +212,6 @@
     "Enterprise.md",
     "Python/If-Else.md",
     "Python/For Loops.md",
-    "Cost.md",
     "().md",
     "Data warehouse/Snowflake/Traditional Architecture.md",
     "Untitled 1.base",
