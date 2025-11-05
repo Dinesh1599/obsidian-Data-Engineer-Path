@@ -7,3 +7,18 @@ Aggregate functions are often used with the ==GROUP BY== clause of the SELECT st
 - AVG() - returns the average value of a numerical column
 
 Aggregate functions ignore null values (except for COUNT(*)).
+
+
+1. MIN() and MAX()
+
+	SELECT MIN(_column_name_)  
+	FROM _table_name_  
+	WHERE _condition_;
+	
+	SELECT MAX(_column_name_)  
+	FROM _table_name_  
+	WHERE _condition_;
+
+2. COUNT()
+	 SELECT COUNT(*)  
+	FROM Products;
