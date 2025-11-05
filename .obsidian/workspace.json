@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL.md",
+                "file": "SQL/Aggregate Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL"
+              "title": "Aggregate Functions"
             }
           }
         ]
@@ -177,11 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69f9bd71dc1efa45",
+  "active": "8bb36002b09ef60b",
   "lastOpenFiles": [
+    "SQL/SQL.md",
+    "SQL/Aggregate Functions.md",
     "SQL/SELF JOIN.md",
     "Untitled.base",
-    "SQL/SQL.md",
     "SQL/RIGHT JOIN.md",
     "Pasted image 20251105011529.png",
     "Pasted image 20251105011527.png",

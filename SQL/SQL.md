@@ -11,6 +11,7 @@
 	3. [[LEFT JOIN]]
 	4. [[RIGHT JOIN]]
 	5. [[SELF JOIN]]
+3. [[Aggregate Functions]]
 
 
 What is SQL?
