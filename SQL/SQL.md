@@ -12,6 +12,7 @@
 	4. [[RIGHT JOIN]]
 	5. [[SELF JOIN]]
 3. [[Aggregate Functions]]
+4. [[Wildcard Characters]]
 
 
 What is SQL?

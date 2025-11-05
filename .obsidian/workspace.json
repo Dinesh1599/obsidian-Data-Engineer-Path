@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Aggregate Functions.md",
+                "file": "Wildcard Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aggregate Functions"
+              "title": "Wildcard Characters"
             }
           }
         ]
@@ -177,9 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bb36002b09ef60b",
+  "active": "69f9bd71dc1efa45",
   "lastOpenFiles": [
     "SQL/SQL.md",
+    "Wildcard Characters.md",
     "SQL/Aggregate Functions.md",
     "SQL/SELF JOIN.md",
     "Untitled.base",
@@ -224,7 +225,6 @@
     "Pasted image 20251029160606.png",
     "Pasted image 20251030222126.png",
     "Pasted image 20250829111952.png",
-    "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Untitled 1.base",
     "Data warehouse/Snowflake",
     "Untitled 1.canvas"
