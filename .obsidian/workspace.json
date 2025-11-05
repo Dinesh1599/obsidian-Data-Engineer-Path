@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Internal Stage.md",
+                "file": "SQL/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internal Stage"
+              "title": "Untitled"
             }
           }
         ]
@@ -179,9 +179,10 @@
   },
   "active": "69f9bd71dc1efa45",
   "lastOpenFiles": [
+    "Data warehouse/Snowflake/Internal Stage.md",
+    "SQL/Untitled.md",
     "Data warehouse/Snowflake/Snowflake Stages.md",
     "Data warehouse/Snowflake/Querying.md",
-    "Data warehouse/Snowflake/Internal Stage.md",
     "Data warehouse/Snowflake/External Stage.md",
     "Cost.md",
     "Data warehouse/Snowflake/Snowflake.md",
