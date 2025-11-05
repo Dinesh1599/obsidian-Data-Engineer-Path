@@ -7,11 +7,10 @@
 	5. [[TCL]]
 2. Joins
 	1. [[INNER JOIN]]
-	2. OUTER JOIN
-	3. LEFT JOIN
-	4. RIGHT JOIN
-	5. SELF JOIN
-	6. CROSS JOIN
+	2. [[FULL OUTER JOIN]]
+	3. [[LEFT JOIN]]
+	4. [[RIGHT JOIN]]
+	5. [[SELF JOIN]]
 
 
 What is SQL?
