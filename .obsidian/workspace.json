@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DCL.md",
+                "file": "SQL/DCL.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,8 +179,9 @@
   },
   "active": "69f9bd71dc1efa45",
   "lastOpenFiles": [
+    "TCL.md",
     "SQL/SQL.md",
-    "DCL.md",
+    "SQL/DCL.md",
     "SQL/DQL.md",
     "SQL/DDL.md",
     "SQL/DML.md",
@@ -225,7 +226,6 @@
     "Pasted image 20251029131238.png",
     "Pasted image 20251028193911.png",
     "New folder/Untitled.md",
-    "New folder/logmining for confluent CDC to kafka consumer.md",
     "Data warehouse/Snowflake",
     "Untitled 1.canvas"
   ]
