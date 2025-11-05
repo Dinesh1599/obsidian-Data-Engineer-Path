@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Untitled.md",
+                "file": "DCL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "DCL"
             }
           }
         ]
@@ -179,16 +179,21 @@
   },
   "active": "69f9bd71dc1efa45",
   "lastOpenFiles": [
+    "SQL/SQL.md",
+    "DCL.md",
+    "SQL/DQL.md",
+    "SQL/DDL.md",
+    "SQL/DML.md",
+    "Data warehouse/Snowflake/Objects in Snowflake.md",
+    "Data warehouse/Snowflake/Cost.md",
+    "Data warehouse/Snowflake/SnowSQL.md",
     "Data warehouse/Snowflake/Internal Stage.md",
-    "SQL/Untitled.md",
     "Data warehouse/Snowflake/Snowflake Stages.md",
     "Data warehouse/Snowflake/Querying.md",
     "Data warehouse/Snowflake/External Stage.md",
-    "Cost.md",
     "Data warehouse/Snowflake/Snowflake.md",
     "Pasted image 20251031110043.png",
     "Data warehouse/Snowflake/Storage Monitoring.md",
-    "SnowSQL.md",
     "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
     "EDA/EDA Flow.canvas",
     "EDA/Data Engineering Process.canvas",
@@ -202,7 +207,6 @@
     "Untitled 7.base",
     "Untitled 8.base",
     "Pasted image 20250814032132.png",
-    "Objects in Snowflake.md",
     "Pasted image 20251029160606.png",
     "Pasted image 20251030222126.png",
     "Resource Monitors.md",
@@ -223,10 +227,6 @@
     "New folder/Untitled.md",
     "New folder/logmining for confluent CDC to kafka consumer.md",
     "Data warehouse/Snowflake",
-    "Misc/Credentials.md",
-    "Untitled.md",
-    "Python/Functions.md",
-    "Python/Data Types and Structures.md",
     "Untitled 1.canvas"
   ]
 }
