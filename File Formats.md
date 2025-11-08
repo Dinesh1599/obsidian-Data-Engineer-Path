@@ -12,7 +12,7 @@ STAGE_FILE_FORMAT,
 STAGE_COPY_OPTIONS, 
 STAGE_LOCATION
 
-==but there is an option to predefine this metadata with values (IMPORT)==
+==but there is an option to predefine this metadata with values (IMPORT)== (RECOMMENDED)
 - ==This makes it possible to use the same file_format for multiple stages.==
 
 CREATE FILE FORMAT <fileformatname>
