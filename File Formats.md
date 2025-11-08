@@ -1,0 +1,1 @@
+How does snowflake know which is the file format is needed to load

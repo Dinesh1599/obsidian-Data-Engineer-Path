@@ -16,7 +16,7 @@ Bulk Loading: Loading data into a table
 Warehouse is needed. 
 Data Transfer cost may vary - if the data where its loaded from is of a different region than where the account is based on.
 
-File Formats:
+[[File Formats]] (This in itself is a topic of its own): 
 1. CSV
 2. JSON
 3. Parquet
