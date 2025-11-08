@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wildcard Characters.md",
+                "file": "SQL/DCL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wildcard Characters"
+              "title": "DCL"
             }
           }
         ]
@@ -179,6 +179,11 @@
   },
   "active": "69f9bd71dc1efa45",
   "lastOpenFiles": [
+    "SQL/TCL.md",
+    "SQL/DML.md",
+    "SQL/DDL.md",
+    "SQL/DQL.md",
+    "SQL/DCL.md",
     "SQL/SQL.md",
     "Wildcard Characters.md",
     "SQL/Aggregate Functions.md",
@@ -197,11 +202,6 @@
     "Data warehouse/Snowflake/Resource Monitors.md",
     "Pasted image 20251105010647.png",
     "New folder/logmining for confluent CDC to kafka consumer.md",
-    "SQL/TCL.md",
-    "SQL/DCL.md",
-    "SQL/DQL.md",
-    "SQL/DDL.md",
-    "SQL/DML.md",
     "Data warehouse/Snowflake/Objects in Snowflake.md",
     "Data warehouse/Snowflake/Cost.md",
     "Data warehouse/Snowflake/SnowSQL.md",
