@@ -9,7 +9,7 @@ INDEX
 8. [[Objects in Snowflake]]
 9. [[SnowSQL]]
 10. [[Snowflake Stages]]
-11. [[File Formats]]
+11. [[File Formats]] (Recommended)
 
 What is snowflake
 - Self-managed cloud data platform
