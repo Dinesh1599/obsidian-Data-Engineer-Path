@@ -44,22 +44,9 @@
               "icon": "lucide-file",
               "title": "Internal Stage"
             }
-          },
-          {
-            "id": "434f3690daa7a77b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data warehouse/Snowflake/Querying.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Querying"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,40 +165,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Data warehouse/Snowflake/Internal Stage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "fe66c811f9ace1d1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "2355ecf5f0130e9e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Outline of Internal Stage"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 386.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,9 +195,12 @@
   },
   "active": "8bb36002b09ef60b",
   "lastOpenFiles": [
+    "dfsdf.md",
+    "Data warehouse/Snowflake/Internal Stage.md",
     "Untitled.base",
+    "2025-12-04.md",
+    "Data warehouse/Snowflake/Querying.md",
     "SQL/Aggregate Functions.md",
-    "Untitled.md",
     "Pasted image 20251028193911.png",
     "Pasted image 20251029131238.png",
     "Pasted image 20251028191332.png",
@@ -240,12 +211,10 @@
     "Pasted image 20251031110043.png",
     "Pasted image 20251105010647.png",
     "Pasted image 20251105011333.png",
-    "Data warehouse/Snowflake/Querying.md",
     "SQL/DML.md",
     "Data warehouse/Snowflake/INSERT AND UPDATE.md",
     "SQL/DDL.md",
     "Data warehouse/Snowflake/COPY INTO.md",
-    "Data warehouse/Snowflake/Internal Stage.md",
     "Data warehouse/Snowflake/Snowflake Stages.md",
     "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/External Stage.md",
@@ -263,7 +232,6 @@
     "SQL/LEFT JOIN.md",
     "SQL/INNER JOIN.md",
     "SQL/FULL OUTER JOIN.md",
-    "Data warehouse/Snowflake/Storage Monitoring.md",
     "EDA/EDA Flow.canvas",
     "EDA/Data Engineering Process.canvas",
     "Untitled 2.base",
