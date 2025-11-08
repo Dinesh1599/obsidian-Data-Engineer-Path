@@ -6,3 +6,4 @@
 		2. LIST @~ User Stages
 		3. LIST @%TABLE_STAGE_NAME : table Stage
 3. [[COPY INTO]]
+4. [[INSERT]]

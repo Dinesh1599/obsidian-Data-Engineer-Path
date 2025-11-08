@@ -1,0 +1,1 @@
+Similar to [[DML]]  - INSERT query.
