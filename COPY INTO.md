@@ -6,6 +6,8 @@ FILES =  file_name (Optional)
 COPY_OPTIONS (OPTIONALS)
 FILE_FORMAT =(FORMAT_NAME = file_format_name | TYPE = CSV | JSON) (MUST HAVE)
 
+Note: ==Patterns can also be used here instead of files with the help of [[Wildcard Characters]]==
+
 Condition:
 	1. Files must already be in the staged in:
 		Internal or External Stage
