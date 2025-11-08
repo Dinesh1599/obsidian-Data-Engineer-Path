@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/DCL.md",
+                "file": "Data warehouse/Snowflake/Querying.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DCL"
+              "title": "Querying"
+            }
+          },
+          {
+            "id": "cf0ba1250c7e429a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COPY INTO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COPY INTO"
+            }
+          },
+          {
+            "id": "434f3690daa7a77b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data warehouse/Snowflake/Querying.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Querying"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,13 +206,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69f9bd71dc1efa45",
+  "active": "434f3690daa7a77b",
   "lastOpenFiles": [
+    "Data warehouse/Snowflake/Resource Monitors.md",
+    "COPY INTO.md",
+    "Data warehouse/Snowflake/SnowSQL.md",
+    "Data warehouse/Snowflake/Querying.md",
+    "Data warehouse/Snowflake/Snowflake Stages.md",
+    "Data warehouse/Snowflake/Snowflake.md",
+    "SQL/DCL.md",
     "SQL/TCL.md",
     "SQL/DML.md",
     "SQL/DDL.md",
     "SQL/DQL.md",
-    "SQL/DCL.md",
     "SQL/SQL.md",
     "Wildcard Characters.md",
     "SQL/Aggregate Functions.md",
@@ -197,24 +232,18 @@
     "Pasted image 20251105011333.png",
     "SQL/INNER JOIN.md",
     "SQL/FULL OUTER JOIN.md",
-    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Storage Monitoring.md",
-    "Data warehouse/Snowflake/Resource Monitors.md",
     "Pasted image 20251105010647.png",
     "New folder/logmining for confluent CDC to kafka consumer.md",
     "Data warehouse/Snowflake/Objects in Snowflake.md",
     "Data warehouse/Snowflake/Cost.md",
-    "Data warehouse/Snowflake/SnowSQL.md",
     "Data warehouse/Snowflake/Internal Stage.md",
-    "Data warehouse/Snowflake/Snowflake Stages.md",
-    "Data warehouse/Snowflake/Querying.md",
     "Data warehouse/Snowflake/External Stage.md",
     "Pasted image 20251031110043.png",
     "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
     "EDA/EDA Flow.canvas",
     "EDA/Data Engineering Process.canvas",
     "Pasted image 20250814032054.png",
-    "Data warehouse/Snowflake/Snowflake Architecture.md",
     "Untitled 2.base",
     "Untitled 3.base",
     "Untitled 4.base",
