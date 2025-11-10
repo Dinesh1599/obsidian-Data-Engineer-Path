@@ -10,6 +10,7 @@ INDEX
 9. [[SnowSQL]]
 10. [[Snowflake Stages]]
 11. [[File Formats]] (Recommended)
+12. [[Storage Integration]]
 
 What is snowflake
 - Self-managed cloud data platform
