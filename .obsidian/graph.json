@@ -11,7 +11,7 @@
       "query": "path:\"Data warehouse/Snowflake\"  ",
       "color": {
         "a": 1,
-        "rgb": 16078336
+        "rgb": 2399964
       }
     },
     {
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3628873693012153,
-  "close": false
+  "scale": 0.13168724279835534,
+  "close": true
 }
