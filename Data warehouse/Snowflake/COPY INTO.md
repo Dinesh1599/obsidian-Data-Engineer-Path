@@ -29,3 +29,4 @@ Copy from table to stage:
   COPY INTO @Stage_Name;
   FROM [table_name]
 
+Read More on how data is loaded/unloaded [[Copy Options]]
