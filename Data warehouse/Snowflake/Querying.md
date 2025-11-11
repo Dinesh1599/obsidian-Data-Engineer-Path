@@ -8,3 +8,4 @@
 3. [[COPY INTO]]
 4. [[INSERT AND UPDATE]]
 5. [[Storage Integration]]
+6. [[Snowpipe]] integration
