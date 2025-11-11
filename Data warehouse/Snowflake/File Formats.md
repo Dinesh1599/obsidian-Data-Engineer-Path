@@ -25,3 +25,5 @@ then use this when creating the stage
 CREATE STAGE <stagename>
 URL = '<location>'
 FILE_FORMAT = (FORMAT_NAME = <fileformatname>)
+
+
