@@ -24,3 +24,6 @@ eg: COPY INTO @<stage_name>/myfile
 where
 	myfile is the prefix
 	data_ is the default if nothing is mentioned.
+
+Note: 
+Delete the file from the stage or else charges can occur.
