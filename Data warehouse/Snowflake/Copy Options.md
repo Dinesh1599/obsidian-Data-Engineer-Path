@@ -26,3 +26,11 @@ List of Copy Options:
 	1. For checking the length of a value is beyond the defined column value.
 	2. TRUE: Produces error if loaded string length is exceeded
 	3. FALSE: Strings are automatically truncated
+
+
+# UNLOADING
+
+1. SINGLE = FALSE - Splits into multiple files (Default) | TRUE - One big file
+2. MAX_FILE_SIZE = <num> - default = 16777216 (16mb) with max 5GB
+3. FILE_FORMAT  = (TYPE = JSON) - File format can be set in the COPY command
+4. HEADER = TRUE - Will include a header in the output file

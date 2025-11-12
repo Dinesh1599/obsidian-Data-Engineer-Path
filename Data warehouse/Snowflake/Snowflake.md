@@ -14,6 +14,7 @@ INDEX
 13. [[Snowpipe]]
 14. [[VALIDATION_MODE]]
 15. [[VALIDATE]]
+16. [[UNLOADING]]
 
 What is snowflake
 - Self-managed cloud data platform
