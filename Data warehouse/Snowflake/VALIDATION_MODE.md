@@ -7,6 +7,9 @@ Query will look like this:
 ```sql
 COPY INTO <table_name>
 FROM externalStage
-FILES = ()
+FILES = ('<file_name>')
+VALIDATION_MODE = RETURN_n_ROWS | RETURN_ERROS
 ```
+
+
 
