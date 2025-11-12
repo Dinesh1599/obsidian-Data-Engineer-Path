@@ -12,6 +12,7 @@ INDEX
 11. [[File Formats]] (Recommended)
 12. [[Storage Integration]] (not for exam)
 13. [[Snowpipe]]
+14. [[VALIDATION_MODE]]
 
 What is snowflake
 - Self-managed cloud data platform
