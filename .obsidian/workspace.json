@@ -11,10 +11,14 @@
             "id": "ea987d2cb83617fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -175,9 +179,9 @@
   },
   "active": "ea987d2cb83617fc",
   "lastOpenFiles": [
+    "Data warehouse/Snowflake/Copy Options.md",
     "Data warehouse/Snowflake/Snowpipe.md",
     "Data warehouse/Snowflake/Storage Integration.md",
-    "Data warehouse/Snowflake/Copy Options.md",
     "New folder/Untitled.md",
     "Untitled.base",
     "Pasted image 20251110205458.png",
