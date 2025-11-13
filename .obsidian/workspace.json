@@ -195,10 +195,10 @@
   "active": "0a9d078945c13f78",
   "lastOpenFiles": [
     "Data warehouse/Snowflake/Objects in Snowflake.md",
-    "Data warehouse/Snowflake/Snowflake Functions.md",
-    "Data warehouse/Snowflake/Transformations.md",
     "Data warehouse/Snowflake/Estimation Function.md",
     "Data warehouse/Snowflake/VALIDATE.md",
+    "Data warehouse/Snowflake/Snowflake Functions.md",
+    "Data warehouse/Snowflake/Transformations.md",
     "Data warehouse/Snowflake/VALIDATION_MODE.md",
     "Data warehouse/Snowflake/Snowflake.md",
     "Python/Functions.md",
