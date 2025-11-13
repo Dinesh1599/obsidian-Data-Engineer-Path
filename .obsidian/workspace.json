@@ -11,10 +11,14 @@
             "id": "0a9d078945c13f78",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Data warehouse/Snowflake/Objects in Snowflake.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objects in Snowflake"
             }
           },
           {
@@ -23,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/VALIDATE.md",
+                "file": "Data warehouse/Snowflake/Snowflake Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VALIDATE"
+              "title": "Snowflake Functions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,14 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eee6c7d47bd002c7",
+  "active": "0a9d078945c13f78",
   "lastOpenFiles": [
-    "Data warehouse/Snowflake/VALIDATION_MODE.md",
+    "Data warehouse/Snowflake/Snowflake Functions.md",
+    "Data warehouse/Snowflake/Transformations.md",
+    "Data warehouse/Snowflake/Estimation Function.md",
     "Data warehouse/Snowflake/VALIDATE.md",
-    "Snowflake Functions.md",
+    "Data warehouse/Snowflake/VALIDATION_MODE.md",
     "Data warehouse/Snowflake/Snowflake.md",
     "Python/Functions.md",
-    "Transformations.md",
     "Data warehouse/Snowflake/Copy Options.md",
     "Data warehouse/Snowflake/Snowpipe.md",
     "Data warehouse/Snowflake/UNLOADING.md",
@@ -229,7 +233,6 @@
     "dfsdf.md",
     "Data warehouse/Snowflake/External Stage.md",
     "Pasted image 20251110195226.png",
-    "Databases/Neo4j.md",
     "Pasted image 20251028193911.png",
     "Pasted image 20251029131238.png",
     "Pasted image 20251028191332.png",
