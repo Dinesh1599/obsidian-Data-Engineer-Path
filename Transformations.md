@@ -15,3 +15,5 @@ Not supported
 3. GROUP BY
 4. Filter with where
 5. Joins
+
+Note: This is **ONLY** meant when using SQL queries in COPY INTO!

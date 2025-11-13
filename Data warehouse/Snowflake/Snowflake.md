@@ -16,6 +16,7 @@ INDEX
 15. [[VALIDATE]]
 16. [[UNLOADING]]
 17. [[Transformations]]
+18. [[Snowflake Functions]]
 
 What is snowflake
 - Self-managed cloud data platform
