@@ -14,3 +14,4 @@ Not supported
 2. Aggregation functions
 3. GROUP BY
 4. Filter with where
+5. Joins
