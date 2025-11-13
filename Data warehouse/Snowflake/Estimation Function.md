@@ -14,4 +14,8 @@ Exact value can take time. But sometimes an approx value is good enough. thus ge
 
 
 3. APPROX_PERCENTILE() - Percentile values
+	1. It’s basically the cutoff value at whatever percentile you choose.
+
+
+
 4. MINHASH + APPROXIMATE_SIMILARITY() - Similarity of 2 or more sets
