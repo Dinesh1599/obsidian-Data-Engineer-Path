@@ -9,3 +9,8 @@ Query is written like this
 VALIDATE( <table_name>, JOB_ID => {'<query_id>', | '_last' } )
 
 ```
+
+Eg:
+```sql
+SELECT * FROM TABLE(VALIDATE(ORDERS, JOB_ID=>'_last'));
+```
