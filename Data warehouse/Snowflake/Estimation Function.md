@@ -25,3 +25,5 @@ Exact value can take time. But sometimes an approx value is good enough. thus ge
 			1. Where: n is the cut off value. for eg: if 0.5, shows 50% or if its 0.9, it shows the value of the 90% percentile
 
 4. MINHASH + APPROXIMATE_SIMILARITY() - Similarity of 2 or more sets
+	1. Uses MinHash to estimate the similarity between two or more datasets
+	2. 
