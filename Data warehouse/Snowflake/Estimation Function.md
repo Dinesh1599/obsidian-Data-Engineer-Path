@@ -6,7 +6,9 @@ Exact value can take time. But sometimes an approx value is good enough. thus ge
 	3. Very time saving
 
 2. APPROX_TOP_K() Frequent values
-	1. 
+	1. Shows how many times the top values n values are present in the column.
+	2.  Basically shows the top n values called along with the no: of times called.
+	3. Present in JSON format!
 
 
 
