@@ -26,4 +26,4 @@ Exact value can take time. But sometimes an approx value is good enough. thus ge
 
 4. MINHASH + APPROXIMATE_SIMILARITY() - Similarity of 2 or more sets
 	1. Uses MinHash to estimate the similarity between two or more datasets
-	2. 
+	2. Uses Jaccards similarity coefficient as reference (J(A,B)=∣A∪B∣∣A∩B∣​)
