@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Snowflake.md",
+                "file": "Transformations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snowflake"
+              "title": "Transformations"
             }
           }
         ],
@@ -192,6 +192,8 @@
   "active": "eee6c7d47bd002c7",
   "lastOpenFiles": [
     "Data warehouse/Snowflake/Snowpipe.md",
+    "Transformations.md",
+    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Copy Options.md",
     "Data warehouse/Snowflake/UNLOADING.md",
     "parameters.md",
@@ -207,7 +209,6 @@
     "Data warehouse/Snowflake/File Formats.md",
     "Python/Control Flow.md",
     "Untitled.base",
-    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/VALIDATE.md",
     "Data warehouse/Snowflake/VALIDATION_MODE.md",
     "Data warehouse/Snowflake/Querying.md",
@@ -229,7 +230,6 @@
     "Databases/Neo4j.md",
     "Data warehouse/Snowflake/Resource Monitors.md",
     "Data warehouse/Snowflake/INSERT AND UPDATE.md",
-    "Python/If-Else.md",
     "Pasted image 20251028193911.png",
     "Pasted image 20251029131238.png",
     "Pasted image 20251028191332.png",
