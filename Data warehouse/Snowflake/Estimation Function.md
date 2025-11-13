@@ -29,4 +29,13 @@ Exact value can take time. But sometimes an approx value is good enough. thus ge
 	2. Uses Jaccards similarity coefficient as reference (J(A,B)=∣A∩B∣​/∣A∪B∣) -  this is compute heavy
 	3. Query  (2-step process):
 		1.  Select MINHASH(100,) as mh from mhtab1;
-		2. 
+		2. the closer the number is to 1, the similar the tables are!
+		3. Query
+
+
+SELECT APPROXIMATE_SIMILARITY(mh) FROM
+    (
+      (SELECT MINHASH(100, *) mh FROM orders WHERE o_totalprice <= 50000)
+         UNION
+      (SELECT MINHASH(100, *) mh FROM orders WHERE C2 > 50000)
+    );
