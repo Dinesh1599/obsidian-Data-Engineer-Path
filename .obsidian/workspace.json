@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stored Procedure.md",
+                "file": "Data warehouse/Snowflake/UDF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stored Procedure"
+              "title": "UDF"
             }
           }
         ],
@@ -195,10 +195,10 @@
   },
   "active": "eee6c7d47bd002c7",
   "lastOpenFiles": [
-    "Stored Procedure.md",
     "Data warehouse/Snowflake/Snowflake Functions.md",
-    "Data warehouse/Snowflake/Snowflake.md",
+    "Stored Procedure.md",
     "Data warehouse/Snowflake/UDF.md",
+    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/COPY INTO.md",
     "Data warehouse/Snowflake/File Formats.md",
     "New folder/Untitled.md",

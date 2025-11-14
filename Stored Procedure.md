@@ -9,3 +9,16 @@ To create a SP
 1. Snowflake Scripting. Snowflake SQL + procedural logic
 2. JavaScript
 3. Snowpark API
+
+Query to create a SP:
+
+CREATE PROCEDURE find_min (n1 int, n2 int )
+	returns int  <-- ==must be specified even if nothing is returned==
+	language sql
+		as
+		BEGIN
+		if (n1 < n2)
+			THEN RETURN n2
+			ELSE RETURN N1
+		end if;
+		end;
