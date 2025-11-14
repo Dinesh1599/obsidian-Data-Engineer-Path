@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UDF.md",
+                "file": "Data warehouse/Snowflake/UDF.md",
                 "mode": "source",
                 "source": false
               },
@@ -193,10 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eee6c7d47bd002c7",
+  "active": "8bb36002b09ef60b",
   "lastOpenFiles": [
+    "Data warehouse/Snowflake/UDF.md",
     "Data warehouse/Snowflake/Snowflake Functions.md",
-    "UDF.md",
     "Data warehouse/Snowflake/File Formats.md",
     "Data warehouse/Snowflake/COPY INTO.md",
     "New folder/Untitled.md",
