@@ -22,3 +22,17 @@ CREATE PROCEDURE find_min (n1 int, n2 int )
 			ELSE RETURN N1
 		end if;
 		end;
+
+Stored Procedures are schema level objects. Hence user level privileges can be given 
+
+To call a SP use the query:
+	CALL find_min (3, 2);
+
+Best thing about SP:
+	Can have multiple operations...
+
+
+To make this more dynamic:
+use :arguement
+![[Pasted image 20251114022908.png]]
+![[Pasted image 20251114022950.png]]
