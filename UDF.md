@@ -1,12 +1,10 @@
-
+UDF- User Defined Function
 Adding functions to snowflake for your DB
-
 Supported Languages:
 1. SQL
 2. JAVA
 3. Python
 4. JavaScript
-
 
 Syntax:
 
