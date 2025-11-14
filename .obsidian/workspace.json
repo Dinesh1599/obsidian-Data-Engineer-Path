@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stored Procedure.md",
+                "file": "Data warehouse/Snowflake/Estimation Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stored Procedure"
+              "title": "Estimation Function"
             }
           }
         ],
@@ -195,11 +195,15 @@
   },
   "active": "eee6c7d47bd002c7",
   "lastOpenFiles": [
+    "label.md",
+    "node.md",
+    "parameters.md",
+    "Data warehouse/Snowflake/External Function.md",
+    "Data warehouse/Snowflake/Snowflake Functions.md",
+    "Data warehouse/Snowflake/Stored Procedure.md",
     "Pasted image 20251114022950.png",
     "Pasted image 20251114022908.png",
-    "Data warehouse/Snowflake/Snowflake Functions.md",
     "Data warehouse/Snowflake/UDF.md",
-    "Stored Procedure.md",
     "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/COPY INTO.md",
     "Data warehouse/Snowflake/File Formats.md",
@@ -213,9 +217,6 @@
     "Data warehouse/Snowflake/Copy Options.md",
     "Data warehouse/Snowflake/Snowpipe.md",
     "Data warehouse/Snowflake/UNLOADING.md",
-    "parameters.md",
-    "label.md",
-    "node.md",
     "Data warehouse/Snowflake/Snowflake Stages.md",
     "Data warehouse/Snowflake/Cost.md",
     "Data warehouse/Snowflake/Internal Stage.md",
@@ -237,7 +238,6 @@
     "Pasted image 20251110195226.png",
     "Pasted image 20251028193911.png",
     "Pasted image 20251029131238.png",
-    "Pasted image 20251028191332.png",
     "Untitled 8.base",
     "EDA/EDA Flow.canvas",
     "EDA/Data Engineering Process.canvas",

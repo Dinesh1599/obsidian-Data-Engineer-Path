@@ -36,3 +36,8 @@ To make this more dynamic:
 use :arguement
 ![[Pasted image 20251114022908.png]]
 ![[Pasted image 20251114022950.png]]
+
+==Privileges are little scary but important here!!==
+
+==EXECUTE AS CALLER is a good idea - Says run normally! - based on privileges given to that role==
+==EXECUTE AS OWNER is sorta like telling the SP to run as admin==

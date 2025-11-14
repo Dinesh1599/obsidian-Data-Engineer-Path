@@ -5,5 +5,5 @@
 5. System Function
 6. [[UDF]]s
 7. [[Stored Procedure]]
-8.  External Function
+8.  [[External Function]]
 9. [[Estimation Function]]
