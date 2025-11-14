@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/UDF.md",
+                "file": "Stored Procedure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UDF"
+              "title": "Stored Procedure"
             }
           }
         ],
@@ -193,19 +193,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bb36002b09ef60b",
+  "active": "eee6c7d47bd002c7",
   "lastOpenFiles": [
-    "Data warehouse/Snowflake/UDF.md",
+    "Stored Procedure.md",
     "Data warehouse/Snowflake/Snowflake Functions.md",
-    "Data warehouse/Snowflake/File Formats.md",
+    "Data warehouse/Snowflake/Snowflake.md",
+    "Data warehouse/Snowflake/UDF.md",
     "Data warehouse/Snowflake/COPY INTO.md",
+    "Data warehouse/Snowflake/File Formats.md",
     "New folder/Untitled.md",
     "Data warehouse/Snowflake/Estimation Function.md",
     "Data warehouse/Snowflake/Objects in Snowflake.md",
     "Data warehouse/Snowflake/VALIDATE.md",
     "Data warehouse/Snowflake/Transformations.md",
     "Data warehouse/Snowflake/VALIDATION_MODE.md",
-    "Data warehouse/Snowflake/Snowflake.md",
     "Python/Functions.md",
     "Data warehouse/Snowflake/Copy Options.md",
     "Data warehouse/Snowflake/Snowpipe.md",
@@ -224,7 +225,6 @@
     "Untitled.base",
     "Data warehouse/Snowflake/Querying.md",
     "Data warehouse/Snowflake/Storage Integration.md",
-    "Data warehouse/Snowflake/Storage Monitoring.md",
     "Pasted image 20251110205458.png",
     "Untitled 6.base",
     "Untitled 5.base",
