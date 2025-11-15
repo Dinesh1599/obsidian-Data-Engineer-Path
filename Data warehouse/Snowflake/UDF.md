@@ -31,3 +31,11 @@ def addone_py(i):
 $$;
 
 Note: The handler is what tells snowflake which function is called when running this UDF.
+
+Security: 
+	Do the same thing are normally creating a function but add SECURE before it.\
+	eg:
+		Create *secure* function add_two(n int)
+
+Tradeoff:
+	Security -> Lesser performance.

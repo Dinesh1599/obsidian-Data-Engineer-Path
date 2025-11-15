@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/UDF.md",
+                "file": "Sequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UDF"
+              "title": "Sequence"
             }
           }
         ],
@@ -195,12 +195,15 @@
   },
   "active": "493b97c2ae28c414",
   "lastOpenFiles": [
+    "Pasted image 20251115163429.png",
+    "Data warehouse/Snowflake/Snowflake.md",
+    "Sequence.md",
+    "Data warehouse/Snowflake/Snowpipe.md",
+    "Data warehouse/Snowflake/UDF.md",
     "Data warehouse/Snowflake/Snowflake Functions.md",
     "Data warehouse/Snowflake/External Function.md",
     "Data warehouse/Snowflake/Estimation Function.md",
     "Data warehouse/Snowflake/Stored Procedure.md",
-    "Data warehouse/Snowflake/UDF.md",
-    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/COPY INTO.md",
     "label.md",
     "node.md",
@@ -215,7 +218,6 @@
     "Data warehouse/Snowflake/VALIDATION_MODE.md",
     "Python/Functions.md",
     "Data warehouse/Snowflake/Copy Options.md",
-    "Data warehouse/Snowflake/Snowpipe.md",
     "Data warehouse/Snowflake/UNLOADING.md",
     "Data warehouse/Snowflake/Snowflake Stages.md",
     "Data warehouse/Snowflake/Cost.md",
@@ -224,9 +226,7 @@
     "Pasted image 20251111221942.png",
     "Pasted image 20251111221707.png",
     "Pasted image 20251111221636.png",
-    "Python/Control Flow.md",
     "Untitled.base",
-    "Data warehouse/Snowflake/Querying.md",
     "Pasted image 20251110205458.png",
     "Untitled 6.base",
     "Untitled 5.base",
