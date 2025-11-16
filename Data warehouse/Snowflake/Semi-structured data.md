@@ -58,3 +58,6 @@ When using something like this to flatten the JSON. its bad cuz we dont know how
 
 Inserting Data into a JSON table
 
+parse.JSON format..
+
+INSERT INTO semi_structured SELECT parse_json(' { "key1": "value1", "key2": "value2" } ');
