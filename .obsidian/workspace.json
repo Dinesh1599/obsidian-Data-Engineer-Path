@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eee6c7d47bd002c7",
+            "id": "08c62a13c8086152",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Semi-structured data.md",
+                "file": "Data warehouse/Snowflake/Internal Stage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semi-structured data"
+              "title": "Internal Stage"
+            }
+          },
+          {
+            "id": "8a6d7394424dd2a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data warehouse/Snowflake/Unstructured data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unstructured data"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,15 +193,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eee6c7d47bd002c7",
+  "active": "8a6d7394424dd2a7",
   "lastOpenFiles": [
-    "Data warehouse/Snowflake/Snowflake Flatten data.md",
+    "Data warehouse/Snowflake/Internal Stage.md",
+    "Directory Table.md",
+    "Data warehouse/Snowflake/External Stage.md",
     "Data warehouse/Snowflake/Snowflake.md",
+    "Data warehouse/Snowflake/Snowflake Stages.md",
+    "Data warehouse/Snowflake/UNLOADING.md",
+    "Data warehouse/Snowflake/Unstructured data.md",
+    "Data warehouse/Snowflake/Snowpipe.md",
+    "Data warehouse/Snowflake/Semi-structured data.md",
+    "Data warehouse/Snowflake/Snowflake Flatten data.md",
     "Data warehouse/Snowflake/External Function.md",
     "Untitled.base",
-    "Data warehouse/Snowflake/Semi-structured data.md",
     "Pasted image 20251114022950.png",
-    "Data warehouse/Snowflake/Snowpipe.md",
     "Data warehouse/Snowflake/File Formats.md",
     "Data warehouse/Snowflake/Sequence.md",
     "Pasted image 20251115163429.png",
@@ -204,11 +225,6 @@
     "Data warehouse/Snowflake/VALIDATE.md",
     "Data warehouse/Snowflake/Transformations.md",
     "Data warehouse/Snowflake/VALIDATION_MODE.md",
-    "Python/Functions.md",
-    "Data warehouse/Snowflake/Copy Options.md",
-    "Data warehouse/Snowflake/UNLOADING.md",
-    "Data warehouse/Snowflake/Snowflake Stages.md",
-    "Data warehouse/Snowflake/Cost.md",
     "Pasted image 20251111221942.png",
     "Pasted image 20251111221707.png",
     "Pasted image 20251111221636.png",

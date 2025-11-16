@@ -20,7 +20,8 @@ INDEX
 19. [[Sequence]]
 20. [[Semi-structured data]]
 21. [[Snowflake Flatten data]]
-22. 
+22. [[Unstructured data]]
+23. [[Directory Table]]
 
 What is snowflake
 - Self-managed cloud data platform
