@@ -23,3 +23,6 @@ To create a [[File Formats]] for JSON:
 
 CREATE FILE FORMAT my_file_format
 TYPE = {JSON}
+
+
+Loading a semi-structured data
