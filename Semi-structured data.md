@@ -27,3 +27,8 @@ TYPE = {JSON}
 
 Loading a semi-structured data:
 
+Standard Approach: ELT method
+
+
+Extract and load Data -> Analyze/ Parse -> Flatten data
+
