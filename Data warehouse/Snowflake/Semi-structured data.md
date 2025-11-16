@@ -56,4 +56,4 @@ ORDER BY id;
 
 When using something like this to flatten the JSON. its bad cuz we dont know how  many rows or elements will showup
 
-use [[Snowflake Flatten]]
+use [[Snowflake Flatten data]]
