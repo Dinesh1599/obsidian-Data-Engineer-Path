@@ -32,3 +32,9 @@ Standard Approach: ELT method
 
 Extract and load Data -> Analyze/ Parse -> Flatten data
 
+
+
+Querying a semi-structured Data:
+
+select raw_column:courses
+from variant_Table;
