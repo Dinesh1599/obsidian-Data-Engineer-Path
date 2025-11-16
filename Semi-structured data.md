@@ -25,4 +25,5 @@ CREATE FILE FORMAT my_file_format
 TYPE = {JSON}
 
 
-Loading a semi-structured data
+Loading a semi-structured data:
+
