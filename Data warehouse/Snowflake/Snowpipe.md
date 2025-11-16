@@ -1,3 +1,4 @@
+
 1. Loads data immediately when a file appears in the storage
 2. According to defined [[COPY INTO]] statement
 3. if data needs to be available for immediate analysis
