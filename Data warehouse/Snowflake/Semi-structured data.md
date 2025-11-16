@@ -38,3 +38,22 @@ Querying a semi-structured Data:
 
 select raw_column:courses
 from variant_Table;
+
+Issue: 
+
+SELECT 
+    RAW_FILE:id::int as id,  
+    RAW_FILE:first_name::STRING as first_name,
+    RAW_FILE:prev_company[0]::STRING as first_prev_company
+FROM OUR_FIRST_DB.PUBLIC.JSON_RAW
+UNION ALL 
+SELECT 
+    RAW_FILE:id::int as id,  
+    RAW_FILE:first_name::STRING as first_name,
+    RAW_FILE:prev_company[1]::STRING as second_prev_company
+FROM OUR_FIRST_DB.PUBLIC.JSON_RAW
+ORDER BY id;
+
+When using something like this to flatten the JSON. its bad cuz we dont know how  many rows or elements will showup
+
+use [[Snowflake Flatten]]
