@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Sampling.md",
+                "file": "Data warehouse/Snowflake/Data Sampling.md",
                 "mode": "source",
                 "source": false
               },
@@ -195,11 +195,12 @@
   },
   "active": "8a6d7394424dd2a7",
   "lastOpenFiles": [
+    "Data warehouse/Snowflake/Directory Table.md",
+    "Data warehouse/Snowflake/Data Sampling.md",
+    "Untitled.base",
     "Data warehouse/Snowflake/Snowflake.md",
-    "Data Sampling.md",
     "Data warehouse/Snowflake/Unstructured data.md",
     "Data warehouse/Snowflake/Internal Stage.md",
-    "Directory Table.md",
     "Data warehouse/Snowflake/External Stage.md",
     "Data warehouse/Snowflake/Snowflake Stages.md",
     "Data warehouse/Snowflake/UNLOADING.md",
@@ -207,7 +208,6 @@
     "Data warehouse/Snowflake/Semi-structured data.md",
     "Data warehouse/Snowflake/Snowflake Flatten data.md",
     "Data warehouse/Snowflake/External Function.md",
-    "Untitled.base",
     "Pasted image 20251114022950.png",
     "Data warehouse/Snowflake/File Formats.md",
     "Data warehouse/Snowflake/Sequence.md",
@@ -224,7 +224,6 @@
     "New folder/Untitled.md",
     "Data warehouse/Snowflake/Objects in Snowflake.md",
     "Data warehouse/Snowflake/VALIDATE.md",
-    "Data warehouse/Snowflake/Transformations.md",
     "Pasted image 20251111221942.png",
     "Pasted image 20251111221707.png",
     "Pasted image 20251111221636.png",
