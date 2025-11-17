@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Connector, drivers and Partner connect.md",
+                "file": "Data warehouse/Snowflake/Snowflake Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Connector, drivers and Partner connect"
+              "title": "Snowflake Architecture"
             }
           },
           {
@@ -224,24 +224,26 @@
   "active": "8a6d7394424dd2a7",
   "lastOpenFiles": [
     "Data warehouse/Snowflake/Snowflake.md",
-    "Connector, drivers and Partner connect.md",
-    "Data warehouse/Snowflake/UDF.md",
-    "Data warehouse/Snowflake/Directory Table.md",
-    "Pasted image 20250829111952 1.png",
+    "Data warehouse/Snowflake/Snowflake Architecture.md",
+    "Data warehouse/Snowflake/SnowSQL.md",
+    "Data warehouse/Snowflake/Snowpipe.md",
     "Data warehouse/Snowflake/Tasks and Streams.md",
+    "Data warehouse/Snowflake/Directory Table.md",
+    "Data warehouse/Snowflake/Unstructured data.md",
+    "Data warehouse/Snowflake/Data Sampling.md",
+    "Data warehouse/Snowflake/UDF.md",
+    "Connector, drivers and Partner connect.md",
+    "Pasted image 20250829111952 1.png",
     "Data warehouse/Snowflake/Internal Stage.md",
     "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
     "Data warehouse/Snowflake/Stored Procedure.md",
-    "Data warehouse/Snowflake/Snowpipe.md",
     "SQL/DML.md",
     "Data warehouse/Snowflake/UNLOADING.md",
     "Data warehouse/Snowflake/INSERT AND UPDATE.md",
     "Pasted image 20251117031709.png",
     "Data warehouse/Snowflake/Semi-structured data.md",
     "Data warehouse/Snowflake/Snowflake Flatten data.md",
-    "Data warehouse/Snowflake/Data Sampling.md",
     "Untitled.base",
-    "Data warehouse/Snowflake/Unstructured data.md",
     "Data warehouse/Snowflake/External Stage.md",
     "Data warehouse/Snowflake/Snowflake Stages.md",
     "Data warehouse/Snowflake/External Function.md",
@@ -252,8 +254,6 @@
     "Data warehouse/Snowflake/Snowflake Functions.md",
     "Data warehouse/Snowflake/Estimation Function.md",
     "Data warehouse/Snowflake/COPY INTO.md",
-    "label.md",
-    "node.md",
     "Pasted image 20251114022908.png",
     "Pasted image 20251111221942.png",
     "Pasted image 20251111221707.png",
