@@ -23,6 +23,7 @@ INDEX
 22. [[Unstructured data]]
 23. [[Directory Table]]
 24. [[Data Sampling]]
+25. [[Tasks and Streams]]
 
 What is snowflake
 - Self-managed cloud data platform

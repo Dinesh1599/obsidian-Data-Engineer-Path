@@ -5,10 +5,10 @@ What it is...
 
 Snowflake Sampling method:
 
-1. Row or Bernoulli
+1. Row or Bernoulli and the Syntax
 	1. Select * from table 
 		SAMPLE ROW (p) SEED(n)
-2. Block or System method
+2. Block or System method and the Syntax
 	1. Select * from table 
 		SAMPLE SYSTEM (p) SEED(n)
 
