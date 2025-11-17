@@ -12,7 +12,7 @@
 2. #MATCH Enterprise
 	1. Features
 		1. All Standard Features
-		2. multi-cluster warehouse
+		2. multi-cluster warehouse 
 		3. Time travel up to 90 days
 		4. Materialized views
 		5. Search Optimization
