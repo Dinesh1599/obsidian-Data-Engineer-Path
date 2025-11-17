@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Storage Monitoring.md",
+                "file": "Data warehouse/Snowflake/Snowflake.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storage Monitoring"
+              "title": "Snowflake"
             }
           }
         ],
@@ -195,10 +195,13 @@
   },
   "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
+    "Pasted image 20251117174638.png",
+    "Data warehouse/Snowflake/Snowpipe.md",
     "Data warehouse/Snowflake/Snowflake.md",
+    "Data warehouse/Snowflake/Resource Monitors.md",
+    "Data warehouse/Snowflake/Storage Monitoring.md",
     "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
     "Data warehouse/Snowflake/Snowflake Architecture.md",
-    "Data warehouse/Snowflake/Snowpipe.md",
     "Data warehouse/Snowflake/Internal Stage.md",
     "Data warehouse/Snowflake/Traditional Architecture.md",
     "Data warehouse/Snowflake/SnowSQL.md",
@@ -222,10 +225,7 @@
     "Data warehouse/Snowflake/External Function.md",
     "Pasted image 20251114022950.png",
     "Data warehouse/Snowflake/File Formats.md",
-    "Data warehouse/Snowflake/Sequence.md",
     "Pasted image 20251115163429.png",
-    "Data warehouse/Snowflake/Snowflake Functions.md",
-    "Data warehouse/Snowflake/Estimation Function.md",
     "Pasted image 20251114022908.png",
     "Pasted image 20251111221942.png",
     "Pasted image 20251111221707.png",

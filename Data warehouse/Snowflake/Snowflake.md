@@ -1,4 +1,4 @@
-INDEX
+ INDEX
 1. [[Snowflake Architecture]]
 2. [[Snowflake Editions and pricing]]
 3. [[Querying]]
@@ -35,4 +35,7 @@ What is snowflake
 - components are all run in the cloud'
 - Fully cloud optimized
 - can be a data warehouse or a data lake
+
 ![[Pasted image 20251029160606.png]]
+
+![[Pasted image 20251117174638.png]]
