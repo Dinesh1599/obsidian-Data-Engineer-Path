@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Directory Table.md",
+                "file": "Connector, drivers and Partner connect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Directory Table"
+              "title": "Connector, drivers and Partner connect"
             }
           },
           {
@@ -223,9 +223,12 @@
   },
   "active": "8a6d7394424dd2a7",
   "lastOpenFiles": [
+    "Data warehouse/Snowflake/Snowflake.md",
+    "Connector, drivers and Partner connect.md",
+    "Data warehouse/Snowflake/UDF.md",
+    "Data warehouse/Snowflake/Directory Table.md",
     "Pasted image 20250829111952 1.png",
     "Data warehouse/Snowflake/Tasks and Streams.md",
-    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Internal Stage.md",
     "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
     "Data warehouse/Snowflake/Stored Procedure.md",
@@ -237,7 +240,6 @@
     "Data warehouse/Snowflake/Semi-structured data.md",
     "Data warehouse/Snowflake/Snowflake Flatten data.md",
     "Data warehouse/Snowflake/Data Sampling.md",
-    "Data warehouse/Snowflake/Directory Table.md",
     "Untitled.base",
     "Data warehouse/Snowflake/Unstructured data.md",
     "Data warehouse/Snowflake/External Stage.md",
@@ -247,7 +249,6 @@
     "Data warehouse/Snowflake/File Formats.md",
     "Data warehouse/Snowflake/Sequence.md",
     "Pasted image 20251115163429.png",
-    "Data warehouse/Snowflake/UDF.md",
     "Data warehouse/Snowflake/Snowflake Functions.md",
     "Data warehouse/Snowflake/Estimation Function.md",
     "Data warehouse/Snowflake/COPY INTO.md",
@@ -265,7 +266,6 @@
     "Untitled 2.base",
     "Untitled 1.base",
     "Pasted image 20251110205143.png",
-    "Pasted image 20251110195226.png",
     "Untitled 8.base",
     "EDA/EDA Flow.canvas",
     "EDA/Data Engineering Process.canvas",
