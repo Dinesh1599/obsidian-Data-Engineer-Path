@@ -4,9 +4,8 @@ Unlike [[Traditional Architecture]], snowflake has a combination of the best of 
 Benefits:
 	1. Data Sharing
 	2. Failover Capabilities
-	3. Scalabilities
-	4. Scalability
-	5. Performance
+	3. Scalability
+	4. Performance
 
 
 ![[Pasted image 20251028191332.png]]
