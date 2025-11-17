@@ -1,5 +1,9 @@
-Stores metadata of staged files
+Stores metadata of an external staged files
 Note: It is not a database object but a layer of stage object. Can be queried with sufficient privileges (on the [[Snowflake Stages]]).
+Snowflake needs to track **files inside cloud storage**, which can change outside Snowflake.
+
+### Purpose:
+Track + detect + query file metadata stored _outside Snowflake_.
 
 Where is this privileges enabled?
 
