@@ -47,6 +47,12 @@ Syntax:
 Querying from a stream: 
 	Select * from streamName;
 
+
+YOU WILL SEE 3 ADDITIONAL ROWS
+1. METADATA$ACTION
+2. METADATA$ISUPDATE
+3. METADATA$ROW_ID
+
 Consuming a stream:
 	So, the changed data is in the stream. Stream can be consumed. Meaning, if we use the stream data to update the table, it empties that data from the stream.
 
@@ -76,3 +82,13 @@ Stream Staleness
 	Streams becomes stale when the offset is outside the retention period of the source table
 	To Know the data when the stream is predicting the staleness, check the column ==STALE_AFTER==  when you run the query - DESC stream
 	Stream extends the ==retention to 14 days== (Default)
+
+
+Combining task + stream
+
+Create task demo_task
+	WAREHOUSE = warehouse_name
+	SCHEDULE = '15 MINUTE'
+	WHEN SYSTEM$STREAM_HAS_DATA('STREAM_NAME')
+	AS
+	INSERT INTO TABLE_NAME (VALUES);
