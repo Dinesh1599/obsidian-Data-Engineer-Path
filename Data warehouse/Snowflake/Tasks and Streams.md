@@ -73,4 +73,6 @@ Append-only streams does not supports external tables but supports
 3. Views
 
 Stream Staleness
-  
+	Streams becomes stale when the offset is outside the retention period of the source table
+	To Know the data when the stream is predicting the staleness, check the column ==STALE_AFTER==  when you run the query - DESC stream
+	Stream extends the ==retention to 14 days== (Default)
