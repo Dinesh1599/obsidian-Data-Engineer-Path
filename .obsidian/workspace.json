@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks and Streams.md",
+                "file": "Data warehouse/Snowflake/Semi-structured data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks and Streams"
+              "title": "Semi-structured data"
             }
           },
           {
@@ -209,8 +209,10 @@
   },
   "active": "8a6d7394424dd2a7",
   "lastOpenFiles": [
-    "Data warehouse/Snowflake/Snowpipe.md",
+    "Data warehouse/Snowflake/Snowflake Flatten data.md",
+    "Data warehouse/Snowflake/Semi-structured data.md",
     "Tasks and Streams.md",
+    "Data warehouse/Snowflake/Snowpipe.md",
     "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Data Sampling.md",
     "Data warehouse/Snowflake/Directory Table.md",
@@ -220,8 +222,6 @@
     "Data warehouse/Snowflake/External Stage.md",
     "Data warehouse/Snowflake/Snowflake Stages.md",
     "Data warehouse/Snowflake/UNLOADING.md",
-    "Data warehouse/Snowflake/Semi-structured data.md",
-    "Data warehouse/Snowflake/Snowflake Flatten data.md",
     "Data warehouse/Snowflake/External Function.md",
     "Pasted image 20251114022950.png",
     "Data warehouse/Snowflake/File Formats.md",
