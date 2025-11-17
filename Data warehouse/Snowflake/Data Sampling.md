@@ -17,9 +17,10 @@ Where **p** is the percentage of rows needed and **n** is the seed value
 Difference
 
 
-| Row                                   | System                               |
-| ------------------------------------- | ------------------------------------ |
-| Every row is chosen with percentage p | Every block is chosen with partition |
-| More random                           | More efficient partitioing           |
+| Row                                         | System                               |
+| ------------------------------------------- | ------------------------------------ |
+| Every row is chosen with percentage p       | Every block is chosen with partition |
+| More random                                 | More efficient partitioing           |
+| Best for smaller tables and real randomness | for Larger Tables                    |
 
 
