@@ -1,44 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "line:(transient)",
+  "search": "line:(api_integration)",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"Data warehouse/Snowflake\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 2399964
-      }
-    },
-    {
-      "query": "path:SQL  ",
-      "color": {
-        "a": 1,
-        "rgb": 25343
-      }
-    },
-    {
-      "query": "path:\"Database Management Concepts\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16000293
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224586,
-  "close": true
+  "scale": 0.7132754626224639,
+  "close": false
 }
