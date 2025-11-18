@@ -32,3 +32,6 @@
 
 
 For more detailed info: 
+![[Pasted image 20251117184923.png]]
+
+Pictures kinda makes it easier to understand the editions
