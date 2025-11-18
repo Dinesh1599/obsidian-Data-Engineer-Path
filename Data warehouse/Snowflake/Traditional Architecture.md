@@ -22,6 +22,7 @@
 	1. Costs more and can get complicated.
 	2. Risk of “traffic jams” if too many try to use the disk at once.
 	3. More care needed to keep data in sync and avoid conflicts.
+	4. Limit scalability
 
 5. Where is it used?
 	1. Big databases like Oracle RAC.
