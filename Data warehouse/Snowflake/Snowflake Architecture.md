@@ -64,3 +64,4 @@ List of snowflake client options:
 	1. Query execution happens in this layer using “virtual warehouses,” which are independent MPP (massively parallel processing) compute clusters. Each virtual warehouse can process queries without impacting others, providing scalable and isolated compute resources.
 3. **Cloud Services**
 	1. This layer coordinates system operations such as ==authentication, infrastructure management, metadata management, query parsing/optimization, and access control.== It ties together all components and handles user requests from login through to query dispatch.
+		1. Remeber **AITMQS**
