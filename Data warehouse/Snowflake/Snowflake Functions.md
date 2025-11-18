@@ -9,5 +9,9 @@
 9. [[Estimation Function]]
 
 
+Reference handson: D5_2.sql
+
 Similarities of UDFs and stored procedures:
 
+![[Pasted image 20251118141642.png]]
+Reference: https://www.udemy.com/course/ultimate-snowpro-core-certification-course-exam/learn/lecture/34479226?start=225#questions
