@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Data warehouse/Snowflake/Objects in Snowflake.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,10 +180,11 @@
   },
   "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
+    "Pasted image 20251117192504.png",
+    "Data warehouse/Snowflake/Objects in Snowflake.md",
     "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Data warehouse/Snowflake/Tasks and Streams.md",
-    "Data warehouse/Snowflake/Objects in Snowflake.md",
     "Pasted image 20251117185311.png",
     "Pasted image 20251030222126.png",
     "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
