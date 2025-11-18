@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Data warehouse/Snowflake/Snowflake Functions.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -197,13 +197,14 @@
   "lastOpenFiles": [
     "Data warehouse/Snowflake/UDF.md",
     "Data warehouse/Snowflake/Snowflake Functions.md",
+    "Data warehouse/Snowflake/Tasks and Streams.md",
+    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Stored Procedure.md",
     "Pasted image 20251117201543.png",
     "Data warehouse/Snowflake/External Function.md",
     "Pasted image 20251117201055.png",
     "API integration.md",
     "Pasted image 20251117200952.png",
-    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/File Formats.md",
     "Data warehouse/Snowflake/COPY INTO.md",
     "Data warehouse/Snowflake/Querying.md",
@@ -213,7 +214,6 @@
     "Pasted image 20251117193654.png",
     "Pasted image 20251117192504.png",
     "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
-    "Data warehouse/Snowflake/Tasks and Streams.md",
     "Pasted image 20251117185311.png",
     "Pasted image 20251030222126.png",
     "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
