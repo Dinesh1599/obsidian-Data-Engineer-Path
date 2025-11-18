@@ -2,6 +2,5 @@
 2. Managed my ORGADMIN
 3. 
 
-![[Pasted image 20251030222126.png]]
-
+![[Pasted image 20251117185311.png]]
 PUBLIC Schema: Default Schema.
