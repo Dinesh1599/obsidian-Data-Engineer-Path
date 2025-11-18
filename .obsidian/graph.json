@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 25343
       }
+    },
+    {
+      "query": "path:\"Database Management Concepts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16000293
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224578,
-  "close": false
+  "scale": 0.7132754626224586,
+  "close": true
 }
