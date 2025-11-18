@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Data warehouse/Snowflake/Objects in Snowflake.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,6 +180,7 @@
   },
   "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
+    "Pasted image 20251117193654.png",
     "Pasted image 20251117192504.png",
     "Data warehouse/Snowflake/Objects in Snowflake.md",
     "Data warehouse/Snowflake/Snowflake.md",
@@ -217,7 +218,6 @@
     "Data warehouse/Snowflake/External Stage.md",
     "Pasted image 20251114022950.png",
     "Pasted image 20251115163429.png",
-    "Pasted image 20251114022908.png",
     "Untitled 6.base",
     "Untitled 5.base",
     "Untitled 4.base",

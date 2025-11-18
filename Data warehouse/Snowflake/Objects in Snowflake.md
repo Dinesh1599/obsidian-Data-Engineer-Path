@@ -13,3 +13,9 @@ There are table types as well:
 4. External table
 
 ![[Pasted image 20251117192504.png]]
+
+There are View types as well
+1. Standard View
+2. Materialized View
+3. Secure View
+![[Pasted image 20251117193654.png]]
