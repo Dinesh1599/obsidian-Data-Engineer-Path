@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Snowflake Functions.md",
+                "file": "Data warehouse/Snowflake/Tasks and Streams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snowflake Functions"
+              "title": "Tasks and Streams"
             }
           }
         ],
@@ -195,12 +195,13 @@
   },
   "active": "c3f37498f32ffdc5",
   "lastOpenFiles": [
-    "Pasted image 20251118141642.png",
-    "Data warehouse/Snowflake/UDF.md",
-    "Data warehouse/Snowflake/Snowflake Functions.md",
-    "Data warehouse/Snowflake/Tasks and Streams.md",
+    "Data warehouse/Snowflake/Sequence.md",
     "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Stored Procedure.md",
+    "Data warehouse/Snowflake/Snowflake Functions.md",
+    "Data warehouse/Snowflake/UDF.md",
+    "Pasted image 20251118141642.png",
+    "Data warehouse/Snowflake/Tasks and Streams.md",
     "Pasted image 20251117201543.png",
     "Data warehouse/Snowflake/External Function.md",
     "Pasted image 20251117201055.png",
@@ -225,7 +226,6 @@
     "Database Management Concepts",
     "Data warehouse/Snowflake/Data Sampling.md",
     "Data warehouse/Snowflake/Traditional Architecture.md",
-    "Pasted image 20251117174638.png",
     "Data warehouse/Snowflake/Snowpipe.md",
     "Data warehouse/Snowflake/Resource Monitors.md",
     "Data warehouse/Snowflake/Storage Monitoring.md",

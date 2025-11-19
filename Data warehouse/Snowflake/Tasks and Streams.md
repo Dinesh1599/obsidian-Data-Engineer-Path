@@ -71,12 +71,11 @@ Types of Streams:
 		1. Insert.
 
 Difference in Append-only stream and insert-only stream:
-
-Insert-only stream only works for external tables.
-Append-only streams does not supports external tables but supports
-1. Standard Tables
-2. Directory Tables
-3. Views
+1. Insert-only stream only works for external tables.
+2. Append-only streams does not supports external tables but supports
+	1. Standard Tables
+	2. Directory Tables
+	3. Views
 
 Stream Staleness
 	Streams becomes stale when the offset is outside the retention period of the source table
