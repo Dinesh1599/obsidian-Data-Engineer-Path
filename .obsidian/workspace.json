@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/COPY INTO.md",
-                "mode": "preview",
+                "file": "Data warehouse/Snowflake/Internal Stage.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COPY INTO"
+              "title": "Internal Stage"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Snowflake.md",
+                "file": "Connector, drivers and Partner connect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snowflake"
+              "title": "Connector, drivers and Partner connect"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/SnowSQL.md",
+                "file": "Data warehouse/Snowflake/Snowflake Stages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SnowSQL"
+              "title": "Snowflake Stages"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,14 +207,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0dea738657bf0770",
+  "active": "c3f37498f32ffdc5",
   "lastOpenFiles": [
-    "Pasted image 20251119150720.png",
+    "Pasted image 20251119152340.png",
+    "Data warehouse/Snowflake/Snowflake.md",
+    "Data warehouse/Snowflake/Internal Stage.md",
     "Data warehouse/Snowflake/Cost.md",
+    "Data warehouse/Snowflake/Snowpipe.md",
+    "Data warehouse/Snowflake/Copy Options.md",
+    "Data warehouse/Snowflake/COPY INTO.md",
+    "Data warehouse/Snowflake/Snowflake Stages.md",
+    "Data warehouse/Snowflake/External Stage.md",
+    "Data warehouse/Snowflake/SnowSQL.md",
+    "Pasted image 20251119150720.png",
     "Pasted image 20251119150615.png",
     "Pasted image 20251119150344.png",
-    "Data warehouse/Snowflake/Snowflake.md",
-    "Data warehouse/Snowflake/COPY INTO.md",
     "Data warehouse/Snowflake/Objects in Snowflake.md",
     "Data warehouse/Snowflake/Tasks and Streams.md",
     "Data warehouse/Snowflake/Sequence.md",
@@ -235,17 +242,10 @@
     "Pasted image 20251117192504.png",
     "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Pasted image 20251117185311.png",
-    "Pasted image 20251030222126.png",
     "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
     "Data warehouse/Snowflake/Snowflake Architecture.md",
     "Database Management Concepts/ACID Transaction.md",
     "Database Management Concepts",
-    "Data warehouse/Snowflake/Data Sampling.md",
-    "Data warehouse/Snowflake/Traditional Architecture.md",
-    "Data warehouse/Snowflake/Snowpipe.md",
-    "Data warehouse/Snowflake/Resource Monitors.md",
-    "Data warehouse/Snowflake/Storage Monitoring.md",
-    "Data warehouse/Snowflake/Internal Stage.md",
     "Untitled.base",
     "Untitled 6.base",
     "Untitled 5.base",
