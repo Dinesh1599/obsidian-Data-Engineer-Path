@@ -57,6 +57,7 @@ Things where credits are used as txn:
 	1. Virtual warehouse
 	2. Cloud Service (Operations that doesn't use user managed Vwh. metadata like create tables or show or desc tables)
 	3. Serverless services - (managing compute recourses... snowpipe)
+![[Pasted image 20251119150344.png]]
 
 Dollars are used for: 
 1. Storage (stages or long term table)
