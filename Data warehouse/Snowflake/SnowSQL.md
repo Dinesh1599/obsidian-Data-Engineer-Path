@@ -3,3 +3,5 @@
 
 Login: snowsql -a [ACCOUNT_NAME] - u [LOGIN_ID]
 signout: Ctrl + D
+
+![[Pasted image 20251119150720.png]]

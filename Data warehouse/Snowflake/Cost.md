@@ -62,5 +62,5 @@ Things where credits are used as txn:
 Dollars are used for: 
 1. Storage (stages or long term table)
 2. Data Transfer (transfer data out of snowflake or within snowflake of different accounts in different regions)
-
+![[Pasted image 20251119150615.png]]
 
