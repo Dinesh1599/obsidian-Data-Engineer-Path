@@ -31,4 +31,6 @@ Partner Tools:
 4. ML
 	1. Datarobot
 	2. aws sagemaker
-5. SQL developme
+5. SQL development
+	1. SQLDBM
+	2. 
