@@ -24,7 +24,7 @@
 23. [[Directory Table]]
 24. [[Data Sampling]]
 25. [[Tasks and Streams]]
-26. [[Connector, drivers and Partner connect]]
+26. [[Connector, drivers and Partner tools]]
 27. [[Connector]]
 
 What is snowflake
