@@ -7,6 +7,7 @@
 1. Charged only when the VH is active - mostly when query processing is done
 2. Cloud services  - Behind the scene cloud service task - only charged if exceeds 10% VH compute consumption
 3. Serverless - Search Optimization, snow pipe
+4. 
 
 Charges for compute:
 1. Charged for active vh per hour (Billed by second) - min 1min
@@ -39,3 +40,26 @@ Hence start with on-demand and understand then see capacity if needed
 	1. Loading data in is free
 	2. Loading data out is charged
 		1. depends on region of data region used.
+
+
+
+---
+# My Notes
+
+Payment are of 2 types:
+1. On-demand: Pay as you go
+	1. Prices are higher
+	2. invoice is created at the end of the month with $25 as min
+2. Capacity: Pay for usage upfront
+	1. Prices are lower
+
+Things where credits are used as txn:
+	1. Virtual warehouse
+	2. Cloud Service (Operations that doesn't use user managed Vwh. metadata like create tables or show or desc tables)
+	3. Serverless services - (managing compute recourses... snowpipe)
+
+Dollars are used for: 
+1. Storage (stages or long term table)
+2. Data Transfer (transfer data out of snowflake or within snowflake of different accounts in different regions)
+
+
