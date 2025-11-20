@@ -20,3 +20,9 @@ Custom Roles:
 	This is good for security privileges. Security principle of least privilege.
 
 Recommended: Creating a hierarchy of custom roles with top-most custom role assigned to the sysadmin. if not assigned. SYSADMINs will not be able to manage objects owned by custom roles.
+
+
+Important Queries:
+
+SHOW GRANTS OF ROLE <roleName>   -- shows privileges the role has on objects  
+SHOW GRANTS TO ROLE <roleName>   -- shows all users and roles that have been granted the role

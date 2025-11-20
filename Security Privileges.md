@@ -10,3 +10,5 @@ Categories of security privileges:
 . privileges are managed with GRANT and REVOKE commands.
 . Future grants are also possible for objects not yet created.
 	eg: GRANT SELECT on FUTURE TABLES in SCHEMA <schema> to ROLE <role>;
+
+
