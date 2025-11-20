@@ -2,3 +2,9 @@
 2. [[Roles]]
 3. [[Security Privileges]]
 4. [[User Authentication]]
+5. [[MFA Authentication]]
+6. [[Federated Authentication]]
+7. [[Key Pair Authentication]]
+8. [[Network Policies]]
+9. [[Data Encryptrion]]
+10. 

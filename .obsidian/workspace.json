@@ -13,40 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Internal Stage.md",
+                "file": "Data Encryptrion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internal Stage"
-            }
-          },
-          {
-            "id": "c3f37498f32ffdc5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "0dea738657bf0770",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data warehouse/Snowflake/Snowflake Stages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Snowflake Stages"
+              "title": "Data Encryptrion"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,16 +178,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3f37498f32ffdc5",
+  "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
+    "Pasted image 20251120141007.png",
+    "Data warehouse/Snowflake/Account access and Security.md",
+    "Data Encryptrion.md",
+    "Data warehouse/Snowflake/MFA Authentication.md",
+    "Data warehouse/Snowflake/Federated Authentication.md",
+    "label.md",
+    "Data warehouse/Snowflake/Internal Stage.md",
+    "Data warehouse/Snowflake/Network Policies.md",
+    "Data warehouse/Snowflake/Snowflake Stages.md",
+    "Data warehouse/Snowflake/Key Pair Authentication.md",
+    "Data warehouse/Snowflake/Security Privileges.md",
     "Data warehouse/Snowflake/Access Control Overview.md",
     "Data warehouse/Snowflake/Roles.md",
     "Data warehouse/Snowflake/User Authentication.md",
-    "Data warehouse/Snowflake/Account access and Security.md",
-    "Data warehouse/Snowflake/Security Privileges.md",
     "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/RolesHierarchy.canvas",
-    "Data warehouse/Snowflake/Snowflake Stages.md",
     "Pasted image 20251119185011.png",
     "Pasted image 20251119184901.png",
     "Pasted image 20251119184548.png",
@@ -225,7 +208,6 @@
     "Data warehouse/Snowflake/Stored Procedure.md",
     "Data warehouse/Snowflake/Connector, drivers and Partner tools.md",
     "Pasted image 20251119152340.png",
-    "Data warehouse/Snowflake/Internal Stage.md",
     "Data warehouse/Snowflake/Cost.md",
     "Data warehouse/Snowflake/Snowpipe.md",
     "Data warehouse/Snowflake/Copy Options.md",
@@ -235,13 +217,6 @@
     "Pasted image 20251119150720.png",
     "Pasted image 20251119150615.png",
     "Pasted image 20251119150344.png",
-    "Data warehouse/Snowflake/Objects in Snowflake.md",
-    "Data warehouse/Snowflake/Tasks and Streams.md",
-    "Data warehouse/Snowflake/Sequence.md",
-    "Data warehouse/Snowflake/Snowflake Functions.md",
-    "Data warehouse/Snowflake/UDF.md",
-    "Data warehouse/Snowflake/External Function.md",
-    "Data warehouse/Snowflake/API integration.md",
     "Database Management Concepts",
     "Untitled.base",
     "Untitled 6.base",
