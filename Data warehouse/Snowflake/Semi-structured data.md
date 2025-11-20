@@ -7,7 +7,7 @@ Supported format:
 
 
 Data Structure in a JSON file:
-	objects:  anything betweem {}
+	objects:  anything between {}
 	Array: anything between []
 
 Snowflake Caviar: VARIANT
@@ -54,7 +54,7 @@ SELECT
 FROM OUR_FIRST_DB.PUBLIC.JSON_RAW
 ORDER BY id;
 
-When using something like this to flatten the JSON. its bad cuz we dont know how  many rows or elements will showup. use [[Snowflake  Flatten data]]
+When using something like this to flatten the JSON. its bad cuz we dont know how  many rows or elements will showup. use [[Snowflake Flatten data]]
 
 Inserting Data into a JSON table
 

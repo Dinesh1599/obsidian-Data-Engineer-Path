@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/UDF.md",
+                "file": "Column-Level Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UDF"
+              "title": "Column-Level Security"
             }
           }
         ]
@@ -180,10 +180,15 @@
   },
   "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
+    "Data warehouse/Snowflake/Account access and Security.md",
     "Column-Level Security.md",
+    "Data warehouse/Snowflake/UDF.md",
+    "Data warehouse/Snowflake/Semi-structured data.md",
+    "Data warehouse/Snowflake/Snowflake Flatten data.md",
+    "Snowflake  Flatten data.md",
+    "Data warehouse/Snowflake/Transformations.md",
     "Pasted image 20251120152549.png",
     "Pasted image 20251120152011.png",
-    "Data warehouse/Snowflake/Account access and Security.md",
     "Data warehouse/Snowflake/Data Encryptrion.md",
     "Pasted image 20251120143502.png",
     "Pasted image 20251120141007.png",
@@ -212,10 +217,6 @@
     "Data warehouse/Snowflake/Stored Procedure.md",
     "Data warehouse/Snowflake/Connector, drivers and Partner tools.md",
     "Data warehouse/Snowflake/Cost.md",
-    "Data warehouse/Snowflake/Snowpipe.md",
-    "Data warehouse/Snowflake/Copy Options.md",
-    "Data warehouse/Snowflake/COPY INTO.md",
-    "Data warehouse/Snowflake/External Stage.md",
     "Database Management Concepts",
     "Untitled.base",
     "Untitled 6.base",
