@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Stored Procedure.md",
+                "file": "Access Control Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stored Procedure"
+              "title": "Access Control Overview"
             }
           },
           {
@@ -209,9 +209,17 @@
   },
   "active": "c3f37498f32ffdc5",
   "lastOpenFiles": [
+    "Pasted image 20251119182915.png",
+    "Pasted image 20251119182904.png",
+    "Account access and Security.md",
+    "Access Control Overview.md",
+    "Data warehouse/Snowflake/Snowflake.md",
+    "Data warehouse/Snowflake/VALIDATE.md",
+    "Data warehouse/Snowflake/VALIDATION_MODE.md",
+    "Data warehouse/Snowflake/Unstructured data.md",
+    "Data warehouse/Snowflake/Stored Procedure.md",
     "Connector, drivers and Partner tools.md",
     "Pasted image 20251119152340.png",
-    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Internal Stage.md",
     "Data warehouse/Snowflake/Cost.md",
     "Data warehouse/Snowflake/Snowpipe.md",
@@ -226,7 +234,6 @@
     "Data warehouse/Snowflake/Objects in Snowflake.md",
     "Data warehouse/Snowflake/Tasks and Streams.md",
     "Data warehouse/Snowflake/Sequence.md",
-    "Data warehouse/Snowflake/Stored Procedure.md",
     "Data warehouse/Snowflake/Snowflake Functions.md",
     "Data warehouse/Snowflake/UDF.md",
     "Pasted image 20251118141642.png",
@@ -237,14 +244,7 @@
     "Pasted image 20251117200952.png",
     "Data warehouse/Snowflake/File Formats.md",
     "Data warehouse/Snowflake/Querying.md",
-    "Data warehouse/Snowflake/Storage Integration.md",
-    "Data warehouse/Snowflake/Transformations.md",
     "Pasted image 20251117193654.png",
-    "Pasted image 20251117192504.png",
-    "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
-    "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
-    "Data warehouse/Snowflake/Snowflake Architecture.md",
-    "Database Management Concepts/ACID Transaction.md",
     "Database Management Concepts",
     "Untitled.base",
     "Untitled 6.base",

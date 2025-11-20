@@ -25,7 +25,7 @@
 24. [[Data Sampling]]
 25. [[Tasks and Streams]]
 26. [[Connector, drivers and Partner tools]]
-27. [[Connector]]
+27. [[Account access and Security]]
 
 What is snowflake
 - Self-managed cloud data platform
