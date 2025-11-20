@@ -13,3 +13,6 @@ Root Key:
 
 Key Rotation:
 Replacing existing accounts and table encrpytion keys every 30 days.
+
+Re-keying:
+ Once a retired key exceeds 1yr, Snowflake automatically creates a new encryption key and re-encrypts all data previously protected by the retired key using the new key.
