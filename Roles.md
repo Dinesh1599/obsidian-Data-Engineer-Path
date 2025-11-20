@@ -14,3 +14,9 @@ Default Roles (In order of privileges DESC)
 4. USERADMIN
 5. PUBLIC
 ![[Pasted image 20251119184901.png]]![[Pasted image 20251119185011.png]]
+
+Custom Roles:
+	They are roles with custom privileges for security
+	This is good for security privileges. Security principle of least privilege.
+
+Recommended: Creating a hierarchy of custom roles with top-most custom role assigned to the sysadmin. if not assigned. SYSADMINs will not be able to manage objects owned by custom roles.
