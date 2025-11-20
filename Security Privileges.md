@@ -12,3 +12,13 @@ Categories of security privileges:
 	eg: GRANT SELECT on FUTURE TABLES in SCHEMA <schema> to ROLE <role>;
 
 
+Easy Memory Trick
+
+Snowflake privileges fit into 5 verbs:
+- USAGE → access
+- SELECT → read
+- MODIFY → change structure
+- OPERATE → start/stop warehouses
+- OWNERSHIP → full control (can transfer)
+
+Everything else is a variation.
