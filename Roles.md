@@ -10,9 +10,15 @@ Default Roles (In order of privileges DESC)
 
 1. ORGADMIN
 2. ACCOUNTADMIN
-3. SECURITY AND SYSADMIN
+3. SECURITYADMIN AND SYSADMIN
 4. USERADMIN
 5. PUBLIC
+
+
+![[RolesHierarchy.canvas]]
+
+
+
 ![[Pasted image 20251119184901.png]]![[Pasted image 20251119185011.png]]
 
 Custom Roles:

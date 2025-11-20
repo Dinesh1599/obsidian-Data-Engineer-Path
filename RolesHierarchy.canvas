@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"226d3d545ffbba54","x":85,"y":-200,"width":250,"height":60,"type":"text","text":"ACCOUNTADMIN"},
+		{"id":"f14311e64ce91dbc","x":85,"y":-300,"width":250,"height":60,"type":"text","text":"ORGADMIN"},
+		{"id":"b07b6fa26eb00cea","x":335,"y":40,"width":250,"height":60,"type":"text","text":"CUSTOMROLES"},
+		{"id":"eed42f1ffe9b8aa2","x":-165,"y":140,"width":250,"height":60,"type":"text","text":"PUBLIC"},
+		{"id":"7c3cce243ac06096","x":-165,"y":40,"width":250,"height":60,"type":"text","text":"USERADMIN"},
+		{"id":"de2c7184f3fa5792","x":-100,"y":-60,"width":250,"height":60,"type":"text","text":"SECURITYADMIN"},
+		{"id":"ec7f695318c4ddfc","x":280,"y":-60,"width":250,"height":60,"type":"text","text":"SYSADMIN"}
+	],
+	"edges":[
+		{"id":"d1a3a5e4aee27359","fromNode":"f14311e64ce91dbc","fromSide":"bottom","toNode":"226d3d545ffbba54","toSide":"top"},
+		{"id":"99f2086176869b0a","fromNode":"226d3d545ffbba54","fromSide":"bottom","toNode":"de2c7184f3fa5792","toSide":"top"},
+		{"id":"2fefbcc0feed47d3","fromNode":"226d3d545ffbba54","fromSide":"bottom","toNode":"ec7f695318c4ddfc","toSide":"top"},
+		{"id":"6f7c2c9733740212","fromNode":"ec7f695318c4ddfc","fromSide":"bottom","toNode":"b07b6fa26eb00cea","toSide":"top"},
+		{"id":"e0d5a7d27f77991d","fromNode":"de2c7184f3fa5792","fromSide":"bottom","toNode":"7c3cce243ac06096","toSide":"top"},
+		{"id":"73301df128f0cc92","fromNode":"7c3cce243ac06096","fromSide":"bottom","toNode":"eed42f1ffe9b8aa2","toSide":"top"}
+	]
+}

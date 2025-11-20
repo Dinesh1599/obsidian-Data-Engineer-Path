@@ -25,14 +25,17 @@
             "id": "c3f37498f32ffdc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Roles.md",
-                "mode": "source",
-                "source": false
+                "file": "RolesHierarchy.canvas",
+                "viewState": {
+                  "x": 210,
+                  "y": -50,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Roles"
+              "icon": "lucide-layout-dashboard",
+              "title": "RolesHierarchy"
             }
           },
           {
@@ -209,9 +212,11 @@
   },
   "active": "c3f37498f32ffdc5",
   "lastOpenFiles": [
-    "Account access and Security.md",
-    "Security Privileges.md",
     "Roles.md",
+    "Account access and Security.md",
+    "RolesHierarchy.canvas",
+    "Data warehouse/Snowflake/Snowflake Stages.md",
+    "Security Privileges.md",
     "Pasted image 20251119185011.png",
     "Pasted image 20251119184901.png",
     "Pasted image 20251119184548.png",
@@ -231,7 +236,6 @@
     "Data warehouse/Snowflake/Snowpipe.md",
     "Data warehouse/Snowflake/Copy Options.md",
     "Data warehouse/Snowflake/COPY INTO.md",
-    "Data warehouse/Snowflake/Snowflake Stages.md",
     "Data warehouse/Snowflake/External Stage.md",
     "Data warehouse/Snowflake/SnowSQL.md",
     "Pasted image 20251119150720.png",
@@ -244,7 +248,6 @@
     "Data warehouse/Snowflake/UDF.md",
     "Data warehouse/Snowflake/External Function.md",
     "API integration.md",
-    "Data warehouse/Snowflake/File Formats.md",
     "Database Management Concepts",
     "Untitled.base",
     "Untitled 6.base",
