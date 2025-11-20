@@ -6,5 +6,5 @@
 6. [[Federated Authentication]]
 7. [[Key Pair Authentication]]
 8. [[Network Policies]]
-9. [[Data Encryptrion]]
-10. 
+9. [[Data Encryption]]
+10. [[Column-Level Security]]
