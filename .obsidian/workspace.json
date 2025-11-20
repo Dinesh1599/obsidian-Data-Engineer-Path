@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Encryptrion.md",
+                "file": "Data warehouse/Snowflake/Data Encryptrion.md",
                 "mode": "source",
                 "source": false
               },
@@ -178,11 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e2f14b048deb3f8",
+  "active": "8bb36002b09ef60b",
   "lastOpenFiles": [
+    "Pasted image 20251120143502.png",
     "Pasted image 20251120141007.png",
     "Data warehouse/Snowflake/Account access and Security.md",
-    "Data Encryptrion.md",
+    "Data warehouse/Snowflake/Data Encryptrion.md",
     "Data warehouse/Snowflake/MFA Authentication.md",
     "Data warehouse/Snowflake/Federated Authentication.md",
     "label.md",
@@ -216,7 +217,6 @@
     "Data warehouse/Snowflake/SnowSQL.md",
     "Pasted image 20251119150720.png",
     "Pasted image 20251119150615.png",
-    "Pasted image 20251119150344.png",
     "Database Management Concepts",
     "Untitled.base",
     "Untitled 6.base",

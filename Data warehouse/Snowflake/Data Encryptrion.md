@@ -17,3 +17,8 @@ Replacing existing accounts and table encrpytion keys every 30 days. Basically c
 Re-keying:
  Once a retired key exceeds 1yr, Snowflake automatically creates a new encryption key and re-encrypts all data previously protected by the retired key using the new key. only a Enterprise level.
 To enable Re-keying: use SET PERIODIC_DATA_REKEYING = TRUE;
+
+
+Tri-Secret Secure:
+Tri-Secret Secure combines Snowflake’s key with a customer-managed cloud key to create a dual-layer master key. Both keys must be valid to decrypt data, giving the customer full control and ensuring neither party alone can access the data.
+![[Pasted image 20251120143502.png]]
