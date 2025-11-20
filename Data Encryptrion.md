@@ -12,7 +12,8 @@ Root Key:
 2. Generates lower level keys
 
 Key Rotation:
-Replacing existing accounts and table encrpytion keys every 30 days.
+Replacing existing accounts and table encrpytion keys every 30 days. Basically changing the encryption key with a new one and using the retired key only for decrpytion.
 
 Re-keying:
- Once a retired key exceeds 1yr, Snowflake automatically creates a new encryption key and re-encrypts all data previously protected by the retired key using the new key.
+ Once a retired key exceeds 1yr, Snowflake automatically creates a new encryption key and re-encrypts all data previously protected by the retired key using the new key. only a Enterprise level.
+To enable Re-keying: use SET PERIODIC_DATA_REKEYING = TRUE;
