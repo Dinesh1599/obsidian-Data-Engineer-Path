@@ -12,6 +12,10 @@ END;
 Options:
 ![[Pasted image 20251120152011.png]]
 
+To add the policy:
+ALTER TABLE IF EXISTS emp_info MODIFY COLUMN USER_EMAIL SET MASKING POLICY EMAIL_MASK;
+
+
 1. Masking policies are schema level objects
 2. creating these policies are done independently of object owners.
 3. masking policies can be nested in tables and views.

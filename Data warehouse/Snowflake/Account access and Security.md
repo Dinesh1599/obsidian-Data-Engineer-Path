@@ -8,3 +8,4 @@
 8. [[Network Policies]]
 9. [[Data Encryption]]
 10. [[Column-Level Security]]
+11. [[Row-Level Security]]
