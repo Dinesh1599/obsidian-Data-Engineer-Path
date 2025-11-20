@@ -24,5 +24,5 @@ Recommended: Creating a hierarchy of custom roles with top-most custom role assi
 
 Important Queries:
 
-SHOW GRANTS OF ROLE <roleName>   -- shows privileges the role has on objects  
-SHOW GRANTS TO ROLE <roleName>   -- shows all users and roles that have been granted the role
+SHOW GRANTS OF ROLE <roleName>   -- shows all users and roles that have been granted the role
+SHOW GRANTS TO ROLE <roleName>   -- shows privileges the role has on objects  
