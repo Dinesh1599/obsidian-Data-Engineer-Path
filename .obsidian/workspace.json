@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Account access and Security.md",
+                "file": "Data warehouse/Snowflake/Account Usage and Information Schema.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Account access and Security"
+              "title": "Account Usage and Information Schema"
             }
           },
           {
@@ -28,16 +28,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secure View.md",
+                "file": "Data warehouse/Snowflake/Secure View.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Secure View"
             }
+          },
+          {
+            "id": "7eb6b95dd4caef22",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "02dd34c0e2b85fb0",
@@ -50,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Column-Level Security.md",
+                "file": "Data warehouse/Snowflake/Column-Level Security.md",
                 "mode": "source",
                 "source": false
               },
@@ -215,18 +224,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebda6afa400dbd88",
+  "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
-    "Data warehouse/Snowflake/Objects in Snowflake.md",
-    "Secure View.md",
+    "Data warehouse/Snowflake/Row-Level Security.md",
+    "Data warehouse/Snowflake/Secure View.md",
+    "Snowflake  Flatten data.md",
+    "Data warehouse/Snowflake/Account Usage and Information Schema.md",
+    "SQL/Aggregate Functions.md",
     "Data warehouse/Snowflake/Account access and Security.md",
+    "Data warehouse/Snowflake/Storage Monitoring.md",
+    "EDA/Data Engineering Process.canvas",
+    "Data warehouse/Snowflake/Objects in Snowflake.md",
     "Data warehouse/Snowflake/Network Policies.md",
     "Data warehouse/Snowflake/Data Encryption.md",
-    "Row-Level Security.md",
     "Data warehouse/Snowflake/Roles.md",
     "2025-11-20.md",
     "Data warehouse/Snowflake/Security Privileges.md",
-    "Column-Level Security.md",
+    "Data warehouse/Snowflake/Column-Level Security.md",
     "SQL/DDL.md",
     "Pasted image 20251120152549.png",
     "Pasted image 20251120152011.png",
@@ -235,7 +249,6 @@
     "Data warehouse/Snowflake/UDF.md",
     "Data warehouse/Snowflake/Semi-structured data.md",
     "Data warehouse/Snowflake/Snowflake Flatten data.md",
-    "Snowflake  Flatten data.md",
     "Data warehouse/Snowflake/Transformations.md",
     "Pasted image 20251120141007.png",
     "Data warehouse/Snowflake/MFA Authentication.md",
@@ -244,9 +257,6 @@
     "Data warehouse/Snowflake/Internal Stage.md",
     "Data warehouse/Snowflake/Snowflake Stages.md",
     "Data warehouse/Snowflake/Key Pair Authentication.md",
-    "Data warehouse/Snowflake/Access Control Overview.md",
-    "Data warehouse/Snowflake/User Authentication.md",
-    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/RolesHierarchy.canvas",
     "Pasted image 20251119185011.png",
     "Pasted image 20251119184901.png",
@@ -264,7 +274,6 @@
     "Untitled 1.base",
     "Untitled 8.base",
     "EDA/EDA Flow.canvas",
-    "EDA/Data Engineering Process.canvas",
     "Untitled 7.base",
     "Untitled 1.canvas"
   ]

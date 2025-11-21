@@ -9,3 +9,4 @@
 9. [[Data Encryption]]
 10. [[Column-Level Security]]
 11. [[Row-Level Security]]
+12. [[Account Usage and Information Schema]]

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "line:(Secure VIew)",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18462326225858786,
+  "scale": 1.0000000000000366,
   "close": false
 }
