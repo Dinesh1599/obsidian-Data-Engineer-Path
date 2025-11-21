@@ -19,3 +19,9 @@
 			1. Favors conserving credits rather than starting additional WH
 
 ![[Pasted image 20251030204046.png]]
+
+Virtual Warehouse Properties:
+1. Can be created or dropped with queries
+2. Can be suspended or resumed with queries.
+3. they can be manually resized.
+4. They can be clustered manually
