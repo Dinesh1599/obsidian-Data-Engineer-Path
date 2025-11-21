@@ -6,7 +6,6 @@
       {
         "id": "fc95b3f1f1ab3c89",
         "type": "tabs",
-        "dimension": 46.95989650711513,
         "children": [
           {
             "id": "7e2f14b048deb3f8",
@@ -14,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Resource Monitors.md",
-                "mode": "preview",
+                "file": "Data warehouse/Snowflake/Performance Concepts.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resource Monitors"
+              "title": "Performance Concepts"
             }
           },
           {
@@ -32,28 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
-      },
-      {
-        "id": "02dd34c0e2b85fb0",
-        "type": "tabs",
-        "dimension": 53.04010349288487,
-        "children": [
-          {
-            "id": "9f6a3083bc8aba49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data warehouse/Snowflake/Column-Level Security.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Column-Level Security"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,18 +189,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e2f14b048deb3f8",
+  "active": "bb29318584c65832",
   "lastOpenFiles": [
-    "Performance Concepts.md",
+    "Data warehouse/Snowflake/Performance Concepts.md",
+    "Data warehouse/Snowflake/Virtual Warehouse States.md",
+    "Data warehouse/Snowflake/object tagging.md",
+    "node.md",
+    "parameters.md",
+    "Data warehouse/Snowflake/Multi Cluster Warehouse.md",
+    "Data warehouse/Snowflake/Resource Monitors.md",
+    "Pasted image 20251121170146.png",
     "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Pasted image 20251121165834.png",
-    "Virtual Warehouse States.md",
     "Data warehouse/Snowflake/Snowflake Architecture.md",
     "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Connector, drivers and Partner tools.md",
     "Data warehouse/Snowflake/Snowpipe.md",
-    "Data warehouse/Snowflake/Resource Monitors.md",
-    "object tagging.md",
     "Data warehouse/Snowflake/Account access and Security.md",
     "Data warehouse/Snowflake/Roles.md",
     "Data warehouse/Snowflake/Secure View.md",
@@ -238,8 +221,6 @@
     "Data warehouse/Snowflake/Network Policies.md",
     "Data warehouse/Snowflake/Data Encryption.md",
     "2025-11-20.md",
-    "Data warehouse/Snowflake/Column-Level Security.md",
-    "SQL/DDL.md",
     "Pasted image 20251120152549.png",
     "Pasted image 20251120152011.png",
     "Pasted image 20251120143502.png",
@@ -248,7 +229,6 @@
     "Pasted image 20251119184901.png",
     "Pasted image 20251119184548.png",
     "Pasted image 20251119184359.png",
-    "Pasted image 20251119182915.png",
     "Database Management Concepts",
     "Untitled.base",
     "Untitled 6.base",

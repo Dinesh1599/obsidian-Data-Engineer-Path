@@ -13,3 +13,5 @@ In the Resource monitors:
 6. Track usage of cloud services on these VH
 7. limit can be set as well on these VH
 8. ==Limitation: Cannot prevent cloud service usage==
+
+![[Pasted image 20251121170146.png]]
