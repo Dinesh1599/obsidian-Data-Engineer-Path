@@ -18,3 +18,4 @@ ALTER TABLE ACCOUNTS ADD ROW ACCESS POLICY RAP_ID on (ACC_ID)
 Note: 
 1. Adding a column level policy on to a column referenced on a row access policy, it fails.
 2. row access policies are evaluated before data masking policies.
+3. only 1 row access policy can be provided per table
