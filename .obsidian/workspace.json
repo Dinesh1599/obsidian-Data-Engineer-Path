@@ -13,26 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Performance Concepts.md",
+                "file": "Data warehouse/Snowflake/Multi Cluster Warehouse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Performance Concepts"
+              "title": "Multi Cluster Warehouse"
             }
           },
           {
             "id": "bb29318584c65832",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Snowflake Virtual Warehouse"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,17 +192,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb29318584c65832",
+  "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
+    "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
+    "Data warehouse/Snowflake/Multi Cluster Warehouse.md",
     "Data warehouse/Snowflake/Performance Concepts.md",
     "Data warehouse/Snowflake/Virtual Warehouse States.md",
     "Data warehouse/Snowflake/object tagging.md",
     "node.md",
     "parameters.md",
-    "Data warehouse/Snowflake/Multi Cluster Warehouse.md",
     "Data warehouse/Snowflake/Resource Monitors.md",
     "Pasted image 20251121170146.png",
-    "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Pasted image 20251121165834.png",
     "Data warehouse/Snowflake/Snowflake Architecture.md",
     "Data warehouse/Snowflake/Snowflake.md",
