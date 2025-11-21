@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Account access and Security.md",
-                "mode": "preview",
+                "file": "Performance Concepts.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Account access and Security"
+              "title": "Performance Concepts"
             }
           }
         ]
@@ -202,13 +202,18 @@
   },
   "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
+    "Data warehouse/Snowflake/Snowflake.md",
+    "Performance Concepts.md",
+    "Data warehouse/Snowflake/Connector, drivers and Partner tools.md",
+    "Data warehouse/Snowflake/Snowpipe.md",
+    "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
+    "Data warehouse/Snowflake/Resource Monitors.md",
     "object tagging.md",
     "Data warehouse/Snowflake/Account access and Security.md",
     "Data warehouse/Snowflake/Roles.md",
     "Data warehouse/Snowflake/Secure View.md",
     "New folder/Untitled.md",
     "Data warehouse/Snowflake/Security Privileges.md",
-    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Account Usage and Information Schema.md",
     "SQL/Aggregate Functions.md",
     "Data warehouse/Snowflake/RolesHierarchy.canvas",
@@ -228,12 +233,7 @@
     "Data Encryption.md",
     "Data warehouse/Snowflake/UDF.md",
     "Data warehouse/Snowflake/Semi-structured data.md",
-    "Data warehouse/Snowflake/Snowflake Flatten data.md",
-    "Data warehouse/Snowflake/Transformations.md",
     "Pasted image 20251120141007.png",
-    "Data warehouse/Snowflake/MFA Authentication.md",
-    "Data warehouse/Snowflake/Federated Authentication.md",
-    "label.md",
     "Pasted image 20251119185011.png",
     "Pasted image 20251119184901.png",
     "Pasted image 20251119184548.png",
