@@ -15,5 +15,5 @@ There are table types as well:
 There are View types as well
 1. Standard View
 2. Materialized View
-3. Secure View
+3. [[Secure View]]
 ![[Pasted image 20251117193654.png]]
