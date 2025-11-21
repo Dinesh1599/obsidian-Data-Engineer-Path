@@ -10,3 +10,4 @@
 10. [[Column-Level Security]]
 11. [[Row-Level Security]]
 12. [[Account Usage and Information Schema]]
+13. [[object tagging]]
