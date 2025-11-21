@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Multi Cluster Warehouse.md",
+                "file": "Data warehouse/Snowflake/Performance Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multi Cluster Warehouse"
+              "title": "Performance Concepts"
             }
           },
           {
@@ -194,8 +194,8 @@
   },
   "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
-    "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Data warehouse/Snowflake/Multi Cluster Warehouse.md",
+    "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Data warehouse/Snowflake/Performance Concepts.md",
     "Data warehouse/Snowflake/Virtual Warehouse States.md",
     "Data warehouse/Snowflake/object tagging.md",

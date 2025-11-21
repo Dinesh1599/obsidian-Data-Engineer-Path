@@ -23,3 +23,9 @@ Scaling Policy:
 	2. Economy
 		1. Favors conserving credits rather than starting additional WH
 ![[Pasted image 20251030204046.png]]
+
+Concurrency:
+There are 3 types:
+1. MAX_CONCURRENCY: sets the maximum no: of queries to be queued.
+2. STATEMENT_QUEUED_TIMEOUT_IN_SECONDS: sets how long a sql statement can be queued before aborting.
+3. STATEMENT_TIMEOUT_IN_SECONDS: sets how long a running sql statement can be running before getting aborted.
