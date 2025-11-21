@@ -15,11 +15,21 @@
               "type": "markdown",
               "state": {
                 "file": "Performance Concepts.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Performance Concepts"
+            }
+          },
+          {
+            "id": "bb29318584c65832",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -202,11 +212,12 @@
   },
   "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
-    "Data warehouse/Snowflake/Snowflake.md",
+    "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
+    "Data warehouse/Snowflake/Snowflake Architecture.md",
     "Performance Concepts.md",
+    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Connector, drivers and Partner tools.md",
     "Data warehouse/Snowflake/Snowpipe.md",
-    "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Data warehouse/Snowflake/Resource Monitors.md",
     "object tagging.md",
     "Data warehouse/Snowflake/Account access and Security.md",
@@ -232,7 +243,6 @@
     "Pasted image 20251120143502.png",
     "Data Encryption.md",
     "Data warehouse/Snowflake/UDF.md",
-    "Data warehouse/Snowflake/Semi-structured data.md",
     "Pasted image 20251120141007.png",
     "Pasted image 20251119185011.png",
     "Pasted image 20251119184901.png",
