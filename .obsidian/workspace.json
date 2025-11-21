@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Secure View.md",
+                "file": "object tagging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secure View"
+              "title": "object tagging"
             }
           }
         ],
@@ -42,7 +42,7 @@
       {
         "id": "02dd34c0e2b85fb0",
         "type": "tabs",
-        "dimension": 53.04010349288486,
+        "dimension": 53.04010349288487,
         "children": [
           {
             "id": "9f6a3083bc8aba49",
@@ -218,6 +218,7 @@
   },
   "active": "ebda6afa400dbd88",
   "lastOpenFiles": [
+    "Data warehouse/Snowflake/Secure View.md",
     "New folder/Untitled.md",
     "Data warehouse/Snowflake/Account access and Security.md",
     "object tagging.md",
@@ -229,7 +230,6 @@
     "Data warehouse/Snowflake/RolesHierarchy.canvas",
     "Data warehouse/Snowflake/Storage Monitoring.md",
     "Data warehouse/Snowflake/Row-Level Security.md",
-    "Data warehouse/Snowflake/Secure View.md",
     "Snowflake  Flatten data.md",
     "EDA/Data Engineering Process.canvas",
     "Data warehouse/Snowflake/Objects in Snowflake.md",
