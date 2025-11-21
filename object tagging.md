@@ -20,3 +20,10 @@ List of Data Governance:
 We can tag an object with an object tag and whatever policies were assigned to that tag, the policies are also attached to said objects.
 
 Data Steward: is a team or user responsible for data Governance strategies.
+
+***CREATE A TAG:***
+	CREATE OR REPLACE TAG business_unit allowed_values 'sales','HR','operations';
+**SHOW ALL TAGS VALUES ACCEPTED**:
+	SELECT ==system$get_tag_allowed_values==('security_objects_db.security_objects_schema.business_unit');
+**ADD A TAG VALUE**
+	ALTER TAG security_objects_db.security_objects_schema.business_unit ADD ALLOWED_VALUES 'engineering'; 

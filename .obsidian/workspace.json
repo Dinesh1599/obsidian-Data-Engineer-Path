@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DATA_GOVERNANCE",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,8 +111,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,12 +217,12 @@
   },
   "active": "ebda6afa400dbd88",
   "lastOpenFiles": [
-    "Data warehouse/Snowflake/Secure View.md",
-    "New folder/Untitled.md",
     "Data warehouse/Snowflake/Account access and Security.md",
     "object tagging.md",
-    "Data warehouse/Snowflake/Security Privileges.md",
     "Data warehouse/Snowflake/Roles.md",
+    "Data warehouse/Snowflake/Secure View.md",
+    "New folder/Untitled.md",
+    "Data warehouse/Snowflake/Security Privileges.md",
     "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Account Usage and Information Schema.md",
     "SQL/Aggregate Functions.md",
