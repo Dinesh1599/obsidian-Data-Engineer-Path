@@ -27,3 +27,5 @@ Data Steward: is a team or user responsible for data Governance strategies.
 	SELECT ==system$get_tag_allowed_values==('security_objects_db.security_objects_schema.business_unit');
 **ADD A TAG VALUE**
 	ALTER TAG security_objects_db.security_objects_schema.business_unit ADD ALLOWED_VALUES 'engineering'; 
+
+We add upto 50 tags on an object.
