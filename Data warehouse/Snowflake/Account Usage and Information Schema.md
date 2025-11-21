@@ -34,6 +34,9 @@ Best for **auditing**, **governance**, **billing**, **usage reporting**, and **m
  **Access:** 
 Only roles with **MONITOR USAGE** or ACCOUNTADMIN privileges.
 
+ **Latency:** 
+There is a latency of ~2 hours for the view so get updated
+
 
 # **INFORMATION_SCHEMA**
 
