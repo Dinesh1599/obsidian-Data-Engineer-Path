@@ -25,3 +25,5 @@ Virtual Warehouse Properties:
 2. Can be suspended or resumed with queries.
 3. they can be manually resized.
 4. They can be clustered manually
+
+![[Pasted image 20251121165834.png]]

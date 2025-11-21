@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Virtual Warehouse States.md",
-                "mode": "source",
+                "file": "Data warehouse/Snowflake/Resource Monitors.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Virtual Warehouse States"
+              "title": "Resource Monitors"
             }
           },
           {
@@ -213,8 +213,9 @@
   "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
     "Performance Concepts.md",
-    "Virtual Warehouse States.md",
     "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
+    "Pasted image 20251121165834.png",
+    "Virtual Warehouse States.md",
     "Data warehouse/Snowflake/Snowflake Architecture.md",
     "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Connector, drivers and Partner tools.md",
@@ -242,14 +243,12 @@
     "Pasted image 20251120152549.png",
     "Pasted image 20251120152011.png",
     "Pasted image 20251120143502.png",
-    "Data Encryption.md",
     "Pasted image 20251120141007.png",
     "Pasted image 20251119185011.png",
     "Pasted image 20251119184901.png",
     "Pasted image 20251119184548.png",
     "Pasted image 20251119184359.png",
     "Pasted image 20251119182915.png",
-    "Pasted image 20251119182904.png",
     "Database Management Concepts",
     "Untitled.base",
     "Untitled 6.base",
