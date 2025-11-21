@@ -40,16 +40,29 @@ There is a latency of ~2 hours for the view so get updated
 
 # **INFORMATION_SCHEMA**
 
-Metadata **within a specific database/schema**.
+## **INFORMATION_SCHEMA**
+
+Metadata within a specific database, with some account-level table functions.
 
 Every database has its own:
 
-`<DATABASE>.INFORMATION_SCHEMA.<view>`
+`<DATABASE>.INFORMATION_SCHEMA.<view_or_function>`
 
- **Scope:**  
-Contains metadata **only for that one database** (not the entire account).
+---
 
- **What it contains:**
+## **Scope**
+
+- The **views** contain metadata **only for that database** (not the entire account).
+    
+- The **table functions** can return some **short-term historical and usage data** (7–14 days), but NOT long-term history.
+    
+
+---
+
+## **What it contains**
+
+### **1. Metadata Views (real-time, NOT historical)**
+
 - Tables
     
 - Columns
@@ -68,14 +81,61 @@ Contains metadata **only for that one database** (not the entire account).
     
 - Object references
     
- **Retention:**  
-Not historical — **real-time** metadata.
 
- **Purpose:**  
-Good for **data modeling**, **query building**, **schema introspection**, and **validations**.
+These views reflect **only the current state** of objects.
 
- **Access:**  
-Any role with **USAGE** on database + schema.
+### **2. Table Functions (short-term historical/usage)**
+
+Examples:
+
+- `QUERY_HISTORY()`
+    
+- `LOGIN_HISTORY()`
+    
+- `USAGE_HISTORY()`
+    
+- `DATA_TRANSFER_HISTORY()`
+    
+- `LOAD_HISTORY()`
+    
+- `PIPE_USAGE_HISTORY()`
+    
+
+These return **historical usage data**, but with **limited retention** (e.g., 7 days, 14 days) — not 365 days.
+
+---
+
+## **Retention**
+
+- **Metadata views** → no history (real-time only)
+    
+- **Table functions** → short retention (varies per function)
+    
+- Long-term history is **NOT** in INFORMATION_SCHEMA — it is in `SNOWFLAKE.ACCOUNT_USAGE`.
+    
+
+---
+
+## **Purpose**
+
+- Real-time schema introspection
+    
+- Listing tables, columns, privileges, constraints, routines
+    
+- Lightweight modeling and validation
+    
+- Basic short-term usage history via table functions
+    
+
+---
+
+## **Access**
+
+Any role with:
+
+- **USAGE on the database**
+    
+- **USAGE on the schema**
 
 
 |Feature|ACCOUNT_USAGE|INFORMATION_SCHEMA|
