@@ -19,9 +19,9 @@ Note:
 
 Scaling Policy:
 	1. Standard
-		1. Favors staring additional VH
+		-Favors staring additional VH
 	2. Economy
-		1. Favors conserving credits rather than starting additional WH
+		- Favors conserving credits rather than starting additional WH
 ![[Pasted image 20251030204046.png]]
 
 Concurrency:
