@@ -1,0 +1,1 @@
+Describing the distribution of a columns value.

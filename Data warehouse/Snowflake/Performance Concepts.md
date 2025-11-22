@@ -6,4 +6,5 @@
 6. [[Query Performance]]
 7. [[SQL Tuning]]
 8. [[Caching]]
-9. 
+9. [[Material View]]
+10. [[Clustering]]
