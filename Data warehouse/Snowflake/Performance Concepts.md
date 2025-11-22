@@ -4,3 +4,5 @@
 4. [[Multi Cluster Warehouse]]
 5. [[Query Acceleration Service]]
 6. [[Query Performance]]
+7. [[SQL Tuning]]
+8. 

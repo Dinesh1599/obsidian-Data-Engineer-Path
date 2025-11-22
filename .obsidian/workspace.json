@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Query History View.md",
+                "file": "Data warehouse/Snowflake/SQL Tuning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Query History View"
+              "title": "SQL Tuning"
             }
           },
           {
@@ -194,15 +194,19 @@
   },
   "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
+    "Pasted image 20251121200041.png",
+    "Untitled.canvas",
+    "Data warehouse/Snowflake/SQL Tuning.md",
+    "Data warehouse/Snowflake/Performance Concepts.md",
+    "Data warehouse/Snowflake/Query History View.md",
+    "Data warehouse/Snowflake/Query Acceleration Service.md",
+    "Data warehouse/Snowflake/History Tab.md",
+    "2025-11-20.md",
+    "Data warehouse/Snowflake/Query Performance.md",
     "Data warehouse/Snowflake/Account access and Security.md",
     "Data warehouse/Snowflake/Account Usage and Information Schema.md",
-    "Query History View.md",
-    "Query Performance.md",
-    "History Tab.md",
-    "Data warehouse/Snowflake/Performance Concepts.md",
     "Data warehouse/Snowflake/Multi Cluster Warehouse.md",
     "Data warehouse/Snowflake/Virtual Warehouse States.md",
-    "Query Acceleration Service.md",
     "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Data warehouse/Snowflake/object tagging.md",
     "node.md",
@@ -220,9 +224,6 @@
     "Data warehouse/Snowflake/Security Privileges.md",
     "SQL/Aggregate Functions.md",
     "Data warehouse/Snowflake/RolesHierarchy.canvas",
-    "Data warehouse/Snowflake/Storage Monitoring.md",
-    "Data warehouse/Snowflake/Row-Level Security.md",
-    "Snowflake  Flatten data.md",
     "EDA/Data Engineering Process.canvas",
     "Pasted image 20251120152549.png",
     "Pasted image 20251120152011.png",
