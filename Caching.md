@@ -15,4 +15,11 @@ Types
 
 **Result Cache**
 1. the results of queries often used is here. stored for upto 24hrs. 
-2. the 24hrs gets reset everything the same query result is achieved for upto 31 days.
+2. the 24hrs gets extended every time the same query result is achieved for upto 31 days.
+3. Note: To resume a result cache
+	1. New query exactly matches previous query
+	2. The underlying table data has not changed
+	3. The same role is used as the previous query
+	4. If time context function is used, the result cache is not used.
+
+Local Disk Cache
