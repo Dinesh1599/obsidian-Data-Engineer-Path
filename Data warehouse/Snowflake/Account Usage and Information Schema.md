@@ -1,3 +1,4 @@
+#AccountUsageSchema
 **A global, account-wide view of metadata.**
 
 Think of it as Snowflake’s **log history + monitoring database** that Snowflake maintains for you.
