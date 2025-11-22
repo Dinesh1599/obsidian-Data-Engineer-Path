@@ -5,4 +5,5 @@
 5. [[Query Acceleration Service]]
 6. [[Query Performance]]
 7. [[SQL Tuning]]
-8. 
+8. [[Caching]]
+9. 
