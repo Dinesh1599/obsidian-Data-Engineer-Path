@@ -22,4 +22,8 @@ Types
 	3. The same role is used as the previous query
 	4. If time context function is used, the result cache is not used.
 
-Local Disk Cache
+Warehouse Cache:
+1. Virtual Warehouses have local SSD storage which maintains raw table data used for processing a query.
+2. The larger the virtual warehouse the greater the local cache.
+3. It is purged when the virtual warehouse is resized, suspended or dropped.
+4. Can be used partially, retrieving the rest of the data required for a query from remote storage.
