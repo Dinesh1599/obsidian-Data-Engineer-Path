@@ -11,6 +11,7 @@ Types
 4. hold the information of important entities 
 5. the tables created and which db they are in and micropartitions
 6. Cuz of this, some queries doesnt even need WH computing
+
 ![[Pasted image 20251121231947.png]]
 
 **Result Cache**
