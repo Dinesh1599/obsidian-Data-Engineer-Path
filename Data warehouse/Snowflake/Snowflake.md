@@ -27,6 +27,7 @@
 26. [[Connector, drivers and Partner tools]]
 27. [[Account access and Security]]
 28. [[Performance Concepts]]
+29. [[Data Tranformations]]
 
 What is snowflake
 - Self-managed cloud data platform

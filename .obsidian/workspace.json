@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Search Optimization Service.md",
-                "mode": "source",
+                "file": "Data warehouse/Snowflake/Directory Table.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Search Optimization Service"
+              "title": "Directory Table"
             }
           },
           {
@@ -194,8 +194,12 @@
   },
   "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
+    "Data warehouse/Snowflake/Snowflake.md",
+    "Data warehouse/Snowflake/Transformations.md",
     "Data warehouse/Snowflake/Performance Concepts.md",
-    "Search Optimization Service.md",
+    "Data warehouse/Snowflake/object tagging.md",
+    "Data warehouse/Snowflake/Virtual Warehouse States.md",
+    "Data warehouse/Snowflake/Search Optimization Service.md",
     "Caching.md",
     "Clustering.md",
     "Pasted image 20251123132206.png",
@@ -215,20 +219,16 @@
     "Data warehouse/Snowflake/Account access and Security.md",
     "Data warehouse/Snowflake/Account Usage and Information Schema.md",
     "Data warehouse/Snowflake/Multi Cluster Warehouse.md",
-    "Data warehouse/Snowflake/Virtual Warehouse States.md",
     "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
-    "Data warehouse/Snowflake/object tagging.md",
     "node.md",
     "parameters.md",
     "Data warehouse/Snowflake/Resource Monitors.md",
     "Pasted image 20251121170146.png",
     "Pasted image 20251121165834.png",
     "Data warehouse/Snowflake/Snowflake Architecture.md",
-    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Connector, drivers and Partner tools.md",
     "Data warehouse/Snowflake/Snowpipe.md",
     "Data warehouse/Snowflake/Roles.md",
-    "Data warehouse/Snowflake/Secure View.md",
     "Data warehouse/Snowflake/RolesHierarchy.canvas",
     "EDA/Data Engineering Process.canvas",
     "Pasted image 20251120152549.png",
