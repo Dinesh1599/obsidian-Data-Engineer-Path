@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "line:(economy)",
+  "search": "line:(sampl)",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3628873693012264,
+  "scale": 0.7132754626224713,
   "close": false
 }
