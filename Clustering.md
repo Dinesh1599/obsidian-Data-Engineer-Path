@@ -7,3 +7,14 @@ They maintain the following metadata of the micro-partition in a table:
 1. No: of micro-partitions
 2. No: of overlapping micro-partitions
 3. Depth of the overlapping micro-partitions
+
+Overlapping micro-partitions and its depth eg:
+
+![[Pasted image 20251123132206.png]]
+
+Observation:
+	Higher the clustering overlap and depth, the worse the clustering is.
+
+
+Automatic Clustering:
+	
