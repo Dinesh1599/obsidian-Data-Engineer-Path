@@ -6,6 +6,7 @@ Exact value can take time. But sometimes an approx value is good enough. thus ge
 	3. Very time saving
 	4. Query:
 		1. Select HLL(<column>) from 
+	5. This is Under Cardinality Estimation
 
 2. APPROX_TOP_K() Frequent values
 	1. Shows how many times the top values n values are present in the column.
