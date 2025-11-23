@@ -8,3 +8,4 @@
 8. [[Caching]]
 9. [[Material View]]
 10. [[Clustering]]
+11. [[Search Optimization Service]]
