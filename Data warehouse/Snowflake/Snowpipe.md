@@ -21,7 +21,7 @@ CREATE PIPE <NAME>
 
 Methods:
 1. Cloud Messages
-	1. Use event notifcation
+	1. Use event notifcation (SQS Queue)
 	2. Only External Stages
 2. REST API
 	1. Calls REST APIs
