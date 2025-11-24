@@ -48,3 +48,12 @@ ALTER PIPE
 ```
 
 
+Bulk Loading Vs Snowpipe:
+![[Pasted image 20251124171631.png]]
+
+Snowpipe Data Loading Best Practices:
+1. File size: 100 - 250mb
+2. Organize dates by a path
+3. Seperate VH for Load and Query
+4. Pre-sort Data
+5. Load once per minute
