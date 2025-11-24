@@ -34,3 +34,6 @@ List of Copy Options:
 2. MAX_FILE_SIZE = <num> - default = 16777216 (16mb) with max 5GB
 3. FILE_FORMAT  = (TYPE = JSON) - File format can be set in the COPY command
 4. HEADER = TRUE - Will include a header in the output file
+
+
+![[Pasted image 20251124163937.png]]

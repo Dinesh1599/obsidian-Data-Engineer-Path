@@ -8,7 +8,7 @@ Query will look like this:
 COPY INTO <table_name>
 FROM externalStage
 FILES = ('<file_name>')
-VALIDATION_MODE = RETURN_n_ROWS | RETURN_ERROS
+VALIDATION_MODE = RETURN_n_ROWS | RETURN_ERROS | RETURN_ALL_ERROS
 ```
 
 
