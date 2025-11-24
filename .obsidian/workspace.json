@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Unstructured data.md",
+                "file": "Data warehouse/Snowflake/COPY INTO.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unstructured data"
+              "title": "COPY INTO"
             }
           },
           {
@@ -194,9 +194,16 @@
   },
   "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
+    "Data warehouse/Snowflake/Copy Options.md",
+    "Data warehouse/Snowflake/COPY INTO.md",
+    "Data warehouse/Snowflake/External Stage.md",
+    "Data warehouse/Snowflake/Storage Integration.md",
+    "Data warehouse/Snowflake/Snowflake Stages.md",
+    "Data warehouse/Snowflake/Internal Stage.md",
     "Data warehouse/Snowflake/Snowflake.md",
-    "Data warehouse/Snowflake/Directory Table.md",
+    "Data warehouse/Snowflake/Snowpipe.md",
     "Data warehouse/Snowflake/Unstructured data.md",
+    "Data warehouse/Snowflake/Directory Table.md",
     "Data warehouse/Snowflake/Performance Concepts.md",
     "Data warehouse/Snowflake/object tagging.md",
     "node.md",
@@ -220,13 +227,6 @@
     "Untitled.canvas",
     "Data warehouse/Snowflake/Query History View.md",
     "Data warehouse/Snowflake/Query Acceleration Service.md",
-    "Data warehouse/Snowflake/History Tab.md",
-    "2025-11-20.md",
-    "Data warehouse/Snowflake/Query Performance.md",
-    "Data warehouse/Snowflake/Account access and Security.md",
-    "Data warehouse/Snowflake/Account Usage and Information Schema.md",
-    "Data warehouse/Snowflake/Multi Cluster Warehouse.md",
-    "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Pasted image 20251121170146.png",
     "Pasted image 20251121165834.png",
     "Data warehouse/Snowflake/RolesHierarchy.canvas",

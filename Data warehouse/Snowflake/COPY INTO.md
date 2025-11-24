@@ -30,3 +30,5 @@ Copy from table to stage:
   FROM [table_name]
 
 Read More on how data is loaded/unloaded [[Copy Options]]
+
+Load History is stored in the table metadata for 64 days
