@@ -27,3 +27,5 @@ where
 
 Note: 
 Delete the file from the stage or else charges can occur.
+
+![[Pasted image 20251124172213.png]]

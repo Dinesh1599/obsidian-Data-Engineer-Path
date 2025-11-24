@@ -28,12 +28,17 @@ List of Copy Options:
 	3. FALSE: Strings are automatically truncated
 
 
+
+![[Pasted image 20251124163937.png]]
+
+
+
 # UNLOADING
 
 1. SINGLE = FALSE - Splits into multiple files (Default) | TRUE - One big file
 2. MAX_FILE_SIZE = <num> - default = 16777216 (16mb) with max 5GB
 3. FILE_FORMAT  = (TYPE = JSON) - File format can be set in the COPY command
 4. HEADER = TRUE - Will include a header in the output file
+5. OVERWRITE = 'ABORT_STATEMENT' - tells if its ok to overwrite existing files with matching names.
 
 
-![[Pasted image 20251124163937.png]]
