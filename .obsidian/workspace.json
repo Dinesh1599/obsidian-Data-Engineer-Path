@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Copy Options.md",
-                "mode": "source",
+                "file": "Data warehouse/Snowflake/Semi-structured data.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Copy Options"
+              "title": "Semi-structured data"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "semi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,9 +195,10 @@
   },
   "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
+    "Pasted image 20251124185212.png",
+    "Data warehouse/Snowflake/Copy Options.md",
     "Data warehouse/Snowflake/UNLOADING.md",
     "Pasted image 20251124172213.png",
-    "Data warehouse/Snowflake/Copy Options.md",
     "Data warehouse/Snowflake/Snowpipe.md",
     "Pasted image 20251124171631.png",
     "Data warehouse/Snowflake/File Formats.md",

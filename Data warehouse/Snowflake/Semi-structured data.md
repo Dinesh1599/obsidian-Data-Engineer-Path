@@ -61,3 +61,5 @@ Inserting Data into a JSON table
 parse.JSON format..
 
 INSERT INTO semi_structured SELECT parse_json(' { "key1": "value1", "key2": "value2" } ');
+
+![[Pasted image 20251124185212.png]]
