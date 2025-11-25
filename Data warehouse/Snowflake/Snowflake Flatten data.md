@@ -15,3 +15,5 @@ SELECT
     VALUE::STRING as prev_company
 FROM OUR_FIRST_DB.PUBLIC.JSON_RAW
 ,TABLE(flatten ( input => RAW_FILE:prev_company )); 
+
+![[Pasted image 20251124190142.png]]
