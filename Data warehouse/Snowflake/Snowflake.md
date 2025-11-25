@@ -32,6 +32,7 @@
 31. [[Fail Safe]]
 32. [[Cloning]]
 33. [[Replication]]
+34. [[Secure Data Sharing]]
 
 What is snowflake
 - Self-managed cloud data platform
