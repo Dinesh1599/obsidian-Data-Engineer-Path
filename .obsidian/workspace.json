@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Tasks and Streams.md",
+                "file": "Cloning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks and Streams"
+              "title": "Cloning"
             }
           },
           {
@@ -194,6 +194,7 @@
   },
   "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
+    "Data warehouse/Snowflake/Tasks and Streams.md",
     "Cloning.md",
     "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Material View.md",
@@ -227,7 +228,6 @@
     "Data warehouse/Snowflake/Internal Stage.md",
     "Data warehouse/Snowflake/Directory Table.md",
     "Data warehouse/Snowflake/Performance Concepts.md",
-    "Data warehouse/Snowflake/object tagging.md",
     "Pasted image 20251123132206.png",
     "Pasted image 20251123132201.png",
     "Untitled.canvas",
