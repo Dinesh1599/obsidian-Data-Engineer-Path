@@ -27,7 +27,10 @@ TYPE = {JSON}
 
 Loading a semi-structured data:
 
-Standard Approach: ELT method
+1. Standard Approach: ELT method
+2. ETL methodf
+3. Automatic Schema Detection
+
 
 
 Extract and load Data -> Analyze/ Parse -> Flatten data
