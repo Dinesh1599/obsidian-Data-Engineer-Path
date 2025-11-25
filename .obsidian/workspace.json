@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fail Safe.md",
+                "file": "Data warehouse/Snowflake/Tasks and Streams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fail Safe"
+              "title": "Tasks and Streams"
             }
           },
           {
@@ -194,8 +194,14 @@
   },
   "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
+    "Cloning.md",
     "Data warehouse/Snowflake/Snowflake.md",
-    "Fail Safe.md",
+    "Data warehouse/Snowflake/Material View.md",
+    "Data warehouse/Snowflake/Fail Safe.md",
+    "label.md",
+    "Data warehouse/Snowflake/Data Tranformations.md",
+    "Data warehouse/Snowflake/Clustering.md",
+    "Data warehouse/Snowflake/Caching.md",
     "Data warehouse/Snowflake/Time Travel.md",
     "Pasted image 20251124195019.png",
     "Pasted image 20251124194431.png",
@@ -222,12 +228,6 @@
     "Data warehouse/Snowflake/Directory Table.md",
     "Data warehouse/Snowflake/Performance Concepts.md",
     "Data warehouse/Snowflake/object tagging.md",
-    "node.md",
-    "Data Tranformations.md",
-    "Data warehouse/Snowflake/Data Sampling.md",
-    "Table Sampling.md",
-    "Data warehouse/Snowflake/Transformations.md",
-    "Data warehouse/Snowflake/Virtual Warehouse States.md",
     "Pasted image 20251123132206.png",
     "Pasted image 20251123132201.png",
     "Untitled.canvas",

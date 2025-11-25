@@ -30,6 +30,7 @@
 29. [[Data Tranformations]]
 30. [[Time Travel]]
 31. [[Fail Safe]]
+32. [[Cloning]]
 
 What is snowflake
 - Self-managed cloud data platform
