@@ -1,0 +1,1 @@
+Non-configurable period of 7 days beyond time travel to get data by contacting snowflake-support.

@@ -29,6 +29,7 @@
 28. [[Performance Concepts]]
 29. [[Data Tranformations]]
 30. [[Time Travel]]
+31. [[Fail Safe]]
 
 What is snowflake
 - Self-managed cloud data platform

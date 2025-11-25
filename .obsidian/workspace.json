@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Time Travel.md",
+                "file": "Fail Safe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Time Travel"
+              "title": "Fail Safe"
             }
           },
           {
@@ -194,10 +194,12 @@
   },
   "active": "7e2f14b048deb3f8",
   "lastOpenFiles": [
-    "Pasted image 20251124194431.png",
     "Data warehouse/Snowflake/Snowflake.md",
-    "Data warehouse/Snowflake/Snowpipe.md",
+    "Fail Safe.md",
     "Data warehouse/Snowflake/Time Travel.md",
+    "Pasted image 20251124195019.png",
+    "Pasted image 20251124194431.png",
+    "Data warehouse/Snowflake/Snowpipe.md",
     "Data warehouse/Snowflake/Estimation Function.md",
     "Data warehouse/Snowflake/Unstructured data.md",
     "Data warehouse/Snowflake/Snowflake Flatten data.md",
@@ -228,8 +230,6 @@
     "Data warehouse/Snowflake/Virtual Warehouse States.md",
     "Pasted image 20251123132206.png",
     "Pasted image 20251123132201.png",
-    "Pasted image 20251121231947.png",
-    "Pasted image 20251121201403.png",
     "Untitled.canvas",
     "Data warehouse/Snowflake/RolesHierarchy.canvas",
     "EDA/Data Engineering Process.canvas",
