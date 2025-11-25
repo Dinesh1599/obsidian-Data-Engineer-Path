@@ -12,3 +12,4 @@ Possible sharable thigns:
 7. Secure UDFs
 
 Data consumer create a database from a SHARE which contains the read-only database objects granted by the data provider. 
+![[Pasted image 20251124213546.png]]
