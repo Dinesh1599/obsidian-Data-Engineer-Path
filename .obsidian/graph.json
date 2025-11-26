@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "economy",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.965556045656754,
-  "close": false
+  "scale": 0.6316046762907493,
+  "close": true
 }
