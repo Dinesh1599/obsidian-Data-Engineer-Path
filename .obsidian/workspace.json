@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/TODO.md",
+                "file": "Python/Data Types and Structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Data Types and Structures"
             }
           },
           {
@@ -209,8 +209,11 @@
   },
   "active": "09aaf39caef40a8e",
   "lastOpenFiles": [
-    "Misc/Credentials.md",
+    "Python/List.md",
+    "Python/Data Types and Structures.md",
+    "Python/Control Flow.md",
     "Misc/TODO.md",
+    "Misc/Credentials.md",
     "New folder/logmining for confluent CDC to kafka consumer.md",
     "New folder/Untitled.md",
     "Data warehouse/Snowflake/Cost.md",
@@ -236,9 +239,6 @@
     "Pasted image 20251124213202.png",
     "Pasted image 20251124213159.png",
     "Data warehouse/Snowflake/Replication.md",
-    "Data warehouse/Snowflake/Cloning.md",
-    "parameters.md",
-    "node.md",
     "Pasted image 20251124195019.png",
     "Pasted image 20251124194431.png",
     "Pasted image 20251124190540.png",
