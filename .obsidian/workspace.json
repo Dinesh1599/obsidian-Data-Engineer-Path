@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e2f14b048deb3f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data warehouse/Snowflake/Caching.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Caching"
-            }
-          },
-          {
             "id": "09aaf39caef40a8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Clustering.md",
+                "file": "pyspark/Go to Pyspark commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clustering"
-            }
-          },
-          {
-            "id": "bb29318584c65832",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Snowflake Virtual Warehouse"
+              "title": "Go to Pyspark commands"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,6 +180,13 @@
   },
   "active": "09aaf39caef40a8e",
   "lastOpenFiles": [
+    "docker/Go to commands.md",
+    "pyspark/Go to Pyspark commands.md",
+    "pyspark",
+    "Data warehouse/Snowflake/Caching.md",
+    "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
+    "Data warehouse/Snowflake/Clustering.md",
+    "docker",
     "Python/Data Types and Structures.md",
     "Python/List.md",
     "Python/Control Flow.md",
@@ -220,8 +198,6 @@
     "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Performance Concepts.md",
     "Data warehouse/Snowflake/Objects in Snowflake.md",
-    "Data warehouse/Snowflake/Clustering.md",
-    "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Data warehouse/Snowflake/Copy Options.md",
     "Data warehouse/Snowflake/Time Travel.md",
     "Data warehouse/Snowflake/Semi-structured data.md",
@@ -232,13 +208,10 @@
     "Data warehouse/Snowflake/Row-Level Security.md",
     "Data warehouse/Snowflake/Stored Procedure.md",
     "Data warehouse/Snowflake/Sequence.md",
-    "Data warehouse/Snowflake/Directory Table.md",
-    "Data warehouse/Snowflake/Estimation Function.md",
     "Pasted image 20251124213546.png",
     "Pasted image 20251124213204.png",
     "Pasted image 20251124213202.png",
     "Pasted image 20251124213159.png",
-    "Data warehouse/Snowflake/Replication.md",
     "Pasted image 20251124195019.png",
     "Pasted image 20251124194431.png",
     "Pasted image 20251124190540.png",
@@ -256,9 +229,7 @@
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Untitled 8.base",
     "EDA/EDA Flow.canvas",
-    "Untitled 7.base",
     "Untitled 1.canvas"
   ]
 }
