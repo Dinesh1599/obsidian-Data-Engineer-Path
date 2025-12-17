@@ -32,3 +32,7 @@ With good data modeling:
     
 
 > **In short:** Data modeling turns data into a **reliable product**, not just stored information.
+
+
+**Types of Data Modeling**
+
