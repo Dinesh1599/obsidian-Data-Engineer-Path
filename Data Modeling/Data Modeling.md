@@ -52,10 +52,9 @@ With good data modeling:
 		2. Normalize and denormalize
 		3. Business logic
 	2. Used for:
-		1. Star Schema
+		1. [[Data modeling Techniques#**Star Schema** | Star Schema]]
 		2. Aggregated marts
 		3. Feature Table
-
 
 
 
@@ -93,3 +92,6 @@ With good data modeling:
     
 
 > _Example:_ PostgreSQL tables with primary keys, foreign keys, and indexes
+
+
+[[Data modeling Techniques]]

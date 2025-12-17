@@ -192,12 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09aaf39caef40a8e",
+  "active": "8bb36002b09ef60b",
   "lastOpenFiles": [
-    "docker/Go to commands.md",
+    "Data Modeling/Data modeling Techniques.md",
     "Data Modeling/Data Modeling.md",
-    "Data Modeling",
     "pyspark/Go to Pyspark commands.md",
+    "docker/Go to commands.md",
+    "Data Modeling",
     "pyspark",
     "Data warehouse/Snowflake/Caching.md",
     "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
@@ -222,7 +223,6 @@
     "Data warehouse/Snowflake/Secure Data Sharing.md",
     "Data warehouse/Snowflake/Account access and Security.md",
     "Data warehouse/Snowflake/Row-Level Security.md",
-    "Data warehouse/Snowflake/Stored Procedure.md",
     "Pasted image 20251124213546.png",
     "Pasted image 20251124213204.png",
     "Pasted image 20251124213202.png",
