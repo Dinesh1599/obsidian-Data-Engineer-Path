@@ -34,5 +34,9 @@ With good data modeling:
 > **In short:** Data modeling turns data into a **reliable product**, not just stored information.
 
 
+**Where does it fit in the life cycle?**
+
+
+
 **Types of Data Modeling**
 
