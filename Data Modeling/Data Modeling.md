@@ -9,20 +9,15 @@ Instead of keeping data as scattered files or logs, data modeling gives it **sha
 
 **Why Data Modeling?**
 
-Without data modeling:
-
-- Data is hard to understand
-    
-- Queries become slow and complex
-    
-- Reports give inconsistent results
-    
-- Scaling analytics becomes painful
+1. Without data modeling:
+	- Data is hard to understand
+	- Queries become slow and complex
+	- Reports give inconsistent results
+	- Scaling analytics becomes painful
     
 
 With good data modeling:
-
-- Data is **consistent and trustworthy**
+Data is **consistent and trustworthy**
     
 - Queries are **simpler and faster**
     
@@ -55,6 +50,18 @@ With good data modeling:
 		1. [[Data modeling Techniques#**Star Schema** | Star Schema]]
 		2. Aggregated marts
 		3. Feature Table
+
+3. Before BI / Reporting - Critical
+	1. Purpose
+		1. Ensure consistent metrics
+		2. Enable simple queries
+		3. Avoid duplicated logic in dashboards
+	2. Used for
+		1. Fact tables
+		2. Dim tables
+		3. Semantic layers
+
+
 
 
 
