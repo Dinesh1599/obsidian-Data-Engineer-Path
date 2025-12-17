@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Go to commands.md",
+                "file": "Data Modeling/Data Modeling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Go to commands"
+              "title": "Data Modeling"
             }
           },
           {
@@ -194,8 +194,10 @@
   },
   "active": "09aaf39caef40a8e",
   "lastOpenFiles": [
-    "pyspark/Go to Pyspark commands.md",
     "docker/Go to commands.md",
+    "Data Modeling/Data Modeling.md",
+    "Data Modeling",
+    "pyspark/Go to Pyspark commands.md",
     "pyspark",
     "Data warehouse/Snowflake/Caching.md",
     "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
@@ -221,7 +223,6 @@
     "Data warehouse/Snowflake/Account access and Security.md",
     "Data warehouse/Snowflake/Row-Level Security.md",
     "Data warehouse/Snowflake/Stored Procedure.md",
-    "Data warehouse/Snowflake/Sequence.md",
     "Pasted image 20251124213546.png",
     "Pasted image 20251124213204.png",
     "Pasted image 20251124213202.png",
@@ -242,7 +243,6 @@
     "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 2.base",
-    "Untitled 1.base",
     "EDA/EDA Flow.canvas",
     "Untitled 1.canvas"
   ]
