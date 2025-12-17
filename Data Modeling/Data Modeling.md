@@ -14,69 +14,53 @@ Instead of keeping data as scattered files or logs, data modeling gives it **sha
 	- Queries become slow and complex
 	- Reports give inconsistent results
 	- Scaling analytics becomes painful
-    
 
-With good data modeling:
-Data is **consistent and trustworthy**
-    
-- Queries are **simpler and faster**
-    
-- Analytics and dashboards are **easy to build**
-    
-- New data sources integrate cleanly
-    
+2. With good data modeling:
+		- Data is **consistent and trustworthy**
+		- Queries are **simpler and faster**
+		- Analytics and dashboards are **easy to build**
+		- New data sources integrate cleanly
 
 > **In short:** Data modeling turns data into a **reliable product**, not just stored information.
 
 
 **Where does it fit in the life cycle?**
-
-1. Before Pipeline Build
-	1. Purpose
-		1. To define fact/dim table
-		2. Table Structure Decision
-		3. Prevent rework
-	2. Used for:
-		1. Data Warehouse design
-		2. dbt model planning
-		3. Analytics layer definition
-
-2. During Transformation
-	1. Purpose
-		1. To refine raw data to analyics-ready data
-		2. Normalize and denormalize
-		3. Business logic
-	2. Used for:
-		1. [[Data modeling Techniques#**Star Schema** | Star Schema]]
-		2. Aggregated marts
-		3. Feature Table
-
-3. Before BI / Reporting - Critical
-	1. Purpose
-		1. Ensure consistent metrics
-		2. Enable simple queries
-		3. Avoid duplicated logic in dashboards
-	2. Used for
-		1. Fact tables
-		2. Dim tables
-		3. Semantic layers
-
-
-
+	1. Before Pipeline Build
+		1. Purpose
+			1. To define fact/dim table
+			2. Table Structure Decision
+			3. Prevent rework
+		2. Used for:
+			1. Data Warehouse design
+			2. dbt model planning
+			3. Analytics layer definition
+	2. During Transformation
+		1. Purpose
+			1. To refine raw data to analyics-ready data
+			2. Normalize and denormalize
+			3. Business logic
+		2. Used for:
+			1. [[Data modeling Techniques#**Star Schema** | Star Schema]]
+			2. Aggregated marts
+			3. Feature Table
+	3. Before BI / Reporting - Critical
+		1. Purpose
+			1. Ensure consistent metrics
+			2. Enable simple queries
+			3. Avoid duplicated logic in dashboards
+		2. Used for
+			1. Fact tables
+			2. Dim tables
+			3. Semantic layers
 
 
 **Types of Data Modeling:**
+	#### 1. Conceptual Model (What)
+		 High-level business view
+		 No technical details
+		 Used to align with stakeholders
 
-#### 1. Conceptual Model (What)
-
-- High-level business view
-    
-- No technical details
-    
-- Used to align with stakeholders
-    
-
-> _Example:_ Customer → Order → Product
+> 	_Example:_ Customer → Order → Product
 
 ---
 
@@ -102,3 +86,5 @@ Data is **consistent and trustworthy**
 
 
 [[Data modeling Techniques]]
+
+
