@@ -13,6 +13,7 @@ A **data dictionary** is **documentation** that _describes_ the table and its co
 ## Example
 
 Query:
+```sql
 Create table human
 	license ID int PRIMARY KEY,
 	surname varchar(20) not null,
@@ -20,6 +21,7 @@ Create table human
 	address VARCHAR(50),
 	phoneno varchar(10)
 	dob date not null;
+```
 
 This shows:
 	What columns exist?

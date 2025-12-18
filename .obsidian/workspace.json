@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
+                "file": "Database Management Concepts/Data Dictionary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snowflake Virtual Warehouse"
+              "title": "Data Dictionary"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
+                "file": "Database Management Concepts/Data Dictionary.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Snowflake Virtual Warehouse"
+              "title": "Backlinks for Data Dictionary"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
+                "file": "Database Management Concepts/Data Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Snowflake Virtual Warehouse"
+              "title": "Outgoing links from Data Dictionary"
             }
           },
           {
@@ -193,11 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca3dec4209ba8ec9",
+  "active": "09aaf39caef40a8e",
   "lastOpenFiles": [
-    "Data warehouse/Snowflake/Snowflake.md",
-    "Database Management Concepts/Data Dictionary.md",
     "Database Management Concepts/ACID Transaction.md",
+    "Database Management Concepts/Data Dictionary.md",
+    "Data warehouse/Snowflake/Snowflake.md",
+    "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Pasted image 20251217220309.png",
     "Databases/Neo4j.md",
     "Databases/Concepts",
@@ -213,7 +214,6 @@
     "Data Modeling",
     "pyspark",
     "Data warehouse/Snowflake/Caching.md",
-    "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Data warehouse/Snowflake/Clustering.md",
     "docker",
     "Python/Data Types and Structures.md",
