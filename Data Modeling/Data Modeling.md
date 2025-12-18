@@ -1,4 +1,4 @@
-
+ll
 **Data modeling** is the process of organizing raw data into a structured format so it can be stored, understood, and queried efficiently for analytics and reporting.
 
 More Explaination:
