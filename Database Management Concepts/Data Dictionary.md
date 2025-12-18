@@ -31,7 +31,7 @@ This shows:
 Now a Data Dictionary:
 ![[Pasted image 20251217220309.png]]
 
-This shows:
+This Answers:
 	What does this column mean?
     What values are valid?
     Where does it come from?
