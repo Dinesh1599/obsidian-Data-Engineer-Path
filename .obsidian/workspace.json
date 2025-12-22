@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Management Concepts/Data Dictionary.md",
+                "file": "SQL/Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Dictionary"
+              "title": "Functions"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "09aaf39caef40a8e",
   "lastOpenFiles": [
-    "Database Management Concepts/ACID Transaction.md",
     "Database Management Concepts/Data Dictionary.md",
+    "SQL/Functions.md",
+    "Database Management Concepts/ACID Transaction.md",
     "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Pasted image 20251217220309.png",
@@ -229,7 +230,6 @@
     "Data warehouse/Snowflake/Copy Options.md",
     "Data warehouse/Snowflake/Time Travel.md",
     "Data warehouse/Snowflake/Semi-structured data.md",
-    "Data warehouse/Snowflake/Fail Safe.md",
     "Pasted image 20251124213546.png",
     "Pasted image 20251124213204.png",
     "Pasted image 20251124213202.png",
