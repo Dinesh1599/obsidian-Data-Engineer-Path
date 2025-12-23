@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 406762
       }
+    },
+    {
+      "query": "path:Databases/Neo4j  ",
+      "color": {
+        "a": 1,
+        "rgb": 39321
+      }
+    },
+    {
+      "query": "path:Databases/PostgreSQL  ",
+      "color": {
+        "a": 1,
+        "rgb": 15073280
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.45050811767578264,
-  "close": true
+  "scale": 0.22920135941749423,
+  "close": false
 }
