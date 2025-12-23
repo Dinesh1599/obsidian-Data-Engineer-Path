@@ -13,6 +13,7 @@
 	5. [[SELF JOIN]]
 3. [[Aggregate Functions]]
 4. [[Wildcard Characters]]
+5. [[SQL Execution Order]]
 
 
 What is SQL?

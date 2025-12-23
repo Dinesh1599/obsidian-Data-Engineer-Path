@@ -11,10 +11,14 @@
             "id": "09aaf39caef40a8e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "SQL/SQL Execution Order.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL Execution Order"
             }
           },
           {
@@ -192,6 +196,9 @@
   },
   "active": "09aaf39caef40a8e",
   "lastOpenFiles": [
+    "SQL/SQL.md",
+    "SQL/SQL Execution Order.md",
+    "Database Management Concepts/Untitled.md",
     "Databases/PostgreSQL/PostgreSQL Functions.md",
     "Python/Functions.md",
     "Databases/Neo4j/Neo4j.md",
@@ -227,9 +234,6 @@
     "New folder/Untitled.md",
     "Data warehouse/Snowflake/Cost.md",
     "Data warehouse/Snowflake/Performance Concepts.md",
-    "Data warehouse/Snowflake/Objects in Snowflake.md",
-    "Data warehouse/Snowflake/Copy Options.md",
-    "Data warehouse/Snowflake/Time Travel.md",
     "images/Pasted image 20251124213546.png",
     "images/Pasted image 20251124213204.png",
     "images/Pasted image 20251124213202.png",
