@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Lambda.md",
+                "file": "docker/Go to commands.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lambda"
+              "title": "Go to commands"
             }
           },
           {
@@ -196,12 +196,12 @@
   },
   "active": "09aaf39caef40a8e",
   "lastOpenFiles": [
+    "Python/Lambda.md",
     "Python/while.md",
     "Python/Tuples.md",
     "Python/Strings.md",
     "Python/Sets.md",
     "Python/List.md",
-    "Python/Lambda.md",
     "Python/If-Else.md",
     "Python/Functions.md",
     "Python/For Loops.md",
