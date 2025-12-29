@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 747.5
+    "width": 362.5
   },
   "right": {
     "id": "07442132946b28e0",
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Management Concepts/Data Dictionary.md",
+                "file": "docker/Go to commands.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Data Dictionary"
+              "title": "Outgoing links from Go to commands"
             }
           },
           {
@@ -175,12 +175,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 536.5,
-    "collapsed": true
+    "width": 536.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09aaf39caef40a8e",
+  "active": "9a5c1268d1bc0f34",
   "lastOpenFiles": [
     "Python/Lambda.md",
     "Python/while.md",
