@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:\"Data Modeling\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16721664
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3938049761185538,
+  "scale": 0.36754850478604734,
   "close": true
 }

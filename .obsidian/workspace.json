@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc95b3f1f1ab3c89",
+        "id": "09c919fd0490b5d3",
         "type": "tabs",
         "children": [
           {
-            "id": "09aaf39caef40a8e",
+            "id": "9a4af64848e2161c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Data Modeling/Data Modeling.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Data Modeling"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 268.5
   },
   "right": {
     "id": "07442132946b28e0",
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.5
+    "width": 536.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09aaf39caef40a8e",
+  "active": "9a4af64848e2161c",
   "lastOpenFiles": [
+    "Kafka/Kafka.md",
+    "Kafka/Kafka Brokers.md",
+    "Data Modeling/Data Modeling.md",
+    "Data Modeling/Data modeling Techniques.md",
     "TEED.md",
     "teed w.md",
     "docker/Go to commands.md",
@@ -188,8 +193,6 @@
     "Kafka/Setup.md",
     "Kafka/Producers.md",
     "Kafka/Partitions.md",
-    "Kafka/Kafka Brokers.md",
-    "Kafka/Kafka.md",
     "Kafka/Consumers.md",
     "Kafka/Consumer Groups.md",
     "pyspark/Go to Pyspark commands.md",
@@ -205,13 +208,11 @@
     "Kafka",
     "ETL",
     "2026-01-16.md",
-    "Data Modeling/Data Modeling.md",
     "Python/Lambda.md",
     "Python/while.md",
     "Python/Tuples.md",
     "Python/Strings.md",
     "Python/Sets.md",
-    "Python/List.md",
     "Data warehouse/Snowflake/RolesHierarchy.canvas",
     "EDA/EDA Flow.canvas",
     "EDA/Data Engineering Process.canvas",

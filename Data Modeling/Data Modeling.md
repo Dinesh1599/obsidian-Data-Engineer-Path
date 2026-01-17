@@ -23,6 +23,7 @@ Instead of keeping data as scattered files or logs, data modeling gives it **sha
 		- Queries are **simpler and faster**
 		- Analytics and dashboards are **easy to build**
 		- New data sources integrate cleanly
+		- Scalable!
 
 > **In short:** Data modeling turns data into a **reliable product**, not just stored information.
 
@@ -58,7 +59,7 @@ Instead of keeping data as scattered files or logs, data modeling gives it **sha
 
 
 **Types of Data Modeling:**
-	#### 1. Conceptual Model (What)
+	1. Conceptual Model (What)
 		 High-level business view
 		 No technical details
 		 Used to align with stakeholders
