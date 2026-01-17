@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 15073490
       }
+    },
+    {
+      "query": "path:Kafka  ",
+      "color": {
+        "a": 1,
+        "rgb": 651533
+      }
+    },
+    {
+      "query": "path:docker  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9389550842331912,
+  "scale": 0.3938049761185538,
   "close": true
 }

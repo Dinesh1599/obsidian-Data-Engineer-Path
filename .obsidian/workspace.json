@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.5,
-    "collapsed": true
+    "width": 536.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,6 +177,8 @@
   },
   "active": "09aaf39caef40a8e",
   "lastOpenFiles": [
+    "docker/Go to commands.md",
+    "teed w.md",
     "Kafka/Topics.md",
     "Kafka/Setup.md",
     "Kafka/Producers.md",
@@ -199,10 +200,8 @@
     "Misc",
     "Kafka",
     "ETL",
-    "teed w.md",
     "2026-01-16.md",
     "Data Modeling/Data Modeling.md",
-    "docker/Go to commands.md",
     "Python/Lambda.md",
     "Python/while.md",
     "Python/Tuples.md",
