@@ -11,10 +11,14 @@
             "id": "09aaf39caef40a8e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -177,9 +181,10 @@
   },
   "active": "09aaf39caef40a8e",
   "lastOpenFiles": [
+    "teed w.md",
+    "TEED.md",
     "Untitled.canvas",
     "docker/Go to commands.md",
-    "teed w.md",
     "Kafka/Topics.md",
     "Kafka/Setup.md",
     "Kafka/Producers.md",
@@ -188,7 +193,6 @@
     "Kafka/Kafka.md",
     "Kafka/Consumers.md",
     "Kafka/Consumer Groups.md",
-    "TEED.md",
     "pyspark/Go to Pyspark commands.md",
     "New folder/Untitled.md",
     "New folder/logmining for confluent CDC to kafka consumer.md",
