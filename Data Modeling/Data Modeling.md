@@ -66,6 +66,9 @@ Instead of keeping data as scattered files or logs, data modeling gives it **sha
 
 > 	_Example:_ Customer → Order → Product
 
+![[Screenshot 2026-01-17 at 4.17.32 AM.png]]
+
+
 ---
 
 #### 2. Logical Model (How logically)
@@ -76,7 +79,7 @@ Instead of keeping data as scattered files or logs, data modeling gives it **sha
     
 
 > _Example:_ Customer has many Orders; Order has order_date, total_amount
-
+![[Screenshot 2026-01-17 at 4.18.16 AM.png]]
 ---
 
 #### 3. Physical Model (How technically)
@@ -88,7 +91,11 @@ Instead of keeping data as scattered files or logs, data modeling gives it **sha
 
 > _Example:_ PostgreSQL tables with primary keys, foreign keys, and indexes
 
+![[Screenshot 2026-01-17 at 4.18.29 AM.png]]
 
+
+# Topics
+[[OLTP vs OLAP]]
 [[Data modeling Techniques]]
 
 
