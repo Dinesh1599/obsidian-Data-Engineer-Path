@@ -25,12 +25,14 @@
             "id": "1e4f93bae249f969",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "teed w.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "teed w"
             }
           },
           {
@@ -192,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.5,
-    "collapsed": true
+    "width": 536.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +208,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bb36002b09ef60b",
+  "active": "1e4f93bae249f969",
   "lastOpenFiles": [
+    "teed w.md",
     "TEED.md",
     "2026-01-16.md",
     "Data Modeling/Data Modeling.md",
@@ -235,7 +237,6 @@
     "Databases/Neo4j/parameters.md",
     "Databases/Neo4j/node.md",
     "Databases/Neo4j/Neo4j.md",
-    "Databases/Neo4j/label.md",
     "EDA/EDA Flow.canvas",
     "EDA/Data Engineering Process.canvas",
     "Databases/PostgreSQL",
