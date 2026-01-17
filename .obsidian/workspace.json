@@ -11,46 +11,13 @@
             "id": "09aaf39caef40a8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEED.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TEED"
-            }
-          },
-          {
-            "id": "1e4f93bae249f969",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEED.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TEED"
-            }
-          },
-          {
-            "id": "b1036bbfba8f5c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pyspark/Go to Pyspark commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Go to Pyspark commands"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.5
+    "width": 536.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,10 +176,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e4f93bae249f969",
+  "active": "09aaf39caef40a8e",
   "lastOpenFiles": [
-    "teed w.md",
+    "Kafka/Topics.md",
+    "Kafka/Setup.md",
+    "Kafka/Producers.md",
+    "Kafka/Partitions.md",
+    "Kafka/Kafka Brokers.md",
+    "Kafka/Kafka.md",
+    "Kafka/Consumers.md",
+    "Kafka/Consumer Groups.md",
     "TEED.md",
+    "pyspark/Go to Pyspark commands.md",
+    "New folder/Untitled.md",
+    "New folder/logmining for confluent CDC to kafka consumer.md",
+    "Misc/Credentials.md",
+    "Misc/TODO.md",
+    "images/Screenshot 2026-01-05 at 12.53.09 AM.png",
+    "docker/Docker.md",
+    "docker/docker-compose.md",
+    "New folder",
+    "Misc",
+    "Kafka",
+    "ETL",
+    "teed w.md",
     "2026-01-16.md",
     "Data Modeling/Data Modeling.md",
     "docker/Go to commands.md",
@@ -221,22 +209,7 @@
     "Python/Strings.md",
     "Python/Sets.md",
     "Python/List.md",
-    "Python/If-Else.md",
-    "Python/Functions.md",
-    "Python/For Loops.md",
-    "Python/Error Handling.md",
-    "Python/Dictionaries.md",
-    "Python/Data Types and Structures.md",
-    "Python/Control Flow.md",
-    "SQL/SQL Execution Order.md",
-    "Data Modeling/Data modeling Techniques.md",
     "Data warehouse/Snowflake/RolesHierarchy.canvas",
-    "Database Management Concepts/ACID Transaction.md",
-    "Database Management Concepts/Data Dictionary.md",
-    "Database Management Concepts/Untitled.md",
-    "Databases/Neo4j/parameters.md",
-    "Databases/Neo4j/node.md",
-    "Databases/Neo4j/Neo4j.md",
     "EDA/EDA Flow.canvas",
     "EDA/Data Engineering Process.canvas",
     "Databases/PostgreSQL",
@@ -247,7 +220,6 @@
     "Databases/Concepts",
     "Data Modeling",
     "pyspark",
-    "docker",
     "images/Pasted image 20251124213546.png",
     "images/Pasted image 20251124213204.png",
     "images/Pasted image 20251124213202.png",
@@ -255,11 +227,7 @@
     "images/Pasted image 20251124195019.png",
     "images/Pasted image 20251124194431.png",
     "images/Pasted image 20251124190540.png",
-    "images/Pasted image 20251124190142.png",
     "Untitled.canvas",
-    "Database Management Concepts",
-    "Untitled.base",
-    "Untitled 6.base",
     "Untitled 1.canvas"
   ]
 }
