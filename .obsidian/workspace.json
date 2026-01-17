@@ -177,6 +177,7 @@
   },
   "active": "09aaf39caef40a8e",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "docker/Go to commands.md",
     "teed w.md",
     "Kafka/Topics.md",
@@ -207,7 +208,6 @@
     "Python/Tuples.md",
     "Python/Strings.md",
     "Python/Sets.md",
-    "Python/List.md",
     "Data warehouse/Snowflake/RolesHierarchy.canvas",
     "EDA/EDA Flow.canvas",
     "EDA/Data Engineering Process.canvas",
@@ -226,7 +226,6 @@
     "images/Pasted image 20251124195019.png",
     "images/Pasted image 20251124194431.png",
     "images/Pasted image 20251124190540.png",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
