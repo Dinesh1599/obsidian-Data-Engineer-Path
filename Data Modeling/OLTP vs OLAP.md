@@ -8,4 +8,5 @@
 
 
 ## OLAP (Online Analytical Processing)
-- Dimensional Modeling is done here.
+- Multi-dimensional processing done on high speed to process Big Data
+- 
