@@ -24,4 +24,7 @@ ETL (Extract Transform Load)
 	- Goal: Make Data consistent and analytics ready
 - Load
 	- Show transformed data into
-		- 
+		- Data warehouses
+		- Data Lakes
+		- Analytics database
+	- Goal: Make data available for queries and dashboards.
