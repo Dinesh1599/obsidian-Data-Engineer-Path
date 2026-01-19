@@ -5,6 +5,8 @@
 - [[Normalization]] modeling is considered the core here.
 - Focused on handling large number of transactional data quickly for daily business operations!
 - Maintains integrity and reliability and supports [[ACID Transaction]]
+- **Basically anything that involves transactios**
+- 
 
 
 ## OLAP (Online Analytical Processing)
