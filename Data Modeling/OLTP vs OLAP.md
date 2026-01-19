@@ -15,4 +15,16 @@
 # OLAP vs OLTP
 
 	Choosing when to use OLAP and OLTP depends on what you need
-	
+
+| **Feature**      | **OLTP**                  | **OLAP**                              |
+| ---------------- | ------------------------- | ------------------------------------- |
+| Primary purpose  | Run operations            | Analyze business                      |
+| Typical users    | Applications, customers   | Analysts, data scientists, executives |
+| Workload type    | Many small transactions   | Few large complex queries             |
+| Data freshness   | Real-time current state   | Historical + aggregated               |
+| Schema design    | Highly normalized (3NF)   | Denormalized (Star / Wide tables)     |
+| Storage pattern  | Row-oriented              | Column-oriented                       |
+| Read vs Write    | Write-heavy               | Read-heavy                            |
+| Query complexity | Simple point queries      | Large joins + aggregations            |
+| Data size        | GB–TB                     | TB–PB                                 |
+| Examples         | PostgreSQL, MySQL, Oracle | Snowflake, BigQuery, Redshift         |
