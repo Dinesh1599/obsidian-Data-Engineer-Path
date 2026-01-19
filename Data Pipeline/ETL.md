@@ -2,6 +2,8 @@
 **TOPICS**
 - [[ETL]]
 - [[ETL Layers]]
+- [[Incremental Loading]]
+- 
 
 
 ETL (Extract Transform Load)
