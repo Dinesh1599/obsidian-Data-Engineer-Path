@@ -13,4 +13,6 @@
 
 
 # OLAP vs OLTP
+
+	Choosing when to use OLAP and OLTP depends on what you need
 	
