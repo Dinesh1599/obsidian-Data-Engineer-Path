@@ -64,10 +64,10 @@
       }
     },
     {
-      "query": "pat",
+      "query": "path:ETL  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 11373677
       }
     }
   ],
@@ -81,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9870703870341107,
-  "close": false
+  "scale": 1.801941762293473,
+  "close": true
 }
