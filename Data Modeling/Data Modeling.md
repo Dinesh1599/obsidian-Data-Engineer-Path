@@ -1,3 +1,8 @@
+# Topics
+[[OLTP vs OLAP]]
+[[Data modeling Techniques]]
+
+
 
 **Data modeling** is the process of organizing raw data into a structured format (blueprint) so it can be stored, understood, and queried efficiently for analytics and reporting.
 
@@ -93,8 +98,5 @@ Instead of keeping data as scattered files or logs, data modeling gives it **sha
 ![[Screenshot 2026-01-17 at 4.18.29 AM.png]]
 
 
-# Topics
-[[OLTP vs OLAP]]
-[[Data modeling Techniques]]
 
 

@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a4af64848e2161c",
+  "active": "8bb36002b09ef60b",
   "lastOpenFiles": [
     "Data Modeling/OLTP vs OLAP.md",
     "Data Modeling/Normalization.md",
@@ -200,7 +200,7 @@
     "Kafka/Partitions.md",
     "Kafka/Consumers.md",
     "Kafka/Consumer Groups.md",
-    "pyspark/Go to Pyspark commands.md",
+    "Pyspark/Go to Pyspark commands.md",
     "New folder/Untitled.md",
     "New folder/logmining for confluent CDC to kafka consumer.md",
     "Misc/Credentials.md",
@@ -226,7 +226,7 @@
     "images/Pasted image 20251217220309.png",
     "Databases/Concepts",
     "Data Modeling",
-    "pyspark",
+    "Pyspark",
     "images/Pasted image 20251124213546.png",
     "images/Pasted image 20251124213204.png",
     "images/Pasted image 20251124213202.png",
