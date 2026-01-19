@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "incremental ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -64,7 +64,7 @@
       }
     },
     {
-      "query": "path:ETL  ",
+      "query": "path:\"Data Pipeline\"  ",
       "color": {
         "a": 1,
         "rgb": 11373677
@@ -81,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6964597824140115,
-  "close": false
+  "scale": 0.7277338828683444,
+  "close": true
 }
