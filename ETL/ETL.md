@@ -14,4 +14,14 @@ ETL (Extract Transform Load)
 		- Files
 		- Streaming platforms
 	- Goal: Get Raw data from operational system
-	- 
+- Transform
+	- Clean and reshape data
+		- Fix Data types
+		- Remove duplicates
+		- Apply Business Logics
+		- Join Datasets
+		- Create aggregates
+	- Goal: Make Data consistent and analytics ready
+- Load
+	- Show transformed data into
+		- 
