@@ -15,6 +15,7 @@
 # OLAP vs OLTP
 
 	Choosing when to use OLAP and OLTP depends on what you need
+	
 
 | **Feature**      | **OLTP**                  | **OLAP**                              |
 | ---------------- | ------------------------- | ------------------------------------- |
@@ -28,3 +29,10 @@
 | Query complexity | Simple point queries      | Large joins + aggregations            |
 | Data size        | GB–TB                     | TB–PB                                 |
 | Examples         | PostgreSQL, MySQL, Oracle | Snowflake, BigQuery, Redshift         |
+
+Usually, A typical pipeline generally converts data in OLTP model to OLAP model
+```
+
+
+
+```
