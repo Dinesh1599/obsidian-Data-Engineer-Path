@@ -27,7 +27,6 @@ Instead of keeping data as scattered files or logs, data modeling gives it **sha
 
 > **In short:** Data modeling turns data into a **reliable product**, not just stored information.
 
-
 **Where does it fit in the life cycle?**
 	1. Before Pipeline Build
 		1. Purpose
