@@ -10,12 +10,12 @@
 ## OLAP (Online Analytical Processing)
 - Multi-dimensional processing done on high speed to process Big Data
 - Good for tasks like data Mining, BI and analytics calculations. 
+- Its mostly downstream and a read-only for Business Intelligence.
 
 
 # OLAP vs OLTP
 
 	Choosing when to use OLAP and OLTP depends on what you need
-	
 
 | **Feature**      | **OLTP**                  | **OLAP**                              |
 | ---------------- | ------------------------- | ------------------------------------- |
@@ -32,7 +32,9 @@
 
 Usually, A typical pipeline generally converts data in OLTP model to OLAP model
 ```
-
-
-
+App Database (OLTP)
+     ↓ ETL / CDC
+Data Warehouse (OLAP)
+     ↓
+Dashboards / ML / Reports
 ```
