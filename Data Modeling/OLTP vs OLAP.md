@@ -9,4 +9,4 @@
 
 ## OLAP (Online Analytical Processing)
 - Multi-dimensional processing done on high speed to process Big Data
-- Good for tasks like data Mining, BI and analytics calculations.
+- Good for tasks like data Mining, BI and analytics calculations. 
