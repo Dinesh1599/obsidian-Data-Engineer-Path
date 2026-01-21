@@ -176,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a4af64848e2161c",
+  "active": "8bb36002b09ef60b",
   "lastOpenFiles": [
+    "Spark",
     "Data Modeling/OLTP vs OLAP.md",
     "Data Modeling/Normalization.md",
     "Data Modeling/Data Modeling.md",
@@ -207,7 +208,6 @@
     "Misc/TODO.md",
     "images/Screenshot 2026-01-05 at 12.53.09 AM.png",
     "docker/Docker.md",
-    "docker/docker-compose.md",
     "New folder",
     "Misc",
     "Kafka",
