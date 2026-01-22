@@ -176,8 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bb36002b09ef60b",
+  "active": "9a4af64848e2161c",
   "lastOpenFiles": [
+    "Database Management Concepts/Nested Data.md",
+    "Data warehouse/Snowflake/Snowflake.md",
     "Spark",
     "Data Modeling/OLTP vs OLAP.md",
     "Data Modeling/Normalization.md",
@@ -207,7 +209,6 @@
     "Misc/Credentials.md",
     "Misc/TODO.md",
     "images/Screenshot 2026-01-05 at 12.53.09 AM.png",
-    "docker/Docker.md",
     "New folder",
     "Misc",
     "Kafka",
@@ -222,7 +223,6 @@
     "images/Pasted image 20251217220309.png",
     "Databases/Concepts",
     "Data Modeling",
-    "Pyspark",
     "images/Pasted image 20251124213546.png",
     "images/Pasted image 20251124213204.png",
     "images/Pasted image 20251124213202.png",
