@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 11373677
       }
+    },
+    {
+      "query": "path:Pyspark  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7115402772975983,
+  "scale": 0.565476344556413,
   "close": true
 }
