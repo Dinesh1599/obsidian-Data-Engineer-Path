@@ -15,3 +15,27 @@ The understanding here:
 	The Cluster Manager launches Executor JVMs on existing Worker Nodes.  
 	Once Executors are running, the Driver sends tasks (each handling a data partition) to them.  
 	The Worker Nodes execute these tasks in parallel and return results to the Driver.
+
+
+## Conventional Execution flow
+```arduino
+
+Your Code
+   ↓
+Driver builds DAG
+   ↓
+Cluster Manager allocates executors
+   ↓
+DAG Scheduler builds stages
+   ↓
+Task Scheduler sends tasks
+   ↓
+Executors process partitions
+   ↓
+Results returned to Driver
+
+```
+
+#### #TtA 
+1. How DAGs come into play here.(DAG Scheduler)
+2. Task Scheduler
