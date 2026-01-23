@@ -18,7 +18,7 @@
       "query": "path:\"Database Management Concepts\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 353834
       }
     },
     {
@@ -95,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6018992941074824,
+  "scale": 0.674004166666199,
   "close": true
 }
