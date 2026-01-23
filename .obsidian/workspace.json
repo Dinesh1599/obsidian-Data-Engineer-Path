@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09c919fd0490b5d3",
+        "id": "8722eb3d82c45e52",
         "type": "tabs",
         "children": [
           {
-            "id": "9a4af64848e2161c",
+            "id": "e3df2220e1ff0af7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Spark/Spark Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spark Architecture"
             }
           }
         ]
@@ -176,18 +180,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a4af64848e2161c",
+  "active": "e3df2220e1ff0af7",
   "lastOpenFiles": [
+    "Data Modeling/Data Modeling.md",
+    "Data warehouse/Snowflake/Roles.md",
+    "Data warehouse/Snowflake/RolesHierarchy.canvas",
+    "Data warehouse/Snowflake/Account access and Security.md",
+    "Data warehouse/Snowflake/Row-Level Security.md",
+    "Data warehouse/Snowflake/Network Policies.md",
+    "Data warehouse/Snowflake/MFA Authentication.md",
+    "Data warehouse/Snowflake/Snowflake.md",
+    "Data warehouse/Snowflake/SnowSQL.md",
+    "Data warehouse/Snowflake/Snowpipe.md",
+    "Databases/PostgreSQL/PostgreSQL Functions.md",
     "Spark/Spark Architecture.md",
     "images/Pasted image 20260122225447.png",
     "Spark/Apache Spark.md",
     "Pyspark/Pyspark.md",
     "Database Management Concepts/Nested Data.md",
-    "Data warehouse/Snowflake/Snowflake.md",
     "Spark",
     "Data Modeling/OLTP vs OLAP.md",
     "Data Modeling/Normalization.md",
-    "Data Modeling/Data Modeling.md",
     "Data Modeling/Data modeling Techniques.md",
     "Kafka/Setup.md",
     "Data Pipeline/ETL Techniques.md",
@@ -200,20 +213,11 @@
     "Kafka/Kafka.md",
     "Kafka/Kafka Brokers.md",
     "TEED.md",
-    "teed w.md",
-    "docker/Go to commands.md",
-    "Kafka/Topics.md",
-    "Kafka/Producers.md",
-    "Kafka/Partitions.md",
-    "Kafka/Consumers.md",
-    "Kafka/Consumer Groups.md",
-    "Pyspark/Go to Pyspark commands.md",
     "images/Screenshot 2026-01-05 at 12.53.09 AM.png",
     "New folder",
     "Misc",
     "Kafka",
     "Data Pipeline",
-    "Data warehouse/Snowflake/RolesHierarchy.canvas",
     "EDA/EDA Flow.canvas",
     "EDA/Data Engineering Process.canvas",
     "Databases/PostgreSQL",

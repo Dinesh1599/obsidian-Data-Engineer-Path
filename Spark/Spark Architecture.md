@@ -1,6 +1,6 @@
 ![[Pasted image 20260122225447.png]]
 
-Spark works on a Cluster of Computers.
+Spark works on a Cluster of Computers and Spark follows the Master-Slave Architecture.
 
 Driver program: Responsible for running code and scheduling tasks on executors.
 
