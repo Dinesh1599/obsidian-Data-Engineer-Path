@@ -1,5 +1,6 @@
 ![[Pasted image 20260122225447.png]]
 
+#NmE 
 
 Spark works on a Cluster of Computers and Spark follows the Master-Slave Architecture.
 
