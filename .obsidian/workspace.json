@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spark/Spark Architecture.md",
+                "file": "All Tags list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spark Architecture"
+              "title": "All Tags list"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#FIX",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,6 +182,8 @@
   },
   "active": "e3df2220e1ff0af7",
   "lastOpenFiles": [
+    "Spark/Spark Architecture.md",
+    "All Tags list.md",
     "Data Modeling/Data Modeling.md",
     "Data warehouse/Snowflake/Roles.md",
     "Data warehouse/Snowflake/RolesHierarchy.canvas",
@@ -193,7 +195,6 @@
     "Data warehouse/Snowflake/SnowSQL.md",
     "Data warehouse/Snowflake/Snowpipe.md",
     "Databases/PostgreSQL/PostgreSQL Functions.md",
-    "Spark/Spark Architecture.md",
     "images/Pasted image 20260122225447.png",
     "Spark/Apache Spark.md",
     "Pyspark/Pyspark.md",
