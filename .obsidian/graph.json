@@ -74,6 +74,13 @@
       "query": "path:Pyspark  ",
       "color": {
         "a": 1,
+        "rgb": 15520352
+      }
+    },
+    {
+      "query": "path:Spark  ",
+      "color": {
+        "a": 1,
         "rgb": 16777215
       }
     }
@@ -88,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.565476344556413,
+  "scale": 0.5710031311269691,
   "close": true
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pyspark/Pyspark.md",
+                "file": "Spark/Spark Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pyspark"
+              "title": "Spark Architecture"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "9a4af64848e2161c",
   "lastOpenFiles": [
-    "Pyspark/Pyspark.md",
     "Spark/Apache Spark.md",
+    "Spark/Spark Architecture.md",
+    "Pyspark/Pyspark.md",
     "Database Management Concepts/Nested Data.md",
     "Data warehouse/Snowflake/Snowflake.md",
     "Spark",
@@ -211,7 +212,6 @@
     "Kafka/Consumer Groups.md",
     "Pyspark/Go to Pyspark commands.md",
     "New folder/Untitled.md",
-    "New folder/logmining for confluent CDC to kafka consumer.md",
     "images/Screenshot 2026-01-05 at 12.53.09 AM.png",
     "New folder",
     "Misc",
