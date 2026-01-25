@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Apache Spark"
             }
+          },
+          {
+            "id": "6df02172d7874bd9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.5
+    "width": 536.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,12 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8cf7bc0eddc98e1",
+  "active": "6df02172d7874bd9",
   "lastOpenFiles": [
-    "Spark/Why we use Spark?.md",
-    "Spark/Fault Tolerance.md",
     "Spark/Job, Stages and Tasks.md",
     "Spark/Apache Spark.md",
+    "Spark/Why we use Spark?.md",
+    "Spark/Fault Tolerance.md",
     "All Tags list.md",
     "Spark/Spark Action.md",
     "Spark/Lazy Evaluation.md",
