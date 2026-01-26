@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "path:\"Data warehouse/Databricks\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12805439
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.674004166666199,
+  "scale": 0.5943625456713652,
   "close": true
 }
