@@ -15,7 +15,7 @@ List of Data Governance:
 - Data Access Policies
 	- Masking Policies
 	- Row access policies
-- Data lineage and Dependancies.
+- [[Data lineage]] and Dependancies.
 
 We can tag an object with an object tag and whatever policies were assigned to that tag, the policies are also attached to said objects.
 
