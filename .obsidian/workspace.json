@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Pyspark/PySpark Transformations - Beginner.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -182,9 +182,9 @@
   },
   "active": "b8cf7bc0eddc98e1",
   "lastOpenFiles": [
-    "Data warehouse/Snowflake/Snowflake.md",
-    "Pyspark/PySpark Transformations - Beginner.md",
     "SQL/DQL.md",
+    "Pyspark/PySpark Transformations - Beginner.md",
+    "Data warehouse/Snowflake/Snowflake.md",
     "Pyspark/Pyspark.md",
     "SQL/SQL.md",
     "SQL/DML.md",

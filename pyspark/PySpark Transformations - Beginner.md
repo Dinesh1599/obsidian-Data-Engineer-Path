@@ -29,13 +29,25 @@ Similar to SELECT d_name as Name from xyz; (the AS command)
 df.select(col('Item_Identifier').alias('Item ID')).display()
 ```
 ## 3.  Filter
-### Secnario 1
+### Secnario 1 - WHERE 
 
+``` python
+df.filter(col('Item_Fat_Content')=='Regular').display()
+```
+-  This is similar to using [[DQL | WHERE]] in SQL
+- df.filter() is used
+### Scenario 2 - WHERE, AND
 
-
-
-### Scenario 2
-
+```python
+df.filter((col('Item_Type') == 'Soft Drinks') & (col('Item_Weight' <10)).display()
+```
+- Similar to USING WHERE and AND command
+- SQL EQUIVALENT
+	```sql
+	SELECT * from XYZ
+	WHERE Item_Type = 'Soft Drinks'
+	AND Item_Weight <10;
+	```
 ### Scenario 3
 
 
