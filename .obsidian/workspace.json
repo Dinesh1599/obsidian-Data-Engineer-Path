@@ -11,10 +11,14 @@
             "id": "b8cf7bc0eddc98e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Data warehouse/Databricks/Unity Catalog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unity Catalog"
             }
           }
         ]
@@ -178,6 +182,9 @@
   },
   "active": "b8cf7bc0eddc98e1",
   "lastOpenFiles": [
+    "Screenshot 2026-01-27 at 10.17.36 AM.png",
+    "Data warehouse/Databricks/Unity Catelog Hierarchy.md",
+    "Data warehouse/Databricks/Unity Catalog.md",
     "Pyspark/PySpark Transformations - Beginner.md",
     "Pyspark/Pyspark.md",
     "SQL/DQL.md",
@@ -193,7 +200,6 @@
     "Spark/Fault Tolerance.md",
     "Spark/Spark Architecture.md",
     "All Tags list.md",
-    "Data warehouse/Databricks/Unity Catelog Hierarchy.md",
     "Data warehouse/Databricks",
     "Data warehouse/Snowflake/Stored Procedure.md",
     "Data warehouse/Snowflake/INSERT AND UPDATE.md",
@@ -203,8 +209,6 @@
     "Data warehouse/Snowflake/Snowflake Editions and pricing.md",
     "Data warehouse/Snowflake/Snowflake Architecture.md",
     "Spark/Why we use Spark?.md",
-    "Spark/Spark Action.md",
-    "Data Modeling/Data Modeling.md",
     "Data warehouse/Snowflake/RolesHierarchy.canvas",
     "images/Pasted image 20260122225447.png",
     "Spark",
