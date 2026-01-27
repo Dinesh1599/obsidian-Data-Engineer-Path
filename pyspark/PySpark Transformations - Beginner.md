@@ -1,6 +1,6 @@
 Note: Ensure `from pyspark.sql.functions import *` is executed.
 ## 1. Select Transformation
-- Does the same function as [[DQL | SELECT]] in [[SQL]]
+- Does the same function as [[DQL | SELECT]] in SQL
 - gets `col` from `pyspark.sql.functions`
 
 Note: df.select and df.select(col()) both does the same thing but
@@ -41,14 +41,27 @@ df.filter(col('Item_Fat_Content')=='Regular').display()
 ```python
 df.filter((col('Item_Type') == 'Soft Drinks') & (col('Item_Weight' <10)).display()
 ```
-- Similar to USING WHERE and AND command
+- AND is replaced with &
 - SQL EQUIVALENT
 	```sql
 	SELECT * from XYZ
 	WHERE Item_Type = 'Soft Drinks'
 	AND Item_Weight <10;
 	```
-### Scenario 3
+### Scenario 3 - Where, AND, In
+
+```python
+df.filter((col('Outlet_Size').isNull()) & (col('Outlet_Location_Type').isin('Tier 1','Tier 2'))).display()
+```
+
+- Similar to the previous 2 scenarios
+- IN is used as isin()
+- SQL Equivalen
+	```sql
+	SELECT * FROM df
+WHERE Outlet_Size IS NULL
+  AND Outlet_Location_Type IN ('Tier 1', 'Tier 2');
+	```
 
 
 
