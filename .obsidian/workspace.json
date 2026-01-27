@@ -182,8 +182,9 @@
   },
   "active": "b8cf7bc0eddc98e1",
   "lastOpenFiles": [
-    "SQL/DQL.md",
+    "Data warehouse/Snowflake/Snowflake.md",
     "Pyspark/PySpark Transformations - Beginner.md",
+    "SQL/DQL.md",
     "Pyspark/Pyspark.md",
     "SQL/SQL.md",
     "SQL/DML.md",
@@ -200,7 +201,6 @@
     "Data warehouse/Databricks",
     "Data warehouse/Snowflake/Stored Procedure.md",
     "Data warehouse/Snowflake/INSERT AND UPDATE.md",
-    "Data warehouse/Snowflake/Snowflake.md",
     "Data warehouse/Snowflake/File Formats.md",
     "Data warehouse/Snowflake/Snowflake Virtual Warehouse.md",
     "Data warehouse/Snowflake/Querying.md",

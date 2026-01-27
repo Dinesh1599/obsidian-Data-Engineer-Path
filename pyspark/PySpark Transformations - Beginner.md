@@ -10,6 +10,12 @@ Note: df.select and df.select(col()) both does the same thing but
 `col()` is used to build expression on a column and not to s
 
 Syntax:
+1. Normal Select
+```python
+df.select('Item Identifier','Item_weight')
+```
+
+2. Using col() - Suggested
 ```python
 
 df.select(col('Item Identifier'),col('Item_Weight'),col('Item_Size'))\
@@ -22,7 +28,16 @@ Similar to SELECT d_name as Name from xyz; (the AS command)
 ```python
 df.select(col('Item_Identifier').alias('Item ID')).display()
 ```
-## 3. 
+## 3.  Filter
+### Secnario 1
+
+
+
+
+### Scenario 2
+
+### Scenario 3
+
 
 
 
