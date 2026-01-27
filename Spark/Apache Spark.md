@@ -7,5 +7,3 @@ Assume having Data of 1GB - Spark uses multiple machines and considers them as 1
 Topics
 [[Spark Architecture]]
 [[Why we use Spark?]]
-[[Reading a file in Spark]]
-
