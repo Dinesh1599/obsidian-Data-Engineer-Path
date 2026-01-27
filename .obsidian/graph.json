@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "Data Lineage",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -102,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.0589183038608962,
-  "close": false
+  "scale": 2.6897127588090837,
+  "close": true
 }
