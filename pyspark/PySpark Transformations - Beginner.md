@@ -30,10 +30,10 @@ df.select(col('Item_Identifier').alias('Item ID')).display()
 ```
 ## 3.  Filter
 ### Secnario 1 - WHERE 
-
 ``` python
 df.filter(col('Item_Fat_Content')=='Regular').display()
 ```
+
 -  This is similar to using [[DQL | WHERE]] in SQL
 - df.filter() is used
 ### Scenario 2 - WHERE, AND
