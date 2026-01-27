@@ -1,6 +1,29 @@
-
+Note: Ensure `from pyspark.sql.functions import *` is executed.
 ## 1. Select Transformation
+- Does the same function as [[DQL | SELECT]] in [[SQL]]
+- gets `col` from `pyspark.sql.functions`
 
-Does the same function as [[DQL | SELECT]] in [[SQL]]
+Note: df.select and df.select(col()) both does the same thing but
+-  Strings = "just column names" , cannot build expressions in it 
+- `col()` = "column as a programmable object" - **Good practice**
+
+`col()` is used to build expression on a column and not to s
+
+Syntax:
+```python
+
+df.select(col('Item Identifier'),col('Item_Weight'),col('Item_Size'))\
+.display()
+```
+
+## 2. Alias
+Similar to SELECT d_name as Name from xyz; (the AS command)
+
+```python
+df.select(col('Item_Identifier').alias('Item ID')).display()
+```
+## 3. 
+
+
 
 
