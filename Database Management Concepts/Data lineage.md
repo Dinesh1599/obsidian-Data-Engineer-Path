@@ -21,3 +21,9 @@
 ## **Simple example**
 
 If a finance dashboard displays revenue incorrectly, data lineage allows teams to trace the metric back through transformation jobs to the original transaction system, quickly identify where the issue occurred, and fix it.
+
+
+## Types of Data Lineage
+
+1. Table-Level Data Lineage
+2. Column-Level Data Lineage
