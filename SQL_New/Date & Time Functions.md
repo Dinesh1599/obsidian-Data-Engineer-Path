@@ -13,6 +13,8 @@
   - Return Year from Date
 ### DATEPART or EXTRACT()
 - EXTRACT() pulls out specific parts (like year, month, day, hour) from dates and timestamps.
+- EXTRACT(PART from [date])
+- DATEPART(part, [date])
 
 | Part            | What It Returns           | Range              | Example Result |
 | --------------- | ------------------------- | ------------------ | -------------- |
@@ -36,6 +38,8 @@
 
 ### DATENAME
 - If you want the Date to return Character value 
+- Works on SQL Server and Databricks DATENAME(value,[date])
+- in postgres its to_char([date],format)
 ### DATETRUNC
 ### EOMONTH
 
