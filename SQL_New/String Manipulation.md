@@ -1,4 +1,4 @@
-1. CONCAT
+  1. CONCAT
 	- Combines multiple strings
 	- Syntax:
 		- CONCAT(Firstname,Last Name)
