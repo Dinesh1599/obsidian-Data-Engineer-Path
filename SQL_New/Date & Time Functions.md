@@ -11,7 +11,8 @@
 -   Return Month from Date
 ### YEAR
   - Return Year from Date
-### DATEPART
+### DATEPART or EXTRACT()
+- 
 ### DATENAME
 ### DATETRUNC
 ### EOMONTH
