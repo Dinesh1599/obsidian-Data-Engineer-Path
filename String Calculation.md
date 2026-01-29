@@ -1,5 +1,6 @@
-### LEN()
+### LEN() or LENGTH()
 - Counts how many characters
+- LENGTH() is instead used in Postgresql
 - Syntax
 	- LEN([column_name])
 	- LEN(first_name)
