@@ -12,7 +12,13 @@
 ### YEAR
   - Return Year from Date
 ### DATEPART or EXTRACT()
+- EXTRACT() pulls out specific parts (like year, month, day, hour) from dates and timestamps.
 - 
+
+| s   | s   |
+| --- | --- |
+| s   | s   |
+
 ### DATENAME
 ### DATETRUNC
 ### EOMONTH
