@@ -35,6 +35,7 @@
 | TIMEZONE_MINUTE | Timezone minutes          | 0–59               | 0              |
 
 ### DATENAME
+- If you want the Date to return Character value 
 ### DATETRUNC
 ### EOMONTH
 
