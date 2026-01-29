@@ -14,3 +14,9 @@
 	- Removes Leading and Trailing Spaces(Empty spaces at the beginning and the end)
 	- Syntax
 		- TRIM(First Name)
+
+### Replace
+- Replaces a value with another value
+- Can be replacement value can also be blank
+- Syntax
+	- REPLACE(phnumber,'-','')
