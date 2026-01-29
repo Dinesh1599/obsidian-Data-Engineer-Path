@@ -10,6 +10,9 @@
 [[Performance Optmization]]
 [[AI and SQL]]
 
+Learning Roadmap:
+https://www.mindmeister.com/app/map/2937557798?t=gEsd0gNKbd
+
 
 
  

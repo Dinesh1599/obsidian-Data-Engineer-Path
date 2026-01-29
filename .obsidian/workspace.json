@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL_New/SQL Intro.md",
-                "mode": "preview",
+                "file": "SQL_New/SQL.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Intro"
+              "title": "SQL"
             }
           }
         ]
@@ -182,9 +182,10 @@
   },
   "active": "b8cf7bc0eddc98e1",
   "lastOpenFiles": [
+    "SQL_New/AI and SQL.md",
     "SQL_New/SQL.md",
-    "SQL_New/Query Data.md",
     "SQL_New/SQL Intro.md",
+    "SQL_New/Query Data.md",
     "SQL_New/SET Operator.md",
     "SQL/SQL Execution Order.md",
     "SQL_New/Performance Optmization.md",
@@ -209,7 +210,6 @@
     "Data warehouse/Snowflake/object tagging.md",
     "New folder/Untitled.md",
     "Data warehouse/Databricks/Unity Catalog.md",
-    "Data warehouse/Databricks/Unity Catelog Hierarchy.md",
     "Data warehouse/Databricks",
     "Data warehouse/Snowflake/RolesHierarchy.canvas",
     "images/Pasted image 20260122225447.png",
