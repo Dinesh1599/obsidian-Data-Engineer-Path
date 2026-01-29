@@ -1,5 +1,5 @@
-[[Inner Join]]
-[[Left Join]]
+[[INNER JOIN]]
+[[LEFT JOIN]]
 [[Full Join]]
 [[Left Anti Join]]
 [[Full Anti Join]]

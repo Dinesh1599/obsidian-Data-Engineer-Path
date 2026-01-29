@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL_New/UNION.md",
+                "file": "Data warehouse/Snowflake/Stored Procedure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNION"
+              "title": "Stored Procedure"
             }
           }
         ]
@@ -182,8 +182,10 @@
   },
   "active": "b8cf7bc0eddc98e1",
   "lastOpenFiles": [
-    "SQL_New/SET Operator.md",
+    "Data warehouse/Snowflake/Snowflake Functions.md",
+    "Data warehouse/Snowflake/UDF.md",
     "SQL_New/UNION.md",
+    "SQL_New/SET Operator.md",
     "SQL_New/Combining Data.md",
     "SQL_New/SQL.md",
     "SQL_New/Query Data.md",
@@ -208,8 +210,6 @@
     "Database Management Concepts/Data lineage.md",
     "SQL_New",
     "Data Modeling/Data modeling Techniques.md",
-    "Data warehouse/Snowflake/object tagging.md",
-    "New folder/Untitled.md",
     "Data warehouse/Databricks",
     "Data warehouse/Snowflake/RolesHierarchy.canvas",
     "images/Pasted image 20260122225447.png",
