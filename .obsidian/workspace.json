@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "SQL_New/Date & Time Functions.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 536.5
+    "width": 536.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
