@@ -12,7 +12,7 @@
 ### YEAR
   - Return Year from Date
 ### DATEPART or EXTRACT()
-- 
+- ho
 ### DATENAME
 ### DATETRUNC
 ### EOMONTH
