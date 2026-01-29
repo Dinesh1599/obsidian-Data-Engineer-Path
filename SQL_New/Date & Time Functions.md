@@ -41,6 +41,8 @@
 - Works on SQL Server and Databricks DATENAME(value,[date])
 - in postgres its to_char([date],format)
 ### DATETRUNC
+- It **truncates** (rounds down) a date/timestamp to a specified precision.
+- Syntax: DATE_TRUNC('month', [date column])
 ### EOMONTH
 
 ## Format and Casting
