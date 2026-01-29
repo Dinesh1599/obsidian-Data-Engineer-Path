@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL_New/Number Functions.md",
+                "file": "SQL_New/Date & Time Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Number Functions"
+              "title": "Date & Time Functions"
             }
           }
         ]
@@ -183,8 +183,15 @@
   "active": "8bb36002b09ef60b",
   "lastOpenFiles": [
     "SQL_New/Row-Level Functions.md",
-    "SQL_New/Number Functions.md",
+    "SQL_New/Date & Time Functions.md",
     "SQL_New/SQL.md",
+    "SQL_New/Combining Data.md",
+    "SQL_New/SET Operator.md",
+    "SQL_New/Joining Data.md",
+    "SQL/INNER JOIN.md",
+    "SQL_New/Filtering Data.md",
+    "SQL_New/Comparison Operator.md",
+    "SQL_New/Numeric Functions.md",
     "SQL/FULL OUTER JOIN.md",
     "SQL_New/String Calculation.md",
     "SQL_New/String Manipulation.md",
@@ -196,18 +203,11 @@
     "Data warehouse/Snowflake/Snowflake Functions.md",
     "Data warehouse/Snowflake/UDF.md",
     "SQL_New/UNION.md",
-    "SQL_New/SET Operator.md",
-    "SQL_New/Combining Data.md",
     "SQL_New/Query Data.md",
     "SQL/SQL Execution Order.md",
     "SQL/Wildcard Characters.md",
     "SQL_New/AI and SQL.md",
     "SQL_New/SQL Intro.md",
-    "SQL_New/Performance Optmization.md",
-    "Kafka/Producers.md",
-    "Kafka/Partitions.md",
-    "SQL/Aggregate Functions.md",
-    "SQL/SQL(old).md",
     "images/Screenshot 2026-01-27 at 10.17.36 AM.png",
     "SQL_New",
     "Data warehouse/Databricks",

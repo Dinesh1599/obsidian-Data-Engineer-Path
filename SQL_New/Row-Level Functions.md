@@ -1,5 +1,5 @@
 [[String Functions]]
-[[Number Functions]]
+[[Numeric Functions]]
 [[Date & Time Functions]]
 [[Null Functions]]
 [[Case Statement]]
