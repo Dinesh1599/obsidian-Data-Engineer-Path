@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data warehouse/Snowflake/Stored Procedure.md",
+                "file": "SQL_New/Stored Procedures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stored Procedure"
+              "title": "Stored Procedures"
             }
           }
         ]
@@ -180,14 +180,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8cf7bc0eddc98e1",
+  "active": "8bb36002b09ef60b",
   "lastOpenFiles": [
+    "Data warehouse/Snowflake/Stored Procedure.md",
+    "SQL_New/Stored Procedures.md",
+    "SQL_New/Advanced SQL Techniques.md",
+    "SQL_New/SQL.md",
+    "SQL_New/Aggregations and Analytical Functions.md",
+    "SQL_New/Row-Level Functions.md",
     "Data warehouse/Snowflake/Snowflake Functions.md",
     "Data warehouse/Snowflake/UDF.md",
     "SQL_New/UNION.md",
     "SQL_New/SET Operator.md",
     "SQL_New/Combining Data.md",
-    "SQL_New/SQL.md",
     "SQL_New/Query Data.md",
     "SQL/SQL Execution Order.md",
     "SQL/Wildcard Characters.md",
@@ -196,10 +201,7 @@
     "SQL_New/Performance Optmization.md",
     "Kafka/Producers.md",
     "Kafka/Partitions.md",
-    "SQL_New/Advanced SQL Techniques.md",
-    "SQL_New/Aggregations and Analytical Functions.md",
     "SQL/Aggregate Functions.md",
-    "SQL_New/Row-Level Functions.md",
     "SQL/SQL(old).md",
     "SQL_New/Joining Data.md",
     "SQL_New/Filtering Data.md",
@@ -207,9 +209,7 @@
     "SQL_New/Comparison Operator.md",
     "SQL/DML.md",
     "SQL/DDL.md",
-    "Database Management Concepts/Data lineage.md",
     "SQL_New",
-    "Data Modeling/Data modeling Techniques.md",
     "Data warehouse/Databricks",
     "Data warehouse/Snowflake/RolesHierarchy.canvas",
     "images/Pasted image 20260122225447.png",
